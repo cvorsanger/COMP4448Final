@@ -1,0 +1,1599 @@
+,timestamp,location,price,FirstName,LastName,Is_Loyalty,day,hour,minute,second,cents,CarID,CurrentEmploymentType,CurrentEmploymentTitle
+0,2014-01-06 07:28:00,Brew've Been Served,11.34,Edvard,Vann,True,6,7,28,0,34.0,34.0,Security,Perimeter Control
+1,2014-01-06 07:34:00,Hallowed Grounds,12.22,Hideki,Cocinaro,True,6,7,34,0,22.0,12.0,Security,Site Control
+2,2014-01-06 07:35:00,Brew've Been Served,8.33,Stenig,Fusil,True,6,7,35,0,33.0,20.0,Security,Building Control
+3,2014-01-06 07:36:00,Hallowed Grounds,16.72,Birgitta,Frente,True,6,7,36,0,72.0,18.0,Engineering,Geologist
+4,2014-01-06 07:37:00,Brew've Been Served,4.24,Sven,Flecha,True,6,7,37,0,24.0,17.0,Information Technology,IT Technician
+5,2014-01-06 07:38:00,Brew've Been Served,4.17,Cornelia,Lais,True,6,7,38,0,17.0,0.0,Other,Other
+6,2014-01-06 07:42:00,Coffee Cameleon,8.73,Linnea,Bergen,True,6,7,42,0,73.0,6.0,Information Technology,IT Group Manager
+7,2014-01-06 07:43:00,Brew've Been Served,9.6,Mat,Bramar,True,6,7,43,0,60.0,0.0,Other,Other
+8,2014-01-06 07:43:00,Brew've Been Served,16.9,Brand,Tempestad,True,6,7,43,0,90.0,33.0,Engineering,Drill Technician
+9,2014-01-06 07:47:00,Hallowed Grounds,16.53,Emile,Arpa,True,6,7,47,0,53.0,0.0,Other,Other
+10,2014-01-06 07:48:00,Hallowed Grounds,10.66,Kare,Orilla,True,6,7,48,0,66.0,27.0,Engineering,Drill Technician
+11,2014-01-06 07:49:00,Coffee Cameleon,8.39,Bertrand,Ovan,True,6,7,49,0,39.0,29.0,Facilities,Facilities Group Manager
+12,2014-01-06 07:52:00,Brew've Been Served,12.83,Hennie,Osvaldo,True,6,7,52,0,83.0,21.0,Security,Perimeter Control
+13,2014-01-06 07:54:00,Hallowed Grounds,16.88,Nils,Calixto,False,6,7,54,0,88.0,8.0,Information Technology,IT Technician
+14,2014-01-06 07:54:00,Coffee Cameleon,11.86,Adra,Nubarron,True,6,7,54,0,86.0,25.0,Engineering,Geologist
+15,2014-01-06 07:54:00,Hallowed Grounds,12.93,Rachel,Pantanal,True,6,7,54,0,93.0,0.0,Other,Other
+16,2014-01-06 07:55:00,Hallowed Grounds,8.05,Lucas,Alcazar,True,6,7,55,0,5.0,1.0,Information Technology,IT Helpdesk
+17,2014-01-06 07:55:00,Brew've Been Served,3.67,Varja,Lagos,True,6,7,55,0,67.0,23.0,Security,Badging Office
+18,2014-01-06 07:59:00,Brew've Been Served,8.88,Inga,Ferro,True,6,7,59,0,88.0,13.0,Security,Site Control
+19,2014-01-06 08:00:00,Brew've Been Served,4.27,Ruscella,Mies Haber,True,6,8,0,0,27.0,0.0,Other,Other
+20,2014-01-06 08:00:00,Hallowed Grounds,9.69,Anda,Ribera,False,6,8,0,0,69.0,0.0,Other,Other
+21,2014-01-06 08:01:00,Hallowed Grounds,10.07,Lidelse,Dedos,True,6,8,1,0,7.0,14.0,Engineering,Engineering Group Manager
+22,2014-01-06 08:06:00,Brew've Been Served,18.24,Loreto,Bodrogi,True,6,8,6,0,24.0,15.0,Security,Site Control
+23,2014-01-06 08:06:00,Brew've Been Served,15.58,Minke,Mies,True,6,8,6,0,58.0,24.0,Security,Perimeter Control
+24,2014-01-06 08:07:00,Brew've Been Served,5.66,Felix,Resumir,True,6,8,7,0,66.0,30.0,Security,Security Group Manager
+25,2014-01-06 08:14:00,Coffee Cameleon,3.2,Carla,Forluniau,False,6,8,14,0,20.0,0.0,Other,Other
+26,2014-01-06 08:16:00,Brew've Been Served,14.97,Kanon,Herrero,True,6,8,16,0,97.0,22.0,Security,Badging Office
+27,2014-01-06 08:16:00,Brew've Been Served,11.2,Linda,Lagos,True,6,8,16,0,20.0,0.0,Other,Other
+28,2014-01-06 08:17:00,Brew've Been Served,15.39,Dante,Coginian,True,6,8,17,0,39.0,0.0,Other,Other
+29,2014-01-06 08:23:00,Abila Airport,4540.08,Albina,Hafon,True,6,8,23,0,8.0,100.0,Facilities,Truck Driver
+30,2014-01-06 09:06:00,Kronos Pipe and Irrigation,242.21,Albina,Hafon,True,6,9,6,0,21.0,100.0,Facilities,Truck Driver
+31,2014-01-06 10:02:00,Nationwide Refinery,761.64,Cecilia,Morluniau,True,6,10,2,0,64.0,100.0,Facilities,Truck Driver
+32,2014-01-06 10:18:00,Maximum Iron and Steel,2859.51,Albina,Hafon,True,6,10,18,0,51.0,100.0,Facilities,Truck Driver
+33,2014-01-06 11:33:00,Stewart and Sons Fabrication,2144.62,Cecilia,Morluniau,True,6,11,33,0,62.0,100.0,Facilities,Truck Driver
+34,2014-01-06 11:57:00,Carlyle Chemical Inc.,3959.66,Albina,Hafon,True,6,11,57,0,66.0,100.0,Facilities,Truck Driver
+35,2014-01-06 12:00:00,Coffee Shack,11.51,Varro,Awelon,True,6,12,0,0,51.0,0.0,Other,Other
+36,2014-01-06 12:00:00,Bean There Done That,10.28,Lars,Azada,True,6,12,0,0,28.0,2.0,Engineering,Engineer
+37,2014-01-06 12:00:00,Bean There Done That,16.09,Felix,Balas,True,6,12,0,0,9.0,3.0,Engineering,Engineer
+38,2014-01-06 12:00:00,Brewed Awakenings,5.72,Ingrid,Barranco,True,6,12,0,0,72.0,4.0,Executive,SVP/CFO
+39,2014-01-06 12:00:00,Jack's Magical Beans,11.03,Isak,Baza,True,6,12,0,0,3.0,5.0,Information Technology,IT Technician
+40,2014-01-06 12:00:00,Brewed Awakenings,16.89,Isande,Borrasca,True,6,12,0,0,89.0,7.0,Engineering,Drill Technician
+41,2014-01-06 12:00:00,Bean There Done That,8.54,Axel,Calzas,True,6,12,0,0,54.0,9.0,Engineering,Drill Technician
+42,2014-01-06 12:00:00,Brewed Awakenings,4.35,Ada,Campo-Corrente,True,6,12,0,0,35.0,10.0,Executive,SVP/CIO
+43,2014-01-06 12:00:00,Bean There Done That,5.24,Gustav,Cazar,True,6,12,0,0,24.0,11.0,Engineering,Hydraulic Technician
+44,2014-01-06 12:00:00,Bean There Done That,4.27,Vira,Frente,True,6,12,0,0,27.0,19.0,Engineering,Hydraulic Technician
+45,2014-01-06 12:00:00,Jack's Magical Beans,18.59,Elsa,Orilla,True,6,12,0,0,59.0,28.0,Engineering,Drill Technician
+46,2014-01-06 12:00:00,Jack's Magical Beans,7.84,Orhan,Strum,True,6,12,0,0,84.0,32.0,Executive,SVP/COO
+47,2014-01-06 12:00:00,Jack's Magical Beans,18.1,Willem,Vasco-Pais,True,6,12,0,0,10.0,35.0,Executive,Environmental Safety Advisor
+48,2014-01-06 12:16:00,Abila Airport,1873.79,Henk,Mies,False,6,12,16,0,79.0,100.0,Facilities,Truck Driver
+49,2014-01-06 12:56:00,Katerina’s Café,13.68,Ada,Campo-Corrente,False,6,12,56,0,68.0,10.0,Executive,SVP/CIO
+50,2014-01-06 12:57:00,Hippokampos,9.16,Orhan,Strum,False,6,12,57,0,16.0,32.0,Executive,SVP/COO
+51,2014-01-06 13:18:00,Abila Zacharo,26.93,Carla,Forluniau,True,6,13,18,0,93.0,0.0,Other,Other
+52,2014-01-06 13:19:00,Gelatogalore,12.74,Linnea,Bergen,True,6,13,19,0,74.0,6.0,Information Technology,IT Group Manager
+53,2014-01-06 13:19:00,Kalami Kafenion,30.1,Varja,Lagos,True,6,13,19,0,10.0,23.0,Security,Badging Office
+54,2014-01-06 13:20:00,Hippokampos,34.03,Anda,Ribera,True,6,13,20,0,3.0,0.0,Other,Other
+55,2014-01-06 13:21:00,Hippokampos,28.23,Lucas,Alcazar,False,6,13,21,0,23.0,1.0,Information Technology,IT Helpdesk
+56,2014-01-06 13:22:00,Ouzeri Elian,38.9,Isande,Borrasca,True,6,13,22,0,90.0,7.0,Engineering,Drill Technician
+57,2014-01-06 13:23:00,Hippokampos,13.26,Edvard,Vann,True,6,13,23,0,26.0,34.0,Security,Perimeter Control
+58,2014-01-06 13:24:00,Guy's Gyros,15.44,Lars,Azada,True,6,13,24,0,44.0,2.0,Engineering,Engineer
+59,2014-01-06 13:27:00,Abila Zacharo,30.08,Ingrid,Barranco,True,6,13,27,0,8.0,4.0,Executive,SVP/CFO
+60,2014-01-06 13:27:00,Abila Zacharo,50.14,Kanon,Herrero,False,6,13,27,0,14.0,22.0,Security,Badging Office
+61,2014-01-06 13:28:00,Katerina’s Café,33.54,Linda,Lagos,True,6,13,28,0,54.0,0.0,Other,Other
+62,2014-01-06 13:28:00,Kalami Kafenion,8.64,Ruscella,Mies Haber,True,6,13,28,0,64.0,0.0,Other,Other
+63,2014-01-06 13:30:00,Guy's Gyros,16.92,Sven,Flecha,True,6,13,30,0,92.0,17.0,Information Technology,IT Technician
+64,2014-01-06 13:35:00,Hippokampos,36.54,Rachel,Pantanal,True,6,13,35,0,54.0,0.0,Other,Other
+65,2014-01-06 13:35:00,Abila Zacharo,12.05,Isia,Vann,True,6,13,35,0,5.0,16.0,Security,Perimeter Control
+66,2014-01-06 13:37:00,Ouzeri Elian,20.56,Stenig,Fusil,True,6,13,37,0,56.0,20.0,Security,Building Control
+67,2014-01-06 13:39:00,Guy's Gyros,11.22,Marin,Onda,True,6,13,39,0,22.0,26.0,Engineering,Drill Site Manager
+68,2014-01-06 13:41:00,Gelatogalore,22.64,Nils,Calixto,True,6,13,41,0,64.0,8.0,Information Technology,IT Technician
+69,2014-01-06 13:42:00,Ouzeri Elian,20.4,Vira,Frente,True,6,13,42,0,40.0,19.0,Engineering,Hydraulic Technician
+70,2014-01-06 13:46:00,Guy's Gyros,30.82,Felix,Balas,True,6,13,46,0,82.0,3.0,Engineering,Engineer
+71,2014-01-06 13:46:00,Katerina’s Café,18.56,Isak,Baza,True,6,13,46,0,56.0,5.0,Information Technology,IT Technician
+72,2014-01-06 13:46:00,Guy's Gyros,19.67,Willem,Vasco-Pais,True,6,13,46,0,67.0,35.0,Executive,Environmental Safety Advisor
+73,2014-01-06 13:47:00,Kalami Kafenion,22.13,Gustav,Cazar,False,6,13,47,0,13.0,11.0,Engineering,Hydraulic Technician
+74,2014-01-06 13:48:00,Ouzeri Elian,20.74,Cornelia,Lais,True,6,13,48,0,74.0,0.0,Other,Other
+75,2014-01-06 13:48:00,Ouzeri Elian,30.87,Bertrand,Ovan,True,6,13,48,0,87.0,29.0,Facilities,Facilities Group Manager
+76,2014-01-06 13:50:00,Katerina’s Café,13.59,Lidelse,Dedos,True,6,13,50,0,59.0,14.0,Engineering,Engineering Group Manager
+77,2014-01-06 13:50:00,Katerina’s Café,32.64,Birgitta,Frente,True,6,13,50,0,64.0,18.0,Engineering,Geologist
+78,2014-01-06 13:52:00,Kalami Kafenion,22.31,Minke,Mies,True,6,13,52,0,31.0,24.0,Security,Perimeter Control
+79,2014-01-06 13:52:00,Gelatogalore,36.33,Kare,Orilla,True,6,13,52,0,33.0,27.0,Engineering,Drill Technician
+80,2014-01-06 13:53:00,Katerina’s Café,36.95,Adra,Nubarron,False,6,13,53,0,95.0,25.0,Engineering,Geologist
+81,2014-01-06 13:54:00,Abila Zacharo,23.15,Hennie,Osvaldo,True,6,13,54,0,15.0,21.0,Security,Perimeter Control
+82,2014-01-06 13:57:00,Hippokampos,8.64,Axel,Calzas,True,6,13,57,0,64.0,9.0,Engineering,Drill Technician
+83,2014-01-06 13:58:00,Hippokampos,38.25,Dante,Coginian,True,6,13,58,0,25.0,0.0,Other,Other
+84,2014-01-06 13:59:00,Katerina’s Café,39.41,Loreto,Bodrogi,True,6,13,59,0,41.0,15.0,Security,Site Control
+85,2014-01-06 14:00:00,Kalami Kafenion,13.08,Varro,Awelon,True,6,14,0,0,8.0,0.0,Other,Other
+86,2014-01-06 14:00:00,Gelatogalore,23.41,Inga,Ferro,True,6,14,0,0,41.0,13.0,Security,Site Control
+87,2014-01-06 14:04:00,Hippokampos,30.88,Mat,Bramar,True,6,14,4,0,88.0,0.0,Other,Other
+88,2014-01-06 14:05:00,Abila Zacharo,18.11,Hideki,Cocinaro,True,6,14,5,0,11.0,12.0,Security,Site Control
+89,2014-01-06 14:15:00,Kalami Kafenion,27.4,Emile,Arpa,True,6,14,15,0,40.0,0.0,Other,Other
+90,2014-01-06 14:17:00,Katerina’s Café,19.65,Felix,Resumir,True,6,14,17,0,65.0,30.0,Security,Security Group Manager
+91,2014-01-06 15:14:00,Abila Airport,777.06,Albina,Hafon,True,6,15,14,0,6.0,100.0,Facilities,Truck Driver
+92,2014-01-06 15:39:00,Abila Airport,612.47,Henk,Mies,True,6,15,39,0,47.0,100.0,Facilities,Truck Driver
+93,2014-01-06 17:28:00,U-Pump,59.51,Varja,Lagos,True,6,17,28,0,51.0,23.0,Security,Badging Office
+94,2014-01-06 18:56:00,Katerina’s Café,38.65,Linda,Lagos,True,6,18,56,0,65.0,0.0,Other,Other
+95,2014-01-06 19:08:00,Katerina’s Café,26.46,Emile,Arpa,True,6,19,8,0,46.0,0.0,Other,Other
+96,2014-01-06 19:18:00,Guy's Gyros,39.29,Sven,Flecha,True,6,19,18,0,29.0,17.0,Information Technology,IT Technician
+97,2014-01-06 19:50:00,Frydos Autosupply n' More,253.87,Elsa,Orilla,True,6,19,50,0,87.0,28.0,Engineering,Drill Technician
+98,2014-01-06 20:07:00,Katerina’s Café,23.63,Linnea,Bergen,True,6,20,7,0,63.0,6.0,Information Technology,IT Group Manager
+99,2014-01-06 20:08:00,Katerina’s Café,12.32,Lidelse,Dedos,True,6,20,8,0,32.0,14.0,Engineering,Engineering Group Manager
+100,2014-01-06 20:09:00,Guy's Gyros,11.94,Felix,Resumir,True,6,20,9,0,94.0,30.0,Security,Security Group Manager
+101,2014-01-06 20:12:00,Frydos Autosupply n' More,80.85,Dante,Coginian,True,6,20,12,0,85.0,0.0,Other,Other
+102,2014-01-06 20:13:00,Guy's Gyros,22.57,Varja,Lagos,True,6,20,13,0,57.0,23.0,Security,Badging Office
+103,2014-01-06 20:15:00,Guy's Gyros,37.82,Stenig,Fusil,True,6,20,15,0,82.0,20.0,Security,Building Control
+104,2014-01-06 20:15:00,Frydos Autosupply n' More,175.87,Cornelia,Lais,True,6,20,15,0,87.0,0.0,Other,Other
+105,2014-01-06 20:19:00,Katerina’s Café,21.66,Carla,Forluniau,False,6,20,19,0,66.0,0.0,Other,Other
+106,2014-01-06 20:20:00,Hippokampos,35.34,Gustav,Cazar,True,6,20,20,0,34.0,11.0,Engineering,Hydraulic Technician
+107,2014-01-06 20:24:00,Guy's Gyros,28.94,Inga,Ferro,True,6,20,24,0,94.0,13.0,Security,Site Control
+108,2014-01-06 20:26:00,Albert's Fine Clothing,276.9,Lucas,Alcazar,True,6,20,26,0,90.0,1.0,Information Technology,IT Helpdesk
+109,2014-01-06 20:28:00,Guy's Gyros,15.29,Hideki,Cocinaro,True,6,20,28,0,29.0,12.0,Security,Site Control
+110,2014-01-06 20:29:00,Hippokampos,25.5,Vira,Frente,True,6,20,29,0,50.0,19.0,Engineering,Hydraulic Technician
+111,2014-01-06 20:29:00,Katerina’s Café,17.92,Hennie,Osvaldo,True,6,20,29,0,92.0,21.0,Security,Perimeter Control
+112,2014-01-06 20:30:00,Katerina’s Café,28.0,Anda,Ribera,True,6,20,30,0,0.0,0.0,Other,Other
+113,2014-01-06 20:33:00,Katerina’s Café,15.52,Bertrand,Ovan,True,6,20,33,0,52.0,29.0,Facilities,Facilities Group Manager
+114,2014-01-06 20:36:00,Hippokampos,26.8,Axel,Calzas,True,6,20,36,0,80.0,9.0,Engineering,Drill Technician
+115,2014-01-06 20:46:00,Hippokampos,24.41,Varro,Awelon,True,6,20,46,0,41.0,0.0,Other,Other
+116,2014-01-06 20:46:00,Hippokampos,21.33,Lars,Azada,True,6,20,46,0,33.0,2.0,Engineering,Engineer
+117,2014-01-06 20:47:00,Frydos Autosupply n' More,89.3,Ruscella,Mies Haber,True,6,20,47,0,30.0,0.0,Other,Other
+118,2014-01-06 20:49:00,Shoppers' Delight,293.67,Isia,Vann,True,6,20,49,0,67.0,16.0,Security,Perimeter Control
+119,2014-01-06 20:52:00,Hippokampos,17.27,Ingrid,Barranco,True,6,20,52,0,27.0,4.0,Executive,SVP/CFO
+120,2014-01-06 20:59:00,Katerina’s Café,26.1,Kare,Orilla,True,6,20,59,0,10.0,27.0,Engineering,Drill Technician
+121,2014-01-06 21:03:00,Katerina’s Café,10.72,Birgitta,Frente,False,6,21,3,0,72.0,18.0,Engineering,Geologist
+122,2014-01-06 21:03:00,Albert's Fine Clothing,121.76,Minke,Mies,True,6,21,3,0,76.0,24.0,Security,Perimeter Control
+123,2014-01-06 21:11:00,Hippokampos,28.14,Orhan,Strum,False,6,21,11,0,14.0,32.0,Executive,SVP/COO
+124,2014-01-06 21:12:00,Katerina’s Café,26.51,Mat,Bramar,True,6,21,12,0,51.0,0.0,Other,Other
+125,2014-01-06 21:23:00,Frydos Autosupply n' More,197.32,Adra,Nubarron,True,6,21,23,0,32.0,25.0,Engineering,Geologist
+126,2014-01-06 21:32:00,Frydos Autosupply n' More,274.98,Marin,Onda,True,6,21,32,0,98.0,26.0,Engineering,Drill Site Manager
+127,2014-01-06 21:52:00,Hippokampos,20.61,Ada,Campo-Corrente,True,6,21,52,0,61.0,10.0,Executive,SVP/CIO
+128,2014-01-07 07:27:00,Brew've Been Served,5.08,Sven,Flecha,True,7,7,27,0,8.0,17.0,Information Technology,IT Technician
+129,2014-01-07 07:31:00,Brew've Been Served,12.74,Cornelia,Lais,True,7,7,31,0,74.0,0.0,Other,Other
+130,2014-01-07 07:33:00,Brew've Been Served,7.09,Edvard,Vann,False,7,7,33,0,9.0,34.0,Security,Perimeter Control
+131,2014-01-07 07:35:00,Hallowed Grounds,14.05,Nils,Calixto,True,7,7,35,0,5.0,8.0,Information Technology,IT Technician
+132,2014-01-07 07:37:00,Hallowed Grounds,8.91,Emile,Arpa,True,7,7,37,0,91.0,0.0,Other,Other
+133,2014-01-07 07:41:00,Hallowed Grounds,19.59,Lidelse,Dedos,False,7,7,41,0,59.0,14.0,Engineering,Engineering Group Manager
+134,2014-01-07 07:45:00,Brew've Been Served,19.6,Stenig,Fusil,False,7,7,45,0,60.0,20.0,Security,Building Control
+135,2014-01-07 07:46:00,Hallowed Grounds,4.44,Lucas,Alcazar,True,7,7,46,0,44.0,1.0,Information Technology,IT Helpdesk
+136,2014-01-07 07:46:00,Coffee Cameleon,9.1,Bertrand,Ovan,True,7,7,46,0,10.0,29.0,Facilities,Facilities Group Manager
+137,2014-01-07 07:47:00,Hallowed Grounds,7.88,Marin,Onda,True,7,7,47,0,88.0,26.0,Engineering,Drill Site Manager
+138,2014-01-07 07:48:00,Hallowed Grounds,18.97,Hideki,Cocinaro,True,7,7,48,0,97.0,12.0,Security,Site Control
+139,2014-01-07 07:49:00,Coffee Cameleon,7.66,Linnea,Bergen,True,7,7,49,0,66.0,6.0,Information Technology,IT Group Manager
+140,2014-01-07 07:50:00,Brew've Been Served,4.39,Ruscella,Mies Haber,True,7,7,50,0,39.0,0.0,Other,Other
+141,2014-01-07 07:50:00,Hallowed Grounds,9.61,Kare,Orilla,True,7,7,50,0,61.0,27.0,Engineering,Drill Technician
+142,2014-01-07 07:52:00,Brew've Been Served,3.0,Minke,Mies,True,7,7,52,0,0.0,24.0,Security,Perimeter Control
+143,2014-01-07 07:54:00,Brew've Been Served,11.92,Kanon,Herrero,True,7,7,54,0,92.0,22.0,Security,Badging Office
+144,2014-01-07 07:55:00,Brew've Been Served,9.06,Varja,Lagos,True,7,7,55,0,6.0,23.0,Security,Badging Office
+145,2014-01-07 07:56:00,Brew've Been Served,18.53,Brand,Tempestad,True,7,7,56,0,53.0,33.0,Engineering,Drill Technician
+146,2014-01-07 07:57:00,Hallowed Grounds,10.33,Anda,Ribera,True,7,7,57,0,33.0,0.0,Other,Other
+147,2014-01-07 07:58:00,Brew've Been Served,17.4,Dante,Coginian,True,7,7,58,0,40.0,0.0,Other,Other
+148,2014-01-07 08:00:00,Brew've Been Served,11.91,Mat,Bramar,True,7,8,0,0,91.0,0.0,Other,Other
+149,2014-01-07 08:00:00,Coffee Cameleon,11.55,Adra,Nubarron,True,7,8,0,0,55.0,25.0,Engineering,Geologist
+150,2014-01-07 08:01:00,Coffee Cameleon,12.44,Carla,Forluniau,True,7,8,1,0,44.0,0.0,Other,Other
+151,2014-01-07 08:01:00,Hallowed Grounds,9.92,Birgitta,Frente,True,7,8,1,0,92.0,18.0,Engineering,Geologist
+152,2014-01-07 08:01:00,Hallowed Grounds,8.42,Rachel,Pantanal,True,7,8,1,0,42.0,0.0,Other,Other
+153,2014-01-07 08:02:00,Brew've Been Served,14.49,Hennie,Osvaldo,True,7,8,2,0,49.0,21.0,Security,Perimeter Control
+154,2014-01-07 08:06:00,Brew've Been Served,3.03,Inga,Ferro,False,7,8,6,0,3.0,13.0,Security,Site Control
+155,2014-01-07 08:09:00,Brew've Been Served,15.66,Linda,Lagos,True,7,8,9,0,66.0,0.0,Other,Other
+156,2014-01-07 08:18:00,Brew've Been Served,7.74,Felix,Resumir,True,7,8,18,0,74.0,30.0,Security,Security Group Manager
+157,2014-01-07 09:17:00,Abila Airport,3840.37,Benito,Hawelon,True,7,9,17,0,37.0,100.0,Facilities,Truck Driver
+158,2014-01-07 10:05:00,Stewart and Sons Fabrication,1200.9,Benito,Hawelon,True,7,10,5,0,90.0,100.0,Facilities,Truck Driver
+159,2014-01-07 10:11:00,Nationwide Refinery,1347.36,Cecilia,Morluniau,True,7,10,11,0,36.0,100.0,Facilities,Truck Driver
+160,2014-01-07 11:31:00,Stewart and Sons Fabrication,1783.33,Cecilia,Morluniau,True,7,11,31,0,33.0,100.0,Facilities,Truck Driver
+161,2014-01-07 11:39:00,Nationwide Refinery,1562.66,Valeria,Morlun,True,7,11,39,0,66.0,100.0,Facilities,Truck Driver
+162,2014-01-07 12:00:00,Coffee Shack,16.63,Varro,Awelon,True,7,12,0,0,63.0,0.0,Other,Other
+163,2014-01-07 12:00:00,Bean There Done That,11.25,Lars,Azada,True,7,12,0,0,25.0,2.0,Engineering,Engineer
+164,2014-01-07 12:00:00,Brewed Awakenings,12.17,Ingrid,Barranco,False,7,12,0,0,17.0,4.0,Executive,SVP/CFO
+165,2014-01-07 12:00:00,Jack's Magical Beans,3.68,Isak,Baza,True,7,12,0,0,68.0,5.0,Information Technology,IT Technician
+166,2014-01-07 12:00:00,Brewed Awakenings,4.84,Loreto,Bodrogi,True,7,12,0,0,84.0,15.0,Security,Site Control
+167,2014-01-07 12:00:00,Brewed Awakenings,11.59,Isande,Borrasca,True,7,12,0,0,59.0,7.0,Engineering,Drill Technician
+168,2014-01-07 12:00:00,Bean There Done That,13.89,Axel,Calzas,True,7,12,0,0,89.0,9.0,Engineering,Drill Technician
+169,2014-01-07 12:00:00,Brewed Awakenings,6.72,Ada,Campo-Corrente,True,7,12,0,0,72.0,10.0,Executive,SVP/CIO
+170,2014-01-07 12:00:00,Bean There Done That,8.03,Gustav,Cazar,True,7,12,0,0,3.0,11.0,Engineering,Hydraulic Technician
+171,2014-01-07 12:00:00,Bean There Done That,6.25,Vira,Frente,True,7,12,0,0,25.0,19.0,Engineering,Hydraulic Technician
+172,2014-01-07 12:00:00,Jack's Magical Beans,18.77,Elsa,Orilla,True,7,12,0,0,77.0,28.0,Engineering,Drill Technician
+173,2014-01-07 12:00:00,Jack's Magical Beans,19.61,Orhan,Strum,True,7,12,0,0,61.0,32.0,Executive,SVP/COO
+174,2014-01-07 12:00:00,Jack's Magical Beans,9.84,Willem,Vasco-Pais,True,7,12,0,0,84.0,35.0,Executive,Environmental Safety Advisor
+175,2014-01-07 12:02:00,Nationwide Refinery,1071.04,Benito,Hawelon,False,7,12,2,0,4.0,100.0,Facilities,Truck Driver
+176,2014-01-07 12:29:00,Abila Airport,124.89,Henk,Mies,True,7,12,29,0,89.0,100.0,Facilities,Truck Driver
+177,2014-01-07 13:08:00,Katerina’s Café,19.07,Valeria,Morlun,True,7,13,8,0,7.0,100.0,Facilities,Truck Driver
+178,2014-01-07 13:13:00,Guy's Gyros,29.57,Orhan,Strum,True,7,13,13,0,57.0,32.0,Executive,SVP/COO
+179,2014-01-07 13:20:00,Abila Zacharo,13.52,Lars,Azada,True,7,13,20,0,52.0,2.0,Engineering,Engineer
+180,2014-01-07 13:20:00,Gelatogalore,35.06,Ada,Campo-Corrente,True,7,13,20,0,6.0,10.0,Executive,SVP/CIO
+181,2014-01-07 13:20:00,Guy's Gyros,38.56,Isia,Vann,True,7,13,20,0,56.0,16.0,Security,Perimeter Control
+182,2014-01-07 13:24:00,Kalami Kafenion,45.05,Kanon,Herrero,False,7,13,24,0,5.0,22.0,Security,Badging Office
+183,2014-01-07 13:24:00,Kalami Kafenion,11.64,Ruscella,Mies Haber,True,7,13,24,0,64.0,0.0,Other,Other
+184,2014-01-07 13:25:00,Abila Zacharo,22.25,Isak,Baza,True,7,13,25,0,25.0,5.0,Information Technology,IT Technician
+185,2014-01-07 13:29:00,Ouzeri Elian,29.1,Adra,Nubarron,True,7,13,29,0,10.0,25.0,Engineering,Geologist
+186,2014-01-07 13:30:00,Gelatogalore,51.64,Marin,Onda,False,7,13,30,0,64.0,26.0,Engineering,Drill Site Manager
+187,2014-01-07 13:32:00,Ouzeri Elian,28.37,Mat,Bramar,True,7,13,32,0,37.0,0.0,Other,Other
+188,2014-01-07 13:33:00,Abila Zacharo,12.72,Ingrid,Barranco,True,7,13,33,0,72.0,4.0,Executive,SVP/CFO
+189,2014-01-07 13:33:00,Gelatogalore,34.04,Linnea,Bergen,True,7,13,33,0,4.0,6.0,Information Technology,IT Group Manager
+190,2014-01-07 13:33:00,Katerina’s Café,22.27,Nils,Calixto,True,7,13,33,0,27.0,8.0,Information Technology,IT Technician
+191,2014-01-07 13:33:00,Guy's Gyros,11.31,Stenig,Fusil,True,7,13,33,0,31.0,20.0,Security,Building Control
+192,2014-01-07 13:33:00,Kalami Kafenion,18.06,Edvard,Vann,True,7,13,33,0,6.0,34.0,Security,Perimeter Control
+193,2014-01-07 13:34:00,Ouzeri Elian,24.84,Vira,Frente,True,7,13,34,0,84.0,19.0,Engineering,Hydraulic Technician
+194,2014-01-07 13:35:00,Gelatogalore,8.98,Willem,Vasco-Pais,True,7,13,35,0,98.0,35.0,Executive,Environmental Safety Advisor
+195,2014-01-07 13:37:00,Gelatogalore,21.52,Lucas,Alcazar,True,7,13,37,0,52.0,1.0,Information Technology,IT Helpdesk
+196,2014-01-07 13:39:00,Gelatogalore,17.21,Hennie,Osvaldo,True,7,13,39,0,21.0,21.0,Security,Perimeter Control
+197,2014-01-07 13:41:00,Katerina’s Café,31.41,Varja,Lagos,True,7,13,41,0,41.0,23.0,Security,Badging Office
+198,2014-01-07 13:41:00,Abila Zacharo,17.81,Brand,Tempestad,True,7,13,41,0,81.0,33.0,Engineering,Drill Technician
+199,2014-01-07 13:42:00,Ouzeri Elian,17.71,Cornelia,Lais,True,7,13,42,0,71.0,0.0,Other,Other
+200,2014-01-07 13:44:00,Abila Zacharo,32.4,Carla,Forluniau,True,7,13,44,0,40.0,0.0,Other,Other
+201,2014-01-07 13:45:00,Kalami Kafenion,22.83,Axel,Calzas,True,7,13,45,0,83.0,9.0,Engineering,Drill Technician
+202,2014-01-07 13:46:00,Guy's Gyros,10.11,Felix,Balas,True,7,13,46,0,11.0,3.0,Engineering,Engineer
+203,2014-01-07 13:46:00,Kalami Kafenion,22.14,Hideki,Cocinaro,True,7,13,46,0,14.0,12.0,Security,Site Control
+204,2014-01-07 13:49:00,Gelatogalore,36.5,Rachel,Pantanal,True,7,13,49,0,50.0,0.0,Other,Other
+205,2014-01-07 13:50:00,Ouzeri Elian,21.85,Linda,Lagos,True,7,13,50,0,85.0,0.0,Other,Other
+206,2014-01-07 13:52:00,Gelatogalore,31.77,Lidelse,Dedos,True,7,13,52,0,77.0,14.0,Engineering,Engineering Group Manager
+207,2014-01-07 13:53:00,Hippokampos,31.69,Loreto,Bodrogi,True,7,13,53,0,69.0,15.0,Security,Site Control
+208,2014-01-07 13:54:00,Gelatogalore,8.97,Bertrand,Ovan,True,7,13,54,0,97.0,29.0,Facilities,Facilities Group Manager
+209,2014-01-07 13:55:00,Abila Zacharo,25.9,Inga,Ferro,True,7,13,55,0,90.0,13.0,Security,Site Control
+210,2014-01-07 13:56:00,Ouzeri Elian,16.2,Gustav,Cazar,False,7,13,56,0,20.0,11.0,Engineering,Hydraulic Technician
+211,2014-01-07 13:57:00,Katerina’s Café,37.44,Dante,Coginian,True,7,13,57,0,44.0,0.0,Other,Other
+212,2014-01-07 13:57:00,Gelatogalore,15.4,Anda,Ribera,True,7,13,57,0,40.0,0.0,Other,Other
+213,2014-01-07 14:00:00,Hippokampos,16.11,Kare,Orilla,True,7,14,0,0,11.0,27.0,Engineering,Drill Technician
+214,2014-01-07 14:07:00,Katerina’s Café,10.9,Minke,Mies,True,7,14,7,0,90.0,24.0,Security,Perimeter Control
+215,2014-01-07 14:09:00,Guy's Gyros,12.57,Birgitta,Frente,True,7,14,9,0,57.0,18.0,Engineering,Geologist
+216,2014-01-07 14:09:00,Ouzeri Elian,19.51,Felix,Resumir,True,7,14,9,0,51.0,30.0,Security,Security Group Manager
+217,2014-01-07 14:11:00,Hippokampos,37.57,Emile,Arpa,True,7,14,11,0,57.0,0.0,Other,Other
+218,2014-01-07 14:16:00,Abila Scrapyard,2149.28,Dylan,Scozzese,True,7,14,16,0,28.0,100.0,Facilities,Truck Driver
+219,2014-01-07 14:19:00,Kronos Pipe and Irrigation,3920.82,Irene,Nant,True,7,14,19,0,82.0,100.0,Facilities,Truck Driver
+220,2014-01-07 14:34:00,Carlyle Chemical Inc.,4803.13,Valeria,Morlun,False,7,14,34,0,13.0,100.0,Facilities,Truck Driver
+221,2014-01-07 15:03:00,Stewart and Sons Fabrication,962.2,Dylan,Scozzese,False,7,15,3,0,20.0,100.0,Facilities,Truck Driver
+222,2014-01-07 15:20:00,Maximum Iron and Steel,3207.31,Irene,Nant,True,7,15,20,0,31.0,100.0,Facilities,Truck Driver
+223,2014-01-07 15:41:00,Abila Airport,3411.29,Henk,Mies,True,7,15,41,0,29.0,100.0,Facilities,Truck Driver
+224,2014-01-07 16:24:00,Nationwide Refinery,889.58,Dylan,Scozzese,True,7,16,24,0,58.0,100.0,Facilities,Truck Driver
+225,2014-01-07 19:45:00,Guy's Gyros,14.87,Inga,Ferro,True,7,19,45,0,87.0,13.0,Security,Site Control
+226,2014-01-07 19:48:00,Guy's Gyros,31.23,Varja,Lagos,True,7,19,48,0,23.0,23.0,Security,Badging Office
+227,2014-01-07 20:01:00,Hippokampos,20.17,Axel,Calzas,True,7,20,1,0,17.0,9.0,Engineering,Drill Technician
+228,2014-01-07 20:02:00,Hippokampos,11.56,Lars,Azada,True,7,20,2,0,56.0,2.0,Engineering,Engineer
+229,2014-01-07 20:04:00,Albert's Fine Clothing,228.36,Vira,Frente,True,7,20,4,0,36.0,19.0,Engineering,Hydraulic Technician
+230,2014-01-07 20:09:00,Katerina’s Café,19.49,Linnea,Bergen,True,7,20,9,0,49.0,6.0,Information Technology,IT Group Manager
+231,2014-01-07 20:10:00,Albert's Fine Clothing,78.91,Varro,Awelon,True,7,20,10,0,91.0,0.0,Other,Other
+232,2014-01-07 20:10:00,Guy's Gyros,22.25,Sven,Flecha,True,7,20,10,0,25.0,17.0,Information Technology,IT Technician
+233,2014-01-07 20:10:00,Guy's Gyros,26.82,Edvard,Vann,False,7,20,10,0,82.0,34.0,Security,Perimeter Control
+234,2014-01-07 20:11:00,Katerina’s Café,10.07,Adra,Nubarron,True,7,20,11,0,7.0,25.0,Engineering,Geologist
+235,2014-01-07 20:11:00,Guy's Gyros,76.71,Brand,Tempestad,False,7,20,11,0,71.0,33.0,Engineering,Drill Technician
+236,2014-01-07 20:12:00,Katerina’s Café,55.63,Lidelse,Dedos,False,7,20,12,0,63.0,14.0,Engineering,Engineering Group Manager
+237,2014-01-07 20:13:00,Katerina’s Café,14.75,Nils,Calixto,True,7,20,13,0,75.0,8.0,Information Technology,IT Technician
+238,2014-01-07 20:13:00,Katerina’s Café,25.02,Dante,Coginian,True,7,20,13,0,2.0,0.0,Other,Other
+239,2014-01-07 20:14:00,Guy's Gyros,22.33,Loreto,Bodrogi,True,7,20,14,0,33.0,15.0,Security,Site Control
+240,2014-01-07 20:15:00,Ouzeri Elian,11.41,Elsa,Orilla,True,7,20,15,0,41.0,28.0,Engineering,Drill Technician
+241,2014-01-07 20:18:00,Katerina’s Café,31.6,Linda,Lagos,True,7,20,18,0,60.0,0.0,Other,Other
+242,2014-01-07 20:19:00,Guy's Gyros,9.76,Isia,Vann,True,7,20,19,0,76.0,16.0,Security,Perimeter Control
+243,2014-01-07 20:20:00,Frydos Autosupply n' More,272.73,Felix,Resumir,True,7,20,20,0,73.0,30.0,Security,Security Group Manager
+244,2014-01-07 20:32:00,Katerina’s Café,19.53,Bertrand,Ovan,True,7,20,32,0,53.0,29.0,Facilities,Facilities Group Manager
+245,2014-01-07 20:33:00,Katerina’s Café,17.26,Birgitta,Frente,True,7,20,33,0,26.0,18.0,Engineering,Geologist
+246,2014-01-07 20:33:00,Katerina’s Café,25.54,Anda,Ribera,True,7,20,33,0,54.0,0.0,Other,Other
+247,2014-01-07 20:34:00,Hippokampos,10.19,Gustav,Cazar,True,7,20,34,0,19.0,11.0,Engineering,Hydraulic Technician
+248,2014-01-07 20:34:00,Guy's Gyros,23.12,Cornelia,Lais,True,7,20,34,0,12.0,0.0,Other,Other
+249,2014-01-07 20:47:00,Katerina’s Café,32.83,Kare,Orilla,True,7,20,47,0,83.0,27.0,Engineering,Drill Technician
+250,2014-01-07 20:49:00,Ouzeri Elian,20.53,Rachel,Pantanal,True,7,20,49,0,53.0,0.0,Other,Other
+251,2014-01-07 20:51:00,Hippokampos,32.99,Orhan,Strum,False,7,20,51,0,99.0,32.0,Executive,SVP/COO
+252,2014-01-07 21:01:00,Katerina’s Café,33.29,Hennie,Osvaldo,True,7,21,1,0,29.0,21.0,Security,Perimeter Control
+253,2014-01-07 21:03:00,Hippokampos,21.2,Isande,Borrasca,True,7,21,3,0,20.0,7.0,Engineering,Drill Technician
+254,2014-01-07 21:17:00,Hippokampos,37.88,Willem,Vasco-Pais,True,7,21,17,0,88.0,35.0,Executive,Environmental Safety Advisor
+255,2014-01-07 21:19:00,Katerina’s Café,18.35,Marin,Onda,True,7,21,19,0,35.0,26.0,Engineering,Drill Site Manager
+256,2014-01-07 21:21:00,Hippokampos,15.85,Ingrid,Barranco,True,7,21,21,0,85.0,4.0,Executive,SVP/CFO
+257,2014-01-07 21:51:00,Hippokampos,22.18,Ada,Campo-Corrente,True,7,21,51,0,18.0,10.0,Executive,SVP/CIO
+258,2014-01-08 07:31:00,Brew've Been Served,15.66,Isia,Vann,True,8,7,31,0,66.0,16.0,Security,Perimeter Control
+259,2014-01-08 07:39:00,Hallowed Grounds,12.19,Hideki,Cocinaro,False,8,7,39,0,19.0,12.0,Security,Site Control
+260,2014-01-08 07:39:00,Hallowed Grounds,8.15,Lidelse,Dedos,True,8,7,39,0,15.0,14.0,Engineering,Engineering Group Manager
+261,2014-01-08 07:39:00,Hallowed Grounds,8.28,Marin,Onda,False,8,7,39,0,28.0,26.0,Engineering,Drill Site Manager
+262,2014-01-08 07:40:00,Hallowed Grounds,5.85,Emile,Arpa,True,8,7,40,0,85.0,0.0,Other,Other
+263,2014-01-08 07:42:00,Brew've Been Served,3.09,Mat,Bramar,True,8,7,42,0,9.0,0.0,Other,Other
+264,2014-01-08 07:43:00,Hallowed Grounds,3.4,Birgitta,Frente,True,8,7,43,0,40.0,18.0,Engineering,Geologist
+265,2014-01-08 07:47:00,Hallowed Grounds,3.11,Kare,Orilla,True,8,7,47,0,11.0,27.0,Engineering,Drill Technician
+266,2014-01-08 07:48:00,Brew've Been Served,12.92,Loreto,Bodrogi,True,8,7,48,0,92.0,15.0,Security,Site Control
+267,2014-01-08 07:48:00,Brew've Been Served,8.27,Stenig,Fusil,True,8,7,48,0,27.0,20.0,Security,Building Control
+268,2014-01-08 07:48:00,Brew've Been Served,19.17,Brand,Tempestad,True,8,7,48,0,17.0,33.0,Engineering,Drill Technician
+269,2014-01-08 07:50:00,Brew've Been Served,13.68,Hennie,Osvaldo,True,8,7,50,0,68.0,21.0,Security,Perimeter Control
+270,2014-01-08 07:50:00,Hallowed Grounds,3.9,Rachel,Pantanal,True,8,7,50,0,90.0,0.0,Other,Other
+271,2014-01-08 07:51:00,Coffee Cameleon,6.59,Linnea,Bergen,True,8,7,51,0,59.0,6.0,Information Technology,IT Group Manager
+272,2014-01-08 07:52:00,Coffee Cameleon,12.26,Bertrand,Ovan,True,8,7,52,0,26.0,29.0,Facilities,Facilities Group Manager
+273,2014-01-08 07:55:00,Hallowed Grounds,19.92,Nils,Calixto,True,8,7,55,0,92.0,8.0,Information Technology,IT Technician
+274,2014-01-08 07:55:00,Brew've Been Served,11.87,Varja,Lagos,True,8,7,55,0,87.0,23.0,Security,Badging Office
+275,2014-01-08 07:56:00,Hallowed Grounds,12.86,Lucas,Alcazar,False,8,7,56,0,86.0,1.0,Information Technology,IT Helpdesk
+276,2014-01-08 07:57:00,Brew've Been Served,14.88,Cornelia,Lais,True,8,7,57,0,88.0,0.0,Other,Other
+277,2014-01-08 07:57:00,Hallowed Grounds,11.63,Anda,Ribera,True,8,7,57,0,63.0,0.0,Other,Other
+278,2014-01-08 07:58:00,Brew've Been Served,8.4,Ruscella,Mies Haber,True,8,7,58,0,40.0,0.0,Other,Other
+279,2014-01-08 07:59:00,Coffee Cameleon,15.71,Adra,Nubarron,True,8,7,59,0,71.0,25.0,Engineering,Geologist
+280,2014-01-08 08:00:00,Brew've Been Served,12.3,Edvard,Vann,True,8,8,0,0,30.0,34.0,Security,Perimeter Control
+281,2014-01-08 08:01:00,Brew've Been Served,3.92,Dante,Coginian,True,8,8,1,0,92.0,0.0,Other,Other
+282,2014-01-08 08:01:00,Brew've Been Served,17.13,Inga,Ferro,True,8,8,1,0,13.0,13.0,Security,Site Control
+283,2014-01-08 08:01:00,Brew've Been Served,3.42,Sven,Flecha,True,8,8,1,0,42.0,17.0,Information Technology,IT Technician
+284,2014-01-08 08:03:00,Brew've Been Served,10.15,Felix,Resumir,True,8,8,3,0,15.0,30.0,Security,Security Group Manager
+285,2014-01-08 08:09:00,Brew've Been Served,11.48,Linda,Lagos,True,8,8,9,0,48.0,0.0,Other,Other
+286,2014-01-08 08:16:00,Brew've Been Served,7.26,Kanon,Herrero,True,8,8,16,0,26.0,22.0,Security,Badging Office
+287,2014-01-08 08:18:00,Brew've Been Served,6.3,Minke,Mies,True,8,8,18,0,30.0,24.0,Security,Perimeter Control
+288,2014-01-08 08:22:00,Coffee Cameleon,16.17,Carla,Forluniau,True,8,8,22,0,17.0,0.0,Other,Other
+289,2014-01-08 09:43:00,Carlyle Chemical Inc.,3048.31,Valeria,Morlun,False,8,9,43,0,31.0,100.0,Facilities,Truck Driver
+290,2014-01-08 09:54:00,Nationwide Refinery,4513.16,Adan,Morlun,True,8,9,54,0,16.0,100.0,Facilities,Truck Driver
+291,2014-01-08 10:14:00,Nationwide Refinery,3674.32,Cecilia,Morluniau,True,8,10,14,0,32.0,100.0,Facilities,Truck Driver
+292,2014-01-08 11:28:00,Stewart and Sons Fabrication,1738.26,Adan,Morlun,True,8,11,28,0,26.0,100.0,Facilities,Truck Driver
+293,2014-01-08 11:58:00,Stewart and Sons Fabrication,1673.77,Cecilia,Morluniau,True,8,11,58,0,77.0,100.0,Facilities,Truck Driver
+294,2014-01-08 12:00:00,Coffee Shack,13.13,Varro,Awelon,True,8,12,0,0,13.0,0.0,Other,Other
+295,2014-01-08 12:00:00,Bean There Done That,17.45,Lars,Azada,True,8,12,0,0,45.0,2.0,Engineering,Engineer
+296,2014-01-08 12:00:00,Bean There Done That,12.07,Felix,Balas,True,8,12,0,0,7.0,3.0,Engineering,Engineer
+297,2014-01-08 12:00:00,Brewed Awakenings,11.73,Ingrid,Barranco,True,8,12,0,0,73.0,4.0,Executive,SVP/CFO
+298,2014-01-08 12:00:00,Jack's Magical Beans,3.96,Isak,Baza,True,8,12,0,0,96.0,5.0,Information Technology,IT Technician
+299,2014-01-08 12:00:00,Brewed Awakenings,12.32,Isande,Borrasca,True,8,12,0,0,32.0,7.0,Engineering,Drill Technician
+300,2014-01-08 12:00:00,Bean There Done That,8.06,Axel,Calzas,False,8,12,0,0,6.0,9.0,Engineering,Drill Technician
+301,2014-01-08 12:00:00,Brewed Awakenings,15.03,Ada,Campo-Corrente,False,8,12,0,0,3.0,10.0,Executive,SVP/CIO
+302,2014-01-08 12:00:00,Bean There Done That,14.96,Gustav,Cazar,True,8,12,0,0,96.0,11.0,Engineering,Hydraulic Technician
+303,2014-01-08 12:00:00,Jack's Magical Beans,18.78,Elsa,Orilla,True,8,12,0,0,78.0,28.0,Engineering,Drill Technician
+304,2014-01-08 12:00:00,Jack's Magical Beans,12.37,Orhan,Strum,True,8,12,0,0,37.0,32.0,Executive,SVP/COO
+305,2014-01-08 12:00:00,Jack's Magical Beans,11.25,Willem,Vasco-Pais,True,8,12,0,0,25.0,35.0,Executive,Environmental Safety Advisor
+306,2014-01-08 12:29:00,Frank's Fuel,65.34,Loreto,Bodrogi,True,8,12,29,0,34.0,15.0,Security,Site Control
+307,2014-01-08 12:45:00,Abila Airport,2723.18,Henk,Mies,True,8,12,45,0,18.0,100.0,Facilities,Truck Driver
+308,2014-01-08 12:56:00,Chostus Hotel,107.51,Isande,Borrasca,True,8,12,56,0,51.0,7.0,Engineering,Drill Technician
+309,2014-01-08 13:03:00,Carlyle Chemical Inc.,4983.52,Irene,Nant,True,8,13,3,0,52.0,100.0,Facilities,Truck Driver
+310,2014-01-08 13:10:00,Abila Zacharo,22.13,Ruscella,Mies Haber,True,8,13,10,0,13.0,0.0,Other,Other
+311,2014-01-08 13:12:00,Hippokampos,26.55,Ada,Campo-Corrente,True,8,13,12,0,55.0,10.0,Executive,SVP/CIO
+312,2014-01-08 13:15:00,Hippokampos,9.03,Edvard,Vann,True,8,13,15,0,3.0,34.0,Security,Perimeter Control
+313,2014-01-08 13:19:00,Katerina’s Café,29.26,Valeria,Morlun,True,8,13,19,0,26.0,100.0,Facilities,Truck Driver
+314,2014-01-08 13:19:00,Chostus Hotel,111.89,Brand,Tempestad,True,8,13,19,0,89.0,33.0,Engineering,Drill Technician
+315,2014-01-08 13:21:00,Ouzeri Elian,29.73,Orhan,Strum,True,8,13,21,0,73.0,32.0,Executive,SVP/COO
+316,2014-01-08 13:23:00,Abila Zacharo,36.85,Willem,Vasco-Pais,True,8,13,23,0,85.0,35.0,Executive,Environmental Safety Advisor
+317,2014-01-08 13:26:00,Hippokampos,16.59,Linnea,Bergen,True,8,13,26,0,59.0,6.0,Information Technology,IT Group Manager
+318,2014-01-08 13:27:00,Gelatogalore,32.79,Linda,Lagos,True,8,13,27,0,79.0,0.0,Other,Other
+319,2014-01-08 13:28:00,Katerina’s Café,8.53,Isak,Baza,True,8,13,28,0,53.0,5.0,Information Technology,IT Technician
+320,2014-01-08 13:28:00,Gelatogalore,20.72,Hennie,Osvaldo,True,8,13,28,0,72.0,21.0,Security,Perimeter Control
+321,2014-01-08 13:29:00,Kalami Kafenion,24.08,Bertrand,Ovan,True,8,13,29,0,8.0,29.0,Facilities,Facilities Group Manager
+322,2014-01-08 13:31:00,Hippokampos,37.89,Gustav,Cazar,True,8,13,31,0,89.0,11.0,Engineering,Hydraulic Technician
+323,2014-01-08 13:32:00,Guy's Gyros,30.12,Sven,Flecha,True,8,13,32,0,12.0,17.0,Information Technology,IT Technician
+324,2014-01-08 13:34:00,Abila Zacharo,14.41,Lars,Azada,True,8,13,34,0,41.0,2.0,Engineering,Engineer
+325,2014-01-08 13:34:00,Katerina’s Café,88.98,Marin,Onda,False,8,13,34,0,98.0,26.0,Engineering,Drill Site Manager
+326,2014-01-08 13:38:00,Gelatogalore,50.36,Kanon,Herrero,False,8,13,38,0,36.0,22.0,Security,Badging Office
+327,2014-01-08 13:39:00,Gelatogalore,39.75,Varja,Lagos,True,8,13,39,0,75.0,23.0,Security,Badging Office
+328,2014-01-08 13:40:00,Guy's Gyros,17.9,Loreto,Bodrogi,True,8,13,40,0,90.0,15.0,Security,Site Control
+329,2014-01-08 13:41:00,Katerina’s Café,26.45,Adra,Nubarron,True,8,13,41,0,45.0,25.0,Engineering,Geologist
+330,2014-01-08 13:42:00,Gelatogalore,35.29,Nils,Calixto,True,8,13,42,0,29.0,8.0,Information Technology,IT Technician
+331,2014-01-08 13:42:00,Kalami Kafenion,22.49,Dante,Coginian,True,8,13,42,0,49.0,0.0,Other,Other
+332,2014-01-08 13:42:00,Katerina’s Café,37.04,Vira,Frente,True,8,13,42,0,4.0,19.0,Engineering,Hydraulic Technician
+333,2014-01-08 13:43:00,Hippokampos,39.8,Lucas,Alcazar,True,8,13,43,0,80.0,1.0,Information Technology,IT Helpdesk
+334,2014-01-08 13:44:00,Kalami Kafenion,31.96,Isia,Vann,True,8,13,44,0,96.0,16.0,Security,Perimeter Control
+335,2014-01-08 13:45:00,Kalami Kafenion,23.82,Kare,Orilla,True,8,13,45,0,82.0,27.0,Engineering,Drill Technician
+336,2014-01-08 13:46:00,Abila Zacharo,28.25,Rachel,Pantanal,True,8,13,46,0,25.0,0.0,Other,Other
+337,2014-01-08 13:47:00,Katerina’s Café,27.05,Axel,Calzas,False,8,13,47,0,5.0,9.0,Engineering,Drill Technician
+338,2014-01-08 13:47:00,Gelatogalore,22.27,Carla,Forluniau,True,8,13,47,0,27.0,0.0,Other,Other
+339,2014-01-08 13:47:00,Ouzeri Elian,24.92,Cornelia,Lais,True,8,13,47,0,92.0,0.0,Other,Other
+340,2014-01-08 13:48:00,Hippokampos,28.79,Felix,Balas,True,8,13,48,0,79.0,3.0,Engineering,Engineer
+341,2014-01-08 13:48:00,Gelatogalore,36.72,Inga,Ferro,True,8,13,48,0,72.0,13.0,Security,Site Control
+342,2014-01-08 13:51:00,Guy's Gyros,15.86,Lidelse,Dedos,True,8,13,51,0,86.0,14.0,Engineering,Engineering Group Manager
+343,2014-01-08 13:51:00,Abila Zacharo,30.85,Felix,Resumir,True,8,13,51,0,85.0,30.0,Security,Security Group Manager
+344,2014-01-08 13:52:00,Kalami Kafenion,14.77,Stenig,Fusil,True,8,13,52,0,77.0,20.0,Security,Building Control
+345,2014-01-08 13:53:00,Abila Zacharo,16.2,Birgitta,Frente,True,8,13,53,0,20.0,18.0,Engineering,Geologist
+346,2014-01-08 13:57:00,Guy's Gyros,10.34,Minke,Mies,True,8,13,57,0,34.0,24.0,Security,Perimeter Control
+347,2014-01-08 14:06:00,Katerina’s Café,22.94,Hideki,Cocinaro,False,8,14,6,0,94.0,12.0,Security,Site Control
+348,2014-01-08 14:09:00,Kronos Pipe and Irrigation,3615.61,Irene,Nant,True,8,14,9,0,61.0,100.0,Facilities,Truck Driver
+349,2014-01-08 14:15:00,Kalami Kafenion,34.98,Varro,Awelon,True,8,14,15,0,98.0,0.0,Other,Other
+350,2014-01-08 14:17:00,Gelatogalore,39.94,Mat,Bramar,True,8,14,17,0,94.0,0.0,Other,Other
+351,2014-01-08 14:19:00,Kalami Kafenion,31.43,Emile,Arpa,True,8,14,19,0,43.0,0.0,Other,Other
+352,2014-01-08 14:26:00,Carlyle Chemical Inc.,4901.88,Valeria,Morlun,True,8,14,26,0,88.0,100.0,Facilities,Truck Driver
+353,2014-01-08 15:18:00,Maximum Iron and Steel,3136.01,Irene,Nant,True,8,15,18,0,1.0,100.0,Facilities,Truck Driver
+354,2014-01-08 15:29:00,Abila Airport,2769.12,Henk,Mies,True,8,15,29,0,12.0,100.0,Facilities,Truck Driver
+355,2014-01-08 19:21:00,Hippokampos,10.52,Lars,Azada,True,8,19,21,0,52.0,2.0,Engineering,Engineer
+356,2014-01-08 19:28:00,Hippokampos,16.54,Isande,Borrasca,True,8,19,28,0,54.0,7.0,Engineering,Drill Technician
+357,2014-01-08 19:32:00,Katerina’s Café,34.25,Ruscella,Mies Haber,True,8,19,32,0,25.0,0.0,Other,Other
+358,2014-01-08 19:36:00,Guy's Gyros,15.69,Isia,Vann,True,8,19,36,0,69.0,16.0,Security,Perimeter Control
+359,2014-01-08 19:48:00,Guy's Gyros,30.48,Minke,Mies,True,8,19,48,0,48.0,24.0,Security,Perimeter Control
+360,2014-01-08 20:00:00,Katerina’s Café,13.83,Linda,Lagos,True,8,20,0,0,83.0,0.0,Other,Other
+361,2014-01-08 20:02:00,Hippokampos,32.66,Vira,Frente,True,8,20,2,0,66.0,19.0,Engineering,Hydraulic Technician
+362,2014-01-08 20:07:00,Guy's Gyros,28.81,Sven,Flecha,True,8,20,7,0,81.0,17.0,Information Technology,IT Technician
+363,2014-01-08 20:07:00,Frydos Autosupply n' More,214.07,Carla,Forluniau,True,8,20,7,0,7.0,0.0,Other,Other
+364,2014-01-08 20:08:00,Guy's Gyros,33.02,Cornelia,Lais,False,8,20,8,0,2.0,0.0,Other,Other
+365,2014-01-08 20:08:00,Katerina’s Café,31.59,Marin,Onda,True,8,20,8,0,59.0,26.0,Engineering,Drill Site Manager
+366,2014-01-08 20:12:00,Ouzeri Elian,62.2,Kanon,Herrero,False,8,20,12,0,20.0,22.0,Security,Badging Office
+367,2014-01-08 20:15:00,Guy's Gyros,19.08,Varja,Lagos,True,8,20,15,0,8.0,23.0,Security,Badging Office
+368,2014-01-08 20:17:00,Frydos Autosupply n' More,182.56,Loreto,Bodrogi,True,8,20,17,0,56.0,15.0,Security,Site Control
+369,2014-01-08 20:17:00,Guy's Gyros,18.24,Brand,Tempestad,True,8,20,17,0,24.0,33.0,Engineering,Drill Technician
+370,2014-01-08 20:27:00,Katerina’s Café,33.31,Adra,Nubarron,True,8,20,27,0,31.0,25.0,Engineering,Geologist
+371,2014-01-08 20:28:00,Hippokampos,16.75,Varro,Awelon,True,8,20,28,0,75.0,0.0,Other,Other
+372,2014-01-08 20:28:00,Frydos Autosupply n' More,268.89,Anda,Ribera,True,8,20,28,0,89.0,0.0,Other,Other
+373,2014-01-08 20:31:00,Katerina’s Café,36.6,Nils,Calixto,True,8,20,31,0,60.0,8.0,Information Technology,IT Technician
+374,2014-01-08 20:35:00,Katerina’s Café,16.93,Dante,Coginian,True,8,20,35,0,93.0,0.0,Other,Other
+375,2014-01-08 20:42:00,Katerina’s Café,32.83,Bertrand,Ovan,True,8,20,42,0,83.0,29.0,Facilities,Facilities Group Manager
+376,2014-01-08 20:45:00,Albert's Fine Clothing,136.01,Felix,Balas,True,8,20,45,0,1.0,3.0,Engineering,Engineer
+377,2014-01-08 20:49:00,Hippokampos,15.64,Ada,Campo-Corrente,True,8,20,49,0,64.0,10.0,Executive,SVP/CIO
+378,2014-01-08 20:53:00,Hippokampos,26.31,Ingrid,Barranco,True,8,20,53,0,31.0,4.0,Executive,SVP/CFO
+379,2014-01-08 20:57:00,Guy's Gyros,10.28,Felix,Resumir,False,8,20,57,0,28.0,30.0,Security,Security Group Manager
+380,2014-01-08 20:58:00,Guy's Gyros,22.91,Inga,Ferro,False,8,20,58,0,91.0,13.0,Security,Site Control
+381,2014-01-08 21:00:00,General Grocer,265.84,Hideki,Cocinaro,True,8,21,0,0,84.0,12.0,Security,Site Control
+382,2014-01-08 21:02:00,Katerina’s Café,28.86,Mat,Bramar,False,8,21,2,0,86.0,0.0,Other,Other
+383,2014-01-08 21:09:00,Katerina’s Café,27.87,Lidelse,Dedos,True,8,21,9,0,87.0,14.0,Engineering,Engineering Group Manager
+384,2014-01-08 21:16:00,Ouzeri Elian,10.81,Lucas,Alcazar,True,8,21,16,0,81.0,1.0,Information Technology,IT Helpdesk
+385,2014-01-08 21:17:00,Ouzeri Elian,29.85,Isak,Baza,True,8,21,17,0,85.0,5.0,Information Technology,IT Technician
+386,2014-01-08 21:32:00,Hippokampos,18.99,Willem,Vasco-Pais,True,8,21,32,0,99.0,35.0,Executive,Environmental Safety Advisor
+387,2014-01-09 07:35:00,Coffee Cameleon,12.47,Linnea,Bergen,False,9,7,35,0,47.0,6.0,Information Technology,IT Group Manager
+388,2014-01-09 07:36:00,Brew've Been Served,10.71,Brand,Tempestad,True,9,7,36,0,71.0,33.0,Engineering,Drill Technician
+389,2014-01-09 07:37:00,Hallowed Grounds,17.56,Marin,Onda,True,9,7,37,0,56.0,26.0,Engineering,Drill Site Manager
+390,2014-01-09 07:37:00,Coffee Cameleon,19.99,Bertrand,Ovan,True,9,7,37,0,99.0,29.0,Facilities,Facilities Group Manager
+391,2014-01-09 07:42:00,Hallowed Grounds,16.77,Hideki,Cocinaro,True,9,7,42,0,77.0,12.0,Security,Site Control
+392,2014-01-09 07:43:00,Brew've Been Served,5.43,Cornelia,Lais,False,9,7,43,0,43.0,0.0,Other,Other
+393,2014-01-09 07:46:00,Hallowed Grounds,15.24,Emile,Arpa,True,9,7,46,0,24.0,0.0,Other,Other
+394,2014-01-09 07:46:00,Brew've Been Served,4.4,Mat,Bramar,False,9,7,46,0,40.0,0.0,Other,Other
+395,2014-01-09 07:48:00,Brew've Been Served,5.3,Sven,Flecha,True,9,7,48,0,30.0,17.0,Information Technology,IT Technician
+396,2014-01-09 07:48:00,Brew've Been Served,14.85,Isia,Vann,True,9,7,48,0,85.0,16.0,Security,Perimeter Control
+397,2014-01-09 07:48:00,Brew've Been Served,5.13,Edvard,Vann,True,9,7,48,0,13.0,34.0,Security,Perimeter Control
+398,2014-01-09 07:50:00,Hallowed Grounds,14.45,Lucas,Alcazar,True,9,7,50,0,45.0,1.0,Information Technology,IT Helpdesk
+399,2014-01-09 07:51:00,Hallowed Grounds,19.22,Nils,Calixto,False,9,7,51,0,22.0,8.0,Information Technology,IT Technician
+400,2014-01-09 07:56:00,Brew've Been Served,18.25,Dante,Coginian,True,9,7,56,0,25.0,0.0,Other,Other
+401,2014-01-09 07:57:00,Hallowed Grounds,18.48,Birgitta,Frente,True,9,7,57,0,48.0,18.0,Engineering,Geologist
+402,2014-01-09 07:57:00,Brew've Been Served,5.26,Linda,Lagos,False,9,7,57,0,26.0,0.0,Other,Other
+403,2014-01-09 07:57:00,Hallowed Grounds,10.25,Hennie,Osvaldo,True,9,7,57,0,25.0,21.0,Security,Perimeter Control
+404,2014-01-09 07:58:00,Brew've Been Served,19.47,Felix,Resumir,True,9,7,58,0,47.0,30.0,Security,Security Group Manager
+405,2014-01-09 08:00:00,Brew've Been Served,6.61,Inga,Ferro,False,9,8,0,0,61.0,13.0,Security,Site Control
+406,2014-01-09 08:00:00,Brew've Been Served,6.21,Minke,Mies,True,9,8,0,0,21.0,24.0,Security,Perimeter Control
+407,2014-01-09 08:01:00,Brew've Been Served,12.12,Varja,Lagos,True,9,8,1,0,12.0,23.0,Security,Badging Office
+408,2014-01-09 08:03:00,Coffee Cameleon,16.13,Adra,Nubarron,True,9,8,3,0,13.0,25.0,Engineering,Geologist
+409,2014-01-09 08:07:00,Hallowed Grounds,65.68,Kare,Orilla,False,9,8,7,0,68.0,27.0,Engineering,Drill Technician
+410,2014-01-09 08:14:00,Brew've Been Served,17.64,Kanon,Herrero,True,9,8,14,0,64.0,22.0,Security,Badging Office
+411,2014-01-09 08:15:00,Brew've Been Served,5.57,Ruscella,Mies Haber,False,9,8,15,0,57.0,0.0,Other,Other
+412,2014-01-09 08:15:00,Hallowed Grounds,15.33,Rachel,Pantanal,True,9,8,15,0,33.0,0.0,Other,Other
+413,2014-01-09 09:26:00,Abila Airport,2358.22,Benito,Hawelon,True,9,9,26,0,22.0,100.0,Facilities,Truck Driver
+414,2014-01-09 09:54:00,Carlyle Chemical Inc.,529.47,Valeria,Morlun,True,9,9,54,0,47.0,100.0,Facilities,Truck Driver
+415,2014-01-09 10:16:00,Nationwide Refinery,674.28,Cecilia,Morluniau,True,9,10,16,0,28.0,100.0,Facilities,Truck Driver
+416,2014-01-09 10:38:00,Stewart and Sons Fabrication,1015.65,Benito,Hawelon,True,9,10,38,0,65.0,100.0,Facilities,Truck Driver
+417,2014-01-09 11:21:00,Carlyle Chemical Inc.,732.82,Irene,Nant,True,9,11,21,0,82.0,100.0,Facilities,Truck Driver
+418,2014-01-09 11:34:00,Nationwide Refinery,289.3,Valeria,Morlun,True,9,11,34,0,30.0,100.0,Facilities,Truck Driver
+419,2014-01-09 11:37:00,Stewart and Sons Fabrication,3544.0,Cecilia,Morluniau,True,9,11,37,0,0.0,100.0,Facilities,Truck Driver
+420,2014-01-09 12:00:00,Coffee Shack,5.01,Varro,Awelon,True,9,12,0,0,1.0,0.0,Other,Other
+421,2014-01-09 12:00:00,Bean There Done That,13.0,Lars,Azada,True,9,12,0,0,0.0,2.0,Engineering,Engineer
+422,2014-01-09 12:00:00,Brewed Awakenings,11.76,Ingrid,Barranco,False,9,12,0,0,76.0,4.0,Executive,SVP/CFO
+423,2014-01-09 12:00:00,Jack's Magical Beans,10.11,Isak,Baza,True,9,12,0,0,11.0,5.0,Information Technology,IT Technician
+424,2014-01-09 12:00:00,Jack's Magical Beans,6.0,Loreto,Bodrogi,True,9,12,0,0,0.0,15.0,Security,Site Control
+425,2014-01-09 12:00:00,Brewed Awakenings,13.16,Isande,Borrasca,True,9,12,0,0,16.0,7.0,Engineering,Drill Technician
+426,2014-01-09 12:00:00,Bean There Done That,4.06,Axel,Calzas,True,9,12,0,0,6.0,9.0,Engineering,Drill Technician
+427,2014-01-09 12:00:00,Brewed Awakenings,17.66,Ada,Campo-Corrente,True,9,12,0,0,66.0,10.0,Executive,SVP/CIO
+428,2014-01-09 12:00:00,Bean There Done That,15.53,Gustav,Cazar,False,9,12,0,0,53.0,11.0,Engineering,Hydraulic Technician
+429,2014-01-09 12:00:00,Jack's Magical Beans,12.13,Elsa,Orilla,False,9,12,0,0,13.0,28.0,Engineering,Drill Technician
+430,2014-01-09 12:00:00,Jack's Magical Beans,15.55,Orhan,Strum,False,9,12,0,0,55.0,32.0,Executive,SVP/COO
+431,2014-01-09 12:00:00,Jack's Magical Beans,17.43,Willem,Vasco-Pais,True,9,12,0,0,43.0,35.0,Executive,Environmental Safety Advisor
+432,2014-01-09 12:13:00,Abila Airport,182.93,Henk,Mies,True,9,12,13,0,93.0,100.0,Facilities,Truck Driver
+433,2014-01-09 12:49:00,Nationwide Refinery,1420.39,Benito,Hawelon,True,9,12,49,0,39.0,100.0,Facilities,Truck Driver
+434,2014-01-09 12:59:00,Ouzeri Elian,31.03,Ada,Campo-Corrente,False,9,12,59,0,3.0,10.0,Executive,SVP/CIO
+435,2014-01-09 13:03:00,Katerina’s Café,17.02,Linnea,Bergen,True,9,13,3,0,2.0,6.0,Information Technology,IT Group Manager
+436,2014-01-09 13:12:00,Gelatogalore,19.2,Ruscella,Mies Haber,True,9,13,12,0,20.0,0.0,Other,Other
+437,2014-01-09 13:18:00,Abila Airport,4792.5,Dylan,Scozzese,True,9,13,18,0,50.0,100.0,Facilities,Truck Driver
+438,2014-01-09 13:21:00,Ouzeri Elian,26.09,Ingrid,Barranco,True,9,13,21,0,9.0,4.0,Executive,SVP/CFO
+439,2014-01-09 13:21:00,Gelatogalore,23.45,Edvard,Vann,True,9,13,21,0,45.0,34.0,Security,Perimeter Control
+440,2014-01-09 13:21:00,Guy's Gyros,25.4,Isia,Vann,True,9,13,21,0,40.0,16.0,Security,Perimeter Control
+441,2014-01-09 13:23:00,Gelatogalore,8.6,Isak,Baza,True,9,13,23,0,60.0,5.0,Information Technology,IT Technician
+442,2014-01-09 13:23:00,Gelatogalore,16.74,Isande,Borrasca,True,9,13,23,0,74.0,7.0,Engineering,Drill Technician
+443,2014-01-09 13:23:00,Ouzeri Elian,22.4,Stenig,Fusil,True,9,13,23,0,40.0,20.0,Security,Building Control
+444,2014-01-09 13:23:00,Katerina’s Café,16.98,Valeria,Morlun,True,9,13,23,0,98.0,100.0,Facilities,Truck Driver
+445,2014-01-09 13:24:00,Abila Zacharo,8.16,Varja,Lagos,True,9,13,24,0,16.0,23.0,Security,Badging Office
+446,2014-01-09 13:27:00,Kalami Kafenion,30.76,Vira,Frente,True,9,13,27,0,76.0,19.0,Engineering,Hydraulic Technician
+447,2014-01-09 13:27:00,Katerina’s Café,25.85,Orhan,Strum,True,9,13,27,0,85.0,32.0,Executive,SVP/COO
+448,2014-01-09 13:28:00,Guy's Gyros,13.59,Nils,Calixto,True,9,13,28,0,59.0,8.0,Information Technology,IT Technician
+449,2014-01-09 13:29:00,Hippokampos,27.47,Carla,Forluniau,True,9,13,29,0,47.0,0.0,Other,Other
+450,2014-01-09 13:32:00,Abila Zacharo,8.6,Willem,Vasco-Pais,True,9,13,32,0,60.0,35.0,Executive,Environmental Safety Advisor
+451,2014-01-09 13:35:00,Katerina’s Café,10.42,Loreto,Bodrogi,True,9,13,35,0,42.0,15.0,Security,Site Control
+452,2014-01-09 13:35:00,Gelatogalore,23.23,Linda,Lagos,True,9,13,35,0,23.0,0.0,Other,Other
+453,2014-01-09 13:36:00,Hippokampos,27.93,Brand,Tempestad,True,9,13,36,0,93.0,33.0,Engineering,Drill Technician
+454,2014-01-09 13:37:00,Hippokampos,9.12,Gustav,Cazar,True,9,13,37,0,12.0,11.0,Engineering,Hydraulic Technician
+455,2014-01-09 13:38:00,Kalami Kafenion,18.14,Sven,Flecha,True,9,13,38,0,14.0,17.0,Information Technology,IT Technician
+456,2014-01-09 13:40:00,Abila Zacharo,20.73,Lidelse,Dedos,True,9,13,40,0,73.0,14.0,Engineering,Engineering Group Manager
+457,2014-01-09 13:40:00,Gelatogalore,11.94,Hennie,Osvaldo,True,9,13,40,0,94.0,21.0,Security,Perimeter Control
+458,2014-01-09 13:41:00,Abila Zacharo,29.41,Lucas,Alcazar,True,9,13,41,0,41.0,1.0,Information Technology,IT Helpdesk
+459,2014-01-09 13:41:00,Hippokampos,8.43,Felix,Balas,True,9,13,41,0,43.0,3.0,Engineering,Engineer
+460,2014-01-09 13:41:00,Hippokampos,19.22,Cornelia,Lais,True,9,13,41,0,22.0,0.0,Other,Other
+461,2014-01-09 13:43:00,Guy's Gyros,14.91,Lars,Azada,True,9,13,43,0,91.0,2.0,Engineering,Engineer
+462,2014-01-09 13:44:00,Guy's Gyros,15.0,Birgitta,Frente,True,9,13,44,0,0.0,18.0,Engineering,Geologist
+463,2014-01-09 13:45:00,Gelatogalore,24.68,Rachel,Pantanal,True,9,13,45,0,68.0,0.0,Other,Other
+464,2014-01-09 13:47:00,Abila Zacharo,48.39,Kanon,Herrero,False,9,13,47,0,39.0,22.0,Security,Badging Office
+465,2014-01-09 13:51:00,Hippokampos,13.84,Marin,Onda,True,9,13,51,0,84.0,26.0,Engineering,Drill Site Manager
+466,2014-01-09 13:53:00,Hippokampos,16.65,Adra,Nubarron,False,9,13,53,0,65.0,25.0,Engineering,Geologist
+467,2014-01-09 13:56:00,Kalami Kafenion,19.84,Mat,Bramar,True,9,13,56,0,84.0,0.0,Other,Other
+468,2014-01-09 13:56:00,Hippokampos,25.7,Minke,Mies,True,9,13,56,0,70.0,24.0,Security,Perimeter Control
+469,2014-01-09 13:56:00,Guy's Gyros,8.87,Felix,Resumir,False,9,13,56,0,87.0,30.0,Security,Security Group Manager
+470,2014-01-09 14:03:00,Kalami Kafenion,35.99,Anda,Ribera,True,9,14,3,0,99.0,0.0,Other,Other
+471,2014-01-09 14:04:00,Kalami Kafenion,10.94,Emile,Arpa,True,9,14,4,0,94.0,0.0,Other,Other
+472,2014-01-09 14:04:00,Ouzeri Elian,32.89,Hideki,Cocinaro,True,9,14,4,0,89.0,12.0,Security,Site Control
+473,2014-01-09 14:06:00,Katerina’s Café,8.01,Axel,Calzas,True,9,14,6,0,1.0,9.0,Engineering,Drill Technician
+474,2014-01-09 14:09:00,Guy's Gyros,27.69,Dante,Coginian,True,9,14,9,0,69.0,0.0,Other,Other
+475,2014-01-09 14:12:00,Abila Scrapyard,1158.36,Dylan,Scozzese,True,9,14,12,0,36.0,100.0,Facilities,Truck Driver
+476,2014-01-09 14:13:00,Guy's Gyros,17.44,Bertrand,Ovan,True,9,14,13,0,44.0,29.0,Facilities,Facilities Group Manager
+477,2014-01-09 14:15:00,Abila Zacharo,14.37,Inga,Ferro,True,9,14,15,0,37.0,13.0,Security,Site Control
+478,2014-01-09 14:18:00,Gelatogalore,36.75,Varro,Awelon,True,9,14,18,0,75.0,0.0,Other,Other
+479,2014-01-09 14:26:00,Carlyle Chemical Inc.,382.43,Valeria,Morlun,True,9,14,26,0,43.0,100.0,Facilities,Truck Driver
+480,2014-01-09 14:28:00,Kronos Pipe and Irrigation,423.14,Irene,Nant,True,9,14,28,0,14.0,100.0,Facilities,Truck Driver
+481,2014-01-09 15:00:00,Stewart and Sons Fabrication,918.6,Dylan,Scozzese,True,9,15,0,0,60.0,100.0,Facilities,Truck Driver
+482,2014-01-09 15:16:00,Maximum Iron and Steel,1527.14,Irene,Nant,True,9,15,16,0,14.0,100.0,Facilities,Truck Driver
+483,2014-01-09 15:50:00,Abila Airport,4538.52,Henk,Mies,True,9,15,50,0,52.0,100.0,Facilities,Truck Driver
+484,2014-01-09 16:22:00,Carlyle Chemical Inc.,2176.2,Valeria,Morlun,True,9,16,22,0,20.0,100.0,Facilities,Truck Driver
+485,2014-01-09 16:27:00,Nationwide Refinery,1322.5,Dylan,Scozzese,True,9,16,27,0,50.0,100.0,Facilities,Truck Driver
+486,2014-01-09 19:25:00,Katerina’s Café,35.92,Emile,Arpa,True,9,19,25,0,92.0,0.0,Other,Other
+487,2014-01-09 19:30:00,Katerina’s Café,26.6,Bertrand,Ovan,True,9,19,30,0,60.0,29.0,Facilities,Facilities Group Manager
+488,2014-01-09 19:32:00,Frydos Autosupply n' More,138.02,Varja,Lagos,True,9,19,32,0,2.0,23.0,Security,Badging Office
+489,2014-01-09 19:41:00,Guy's Gyros,31.81,Isia,Vann,True,9,19,41,0,81.0,16.0,Security,Perimeter Control
+490,2014-01-09 19:42:00,Ouzeri Elian,27.08,Isak,Baza,False,9,19,42,0,8.0,5.0,Information Technology,IT Technician
+491,2014-01-09 19:43:00,Ouzeri Elian,31.07,Elsa,Orilla,False,9,19,43,0,7.0,28.0,Engineering,Drill Technician
+492,2014-01-09 19:52:00,Guy's Gyros,29.96,Stenig,Fusil,True,9,19,52,0,96.0,20.0,Security,Building Control
+493,2014-01-09 20:05:00,Hippokampos,15.02,Isande,Borrasca,True,9,20,5,0,2.0,7.0,Engineering,Drill Technician
+494,2014-01-09 20:06:00,Katerina’s Café,26.6,Mat,Bramar,True,9,20,6,0,60.0,0.0,Other,Other
+495,2014-01-09 20:08:00,Katerina’s Café,19.02,Kare,Orilla,True,9,20,8,0,2.0,27.0,Engineering,Drill Technician
+496,2014-01-09 20:09:00,Katerina’s Café,30.97,Anda,Ribera,True,9,20,9,0,97.0,0.0,Other,Other
+497,2014-01-09 20:15:00,Hippokampos,70.68,Axel,Calzas,False,9,20,15,0,68.0,9.0,Engineering,Drill Technician
+498,2014-01-09 20:19:00,General Grocer,285.34,Edvard,Vann,True,9,20,19,0,34.0,34.0,Security,Perimeter Control
+499,2014-01-09 20:20:00,Katerina’s Café,91.14,Hennie,Osvaldo,False,9,20,20,0,14.0,21.0,Security,Perimeter Control
+500,2014-01-09 20:20:00,Frydos Autosupply n' More,31.24,Felix,Resumir,False,9,20,20,0,24.0,30.0,Security,Security Group Manager
+501,2014-01-09 20:21:00,Albert's Fine Clothing,224.52,Varro,Awelon,True,9,20,21,0,52.0,0.0,Other,Other
+502,2014-01-09 20:21:00,Frydos Autosupply n' More,60.65,Gustav,Cazar,True,9,20,21,0,65.0,11.0,Engineering,Hydraulic Technician
+503,2014-01-09 20:22:00,Katerina’s Café,29.82,Dante,Coginian,True,9,20,22,0,82.0,0.0,Other,Other
+504,2014-01-09 20:23:00,Guy's Gyros,8.23,Nils,Calixto,True,9,20,23,0,23.0,8.0,Information Technology,IT Technician
+505,2014-01-09 20:24:00,Guy's Gyros,18.26,Kanon,Herrero,True,9,20,24,0,26.0,22.0,Security,Badging Office
+506,2014-01-09 20:27:00,Katerina’s Café,13.78,Ruscella,Mies Haber,True,9,20,27,0,78.0,0.0,Other,Other
+507,2014-01-09 20:29:00,Guy's Gyros,23.34,Linnea,Bergen,False,9,20,29,0,34.0,6.0,Information Technology,IT Group Manager
+508,2014-01-09 20:38:00,Katerina’s Café,30.69,Carla,Forluniau,False,9,20,38,0,69.0,0.0,Other,Other
+509,2014-01-09 20:38:00,Guy's Gyros,8.23,Cornelia,Lais,True,9,20,38,0,23.0,0.0,Other,Other
+510,2014-01-09 20:39:00,Guy's Gyros,35.05,Sven,Flecha,True,9,20,39,0,5.0,17.0,Information Technology,IT Technician
+511,2014-01-09 20:41:00,Hippokampos,9.13,Willem,Vasco-Pais,True,9,20,41,0,13.0,35.0,Executive,Environmental Safety Advisor
+512,2014-01-09 20:45:00,Frydos Autosupply n' More,276.75,Loreto,Bodrogi,True,9,20,45,0,75.0,15.0,Security,Site Control
+513,2014-01-09 21:01:00,Hippokampos,24.96,Vira,Frente,True,9,21,1,0,96.0,19.0,Engineering,Hydraulic Technician
+514,2014-01-09 21:09:00,Guy's Gyros,31.31,Minke,Mies,True,9,21,9,0,31.0,24.0,Security,Perimeter Control
+515,2014-01-09 21:12:00,Hippokampos,23.66,Orhan,Strum,True,9,21,12,0,66.0,32.0,Executive,SVP/COO
+516,2014-01-09 21:13:00,Shoppers' Delight,258.43,Rachel,Pantanal,True,9,21,13,0,43.0,0.0,Other,Other
+517,2014-01-09 21:18:00,Katerina’s Café,8.57,Marin,Onda,True,9,21,18,0,57.0,26.0,Engineering,Drill Site Manager
+518,2014-01-09 21:27:00,Albert's Fine Clothing,229.98,Ada,Campo-Corrente,True,9,21,27,0,98.0,10.0,Executive,SVP/CIO
+519,2014-01-09 21:38:00,Hippokampos,10.12,Felix,Balas,True,9,21,38,0,12.0,3.0,Engineering,Engineer
+520,2014-01-10 07:34:00,Hallowed Grounds,16.75,Emile,Arpa,True,10,7,34,0,75.0,0.0,Other,Other
+521,2014-01-10 07:35:00,Brew've Been Served,15.85,Stenig,Fusil,True,10,7,35,0,85.0,20.0,Security,Building Control
+522,2014-01-10 07:40:00,Coffee Cameleon,8.51,Linnea,Bergen,True,10,7,40,0,51.0,6.0,Information Technology,IT Group Manager
+523,2014-01-10 07:41:00,Hallowed Grounds,12.03,Lidelse,Dedos,True,10,7,41,0,3.0,14.0,Engineering,Engineering Group Manager
+524,2014-01-10 07:41:00,Hallowed Grounds,8.34,Birgitta,Frente,True,10,7,41,0,34.0,18.0,Engineering,Geologist
+525,2014-01-10 07:41:00,Hallowed Grounds,11.49,Marin,Onda,True,10,7,41,0,49.0,26.0,Engineering,Drill Site Manager
+526,2014-01-10 07:45:00,Brew've Been Served,5.01,Varja,Lagos,True,10,7,45,0,1.0,23.0,Security,Badging Office
+527,2014-01-10 07:45:00,Hallowed Grounds,11.38,Kare,Orilla,False,10,7,45,0,38.0,27.0,Engineering,Drill Technician
+528,2014-01-10 07:46:00,Hallowed Grounds,17.63,Rachel,Pantanal,True,10,7,46,0,63.0,0.0,Other,Other
+529,2014-01-10 07:47:00,Brew've Been Served,4.88,Mat,Bramar,True,10,7,47,0,88.0,0.0,Other,Other
+530,2014-01-10 07:47:00,Coffee Cameleon,11.54,Bertrand,Ovan,True,10,7,47,0,54.0,29.0,Facilities,Facilities Group Manager
+531,2014-01-10 07:48:00,Brew've Been Served,13.32,Hennie,Osvaldo,True,10,7,48,0,32.0,21.0,Security,Perimeter Control
+532,2014-01-10 07:49:00,Hallowed Grounds,10.34,Nils,Calixto,True,10,7,49,0,34.0,8.0,Information Technology,IT Technician
+533,2014-01-10 07:49:00,Brew've Been Served,89.93,Brand,Tempestad,False,10,7,49,0,93.0,33.0,Engineering,Drill Technician
+534,2014-01-10 07:50:00,Hallowed Grounds,10.76,Hideki,Cocinaro,True,10,7,50,0,76.0,12.0,Security,Site Control
+535,2014-01-10 07:51:00,Brew've Been Served,12.77,Ruscella,Mies Haber,False,10,7,51,0,77.0,0.0,Other,Other
+536,2014-01-10 07:54:00,Brew've Been Served,3.44,Sven,Flecha,True,10,7,54,0,44.0,17.0,Information Technology,IT Technician
+537,2014-01-10 07:54:00,Coffee Cameleon,9.69,Carla,Forluniau,True,10,7,54,0,69.0,0.0,Other,Other
+538,2014-01-10 07:55:00,Brew've Been Served,5.91,Cornelia,Lais,True,10,7,55,0,91.0,0.0,Other,Other
+539,2014-01-10 07:56:00,Brew've Been Served,17.25,Edvard,Vann,True,10,7,56,0,25.0,34.0,Security,Perimeter Control
+540,2014-01-10 07:56:00,Brew've Been Served,10.72,Isia,Vann,True,10,7,56,0,72.0,16.0,Security,Perimeter Control
+541,2014-01-10 07:59:00,Abila Airport,4039.36,Claudio,Hawelon,False,10,7,59,0,36.0,100.0,Facilities,Truck Driver
+542,2014-01-10 08:01:00,Brew've Been Served,5.89,Kanon,Herrero,True,10,8,1,0,89.0,22.0,Security,Badging Office
+543,2014-01-10 08:01:00,Brew've Been Served,5.31,Felix,Resumir,True,10,8,1,0,31.0,30.0,Security,Security Group Manager
+544,2014-01-10 08:06:00,Hallowed Grounds,9.34,Anda,Ribera,True,10,8,6,0,34.0,0.0,Other,Other
+545,2014-01-10 08:09:00,Brew've Been Served,14.45,Loreto,Bodrogi,True,10,8,9,0,45.0,15.0,Security,Site Control
+546,2014-01-10 08:09:00,Brew've Been Served,3.03,Inga,Ferro,True,10,8,9,0,3.0,13.0,Security,Site Control
+547,2014-01-10 08:11:00,Coffee Cameleon,13.25,Adra,Nubarron,False,10,8,11,0,25.0,25.0,Engineering,Geologist
+548,2014-01-10 08:17:00,Brew've Been Served,8.47,Dante,Coginian,False,10,8,17,0,47.0,0.0,Other,Other
+549,2014-01-10 08:17:00,Brew've Been Served,12.64,Minke,Mies,True,10,8,17,0,64.0,24.0,Security,Perimeter Control
+550,2014-01-10 08:20:00,Brew've Been Served,14.36,Linda,Lagos,True,10,8,20,0,36.0,0.0,Other,Other
+551,2014-01-10 09:09:00,Carlyle Chemical Inc.,227.81,Claudio,Hawelon,True,10,9,9,0,81.0,100.0,Facilities,Truck Driver
+552,2014-01-10 09:30:00,Kronos Mart,203.91,Ingrid,Barranco,False,10,9,30,0,91.0,4.0,Executive,SVP/CFO
+553,2014-01-10 10:00:00,Nationwide Refinery,1552.82,Cecilia,Morluniau,True,10,10,0,0,82.0,100.0,Facilities,Truck Driver
+554,2014-01-10 10:40:00,Nationwide Refinery,2262.73,Claudio,Hawelon,True,10,10,40,0,73.0,100.0,Facilities,Truck Driver
+555,2014-01-10 11:49:00,Stewart and Sons Fabrication,4074.1,Cecilia,Morluniau,True,10,11,49,0,10.0,100.0,Facilities,Truck Driver
+556,2014-01-10 12:00:00,Bean There Done That,15.39,Lars,Azada,True,10,12,0,0,39.0,2.0,Engineering,Engineer
+557,2014-01-10 12:00:00,Bean There Done That,3.92,Felix,Balas,True,10,12,0,0,92.0,3.0,Engineering,Engineer
+558,2014-01-10 12:00:00,Brewed Awakenings,13.82,Ingrid,Barranco,True,10,12,0,0,82.0,4.0,Executive,SVP/CFO
+559,2014-01-10 12:00:00,Jack's Magical Beans,15.69,Isak,Baza,True,10,12,0,0,69.0,5.0,Information Technology,IT Technician
+560,2014-01-10 12:00:00,Brewed Awakenings,6.17,Isande,Borrasca,True,10,12,0,0,17.0,7.0,Engineering,Drill Technician
+561,2014-01-10 12:00:00,Bean There Done That,13.41,Axel,Calzas,True,10,12,0,0,41.0,9.0,Engineering,Drill Technician
+562,2014-01-10 12:00:00,Brewed Awakenings,13.9,Ada,Campo-Corrente,True,10,12,0,0,90.0,10.0,Executive,SVP/CIO
+563,2014-01-10 12:00:00,Bean There Done That,18.67,Gustav,Cazar,True,10,12,0,0,67.0,11.0,Engineering,Hydraulic Technician
+564,2014-01-10 12:00:00,Bean There Done That,9.3,Vira,Frente,True,10,12,0,0,30.0,19.0,Engineering,Hydraulic Technician
+565,2014-01-10 12:00:00,Jack's Magical Beans,16.29,Elsa,Orilla,True,10,12,0,0,29.0,28.0,Engineering,Drill Technician
+566,2014-01-10 12:00:00,Jack's Magical Beans,5.46,Orhan,Strum,True,10,12,0,0,46.0,32.0,Executive,SVP/COO
+567,2014-01-10 12:00:00,Jack's Magical Beans,8.22,Willem,Vasco-Pais,False,10,12,0,0,22.0,35.0,Executive,Environmental Safety Advisor
+568,2014-01-10 12:10:00,Stewart and Sons Fabrication,4195.49,Claudio,Hawelon,True,10,12,10,0,49.0,100.0,Facilities,Truck Driver
+569,2014-01-10 13:08:00,Chostus Hotel,113.25,Brand,Tempestad,True,10,13,8,0,25.0,33.0,Engineering,Drill Technician
+570,2014-01-10 13:11:00,Chostus Hotel,197.41,Isande,Borrasca,False,10,13,11,0,41.0,7.0,Engineering,Drill Technician
+571,2014-01-10 13:12:00,Guy's Gyros,36.44,Orhan,Strum,True,10,13,12,0,44.0,32.0,Executive,SVP/COO
+572,2014-01-10 13:16:00,Ouzeri Elian,30.71,Lucas,Alcazar,False,10,13,16,0,71.0,1.0,Information Technology,IT Helpdesk
+573,2014-01-10 13:20:00,Hippokampos,39.26,Edvard,Vann,True,10,13,20,0,26.0,34.0,Security,Perimeter Control
+574,2014-01-10 13:25:00,Guy's Gyros,26.76,Stenig,Fusil,True,10,13,25,0,76.0,20.0,Security,Building Control
+575,2014-01-10 13:27:00,Guy's Gyros,15.93,Linnea,Bergen,True,10,13,27,0,93.0,6.0,Information Technology,IT Group Manager
+576,2014-01-10 13:29:00,Abila Zacharo,33.33,Isak,Baza,True,10,13,29,0,33.0,5.0,Information Technology,IT Technician
+577,2014-01-10 13:30:00,Katerina’s Café,34.76,Ingrid,Barranco,True,10,13,30,0,76.0,4.0,Executive,SVP/CFO
+578,2014-01-10 13:30:00,Kalami Kafenion,35.69,Varja,Lagos,True,10,13,30,0,69.0,23.0,Security,Badging Office
+579,2014-01-10 13:35:00,Gelatogalore,26.15,Lars,Azada,True,10,13,35,0,15.0,2.0,Engineering,Engineer
+580,2014-01-10 13:35:00,Ouzeri Elian,35.24,Loreto,Bodrogi,True,10,13,35,0,24.0,15.0,Security,Site Control
+581,2014-01-10 13:35:00,Kalami Kafenion,101.5,Elsa,Orilla,True,10,13,35,0,50.0,28.0,Engineering,Drill Technician
+582,2014-01-10 13:36:00,Abila Zacharo,36.73,Marin,Onda,True,10,13,36,0,73.0,26.0,Engineering,Drill Site Manager
+583,2014-01-10 13:36:00,Katerina’s Café,25.36,Isia,Vann,True,10,13,36,0,36.0,16.0,Security,Perimeter Control
+584,2014-01-10 13:38:00,Guy's Gyros,26.68,Sven,Flecha,True,10,13,38,0,68.0,17.0,Information Technology,IT Technician
+585,2014-01-10 13:38:00,Katerina’s Café,21.22,Carla,Forluniau,True,10,13,38,0,22.0,0.0,Other,Other
+586,2014-01-10 13:40:00,Hippokampos,32.01,Willem,Vasco-Pais,True,10,13,40,0,1.0,35.0,Executive,Environmental Safety Advisor
+587,2014-01-10 13:44:00,Guy's Gyros,38.15,Linda,Lagos,True,10,13,44,0,15.0,0.0,Other,Other
+588,2014-01-10 13:44:00,Ouzeri Elian,20.46,Hennie,Osvaldo,True,10,13,44,0,46.0,21.0,Security,Perimeter Control
+589,2014-01-10 13:45:00,Kalami Kafenion,27.48,Ruscella,Mies Haber,True,10,13,45,0,48.0,0.0,Other,Other
+590,2014-01-10 13:46:00,Abila Zacharo,31.34,Rachel,Pantanal,True,10,13,46,0,34.0,0.0,Other,Other
+591,2014-01-10 13:47:00,Guy's Gyros,31.5,Felix,Balas,True,10,13,47,0,50.0,3.0,Engineering,Engineer
+592,2014-01-10 13:47:00,Katerina’s Café,25.62,Vira,Frente,True,10,13,47,0,62.0,19.0,Engineering,Hydraulic Technician
+593,2014-01-10 13:47:00,Katerina’s Café,24.33,Adra,Nubarron,True,10,13,47,0,33.0,25.0,Engineering,Geologist
+594,2014-01-10 13:50:00,Ouzeri Elian,15.25,Axel,Calzas,True,10,13,50,0,25.0,9.0,Engineering,Drill Technician
+595,2014-01-10 13:52:00,Guy's Gyros,31.05,Gustav,Cazar,True,10,13,52,0,5.0,11.0,Engineering,Hydraulic Technician
+596,2014-01-10 13:53:00,Kalami Kafenion,24.3,Minke,Mies,True,10,13,53,0,30.0,24.0,Security,Perimeter Control
+597,2014-01-10 13:57:00,Guy's Gyros,16.34,Emile,Arpa,True,10,13,57,0,34.0,0.0,Other,Other
+598,2014-01-10 13:57:00,Ouzeri Elian,24.74,Cornelia,Lais,True,10,13,57,0,74.0,0.0,Other,Other
+599,2014-01-10 13:58:00,Hippokampos,39.89,Felix,Resumir,True,10,13,58,0,89.0,30.0,Security,Security Group Manager
+600,2014-01-10 13:59:00,Abila Zacharo,8.22,Lidelse,Dedos,True,10,13,59,0,22.0,14.0,Engineering,Engineering Group Manager
+601,2014-01-10 14:01:00,Abila Zacharo,16.12,Kare,Orilla,True,10,14,1,0,12.0,27.0,Engineering,Drill Technician
+602,2014-01-10 14:03:00,Abila Zacharo,36.38,Inga,Ferro,True,10,14,3,0,38.0,13.0,Security,Site Control
+603,2014-01-10 14:07:00,Hippokampos,11.61,Varro,Awelon,False,10,14,7,0,61.0,0.0,Other,Other
+604,2014-01-10 14:07:00,Ouzeri Elian,30.93,Birgitta,Frente,True,10,14,7,0,93.0,18.0,Engineering,Geologist
+605,2014-01-10 14:08:00,Katerina’s Café,37.62,Hideki,Cocinaro,True,10,14,8,0,62.0,12.0,Security,Site Control
+606,2014-01-10 14:09:00,Abila Zacharo,9.32,Anda,Ribera,True,10,14,9,0,32.0,0.0,Other,Other
+607,2014-01-10 14:11:00,Gelatogalore,32.19,Dante,Coginian,True,10,14,11,0,19.0,0.0,Other,Other
+608,2014-01-10 14:20:00,Hippokampos,10.16,Mat,Bramar,False,10,14,20,0,16.0,0.0,Other,Other
+609,2014-01-10 14:41:00,Octavio's Office Supplies,139.72,Edvard,Vann,True,10,14,41,0,72.0,34.0,Security,Perimeter Control
+610,2014-01-10 16:07:00,Octavio's Office Supplies,64.51,Linnea,Bergen,True,10,16,7,0,51.0,6.0,Information Technology,IT Group Manager
+611,2014-01-10 18:52:00,Ouzeri Elian,19.92,Isak,Baza,True,10,18,52,0,92.0,5.0,Information Technology,IT Technician
+612,2014-01-10 18:57:00,Frydos Autosupply n' More,98.39,Nils,Calixto,False,10,18,57,0,39.0,8.0,Information Technology,IT Technician
+613,2014-01-10 19:45:00,Guy's Gyros,23.61,Stenig,Fusil,True,10,19,45,0,61.0,20.0,Security,Building Control
+614,2014-01-10 19:46:00,Hippokampos,28.22,Lars,Azada,True,10,19,46,0,22.0,2.0,Engineering,Engineer
+615,2014-01-10 19:50:00,Katerina’s Café,19.57,Emile,Arpa,False,10,19,50,0,57.0,0.0,Other,Other
+616,2014-01-10 19:54:00,Guy's Gyros,27.78,Edvard,Vann,True,10,19,54,0,78.0,34.0,Security,Perimeter Control
+617,2014-01-10 19:56:00,Hippokampos,19.88,Varro,Awelon,True,10,19,56,0,88.0,0.0,Other,Other
+618,2014-01-10 19:56:00,Katerina’s Café,21.89,Bertrand,Ovan,True,10,19,56,0,89.0,29.0,Facilities,Facilities Group Manager
+619,2014-01-10 20:02:00,Frydos Autosupply n' More,43.65,Dante,Coginian,True,10,20,2,0,65.0,0.0,Other,Other
+620,2014-01-10 20:08:00,Katerina’s Café,15.76,Hennie,Osvaldo,True,10,20,8,0,76.0,21.0,Security,Perimeter Control
+621,2014-01-10 20:09:00,Hippokampos,10.48,Ingrid,Barranco,True,10,20,9,0,48.0,4.0,Executive,SVP/CFO
+622,2014-01-10 20:09:00,Katerina’s Café,8.14,Linda,Lagos,True,10,20,9,0,14.0,0.0,Other,Other
+623,2014-01-10 20:09:00,Guy's Gyros,29.81,Felix,Resumir,True,10,20,9,0,81.0,30.0,Security,Security Group Manager
+624,2014-01-10 20:11:00,Albert's Fine Clothing,126.13,Vira,Frente,True,10,20,11,0,13.0,19.0,Engineering,Hydraulic Technician
+625,2014-01-10 20:15:00,Frydos Autosupply n' More,217.08,Sven,Flecha,True,10,20,15,0,8.0,17.0,Information Technology,IT Technician
+626,2014-01-10 20:17:00,Shoppers' Delight,279.53,Inga,Ferro,True,10,20,17,0,53.0,13.0,Security,Site Control
+627,2014-01-10 20:20:00,Guy's Gyros,35.54,Hideki,Cocinaro,False,10,20,20,0,54.0,12.0,Security,Site Control
+628,2014-01-10 20:23:00,Guy's Gyros,37.37,Loreto,Bodrogi,False,10,20,23,0,37.0,15.0,Security,Site Control
+629,2014-01-10 20:42:00,Katerina’s Café,21.28,Ruscella,Mies Haber,True,10,20,42,0,28.0,0.0,Other,Other
+630,2014-01-10 20:50:00,Hippokampos,17.21,Ada,Campo-Corrente,True,10,20,50,0,21.0,10.0,Executive,SVP/CIO
+631,2014-01-10 21:11:00,Roberts and Sons,241.2,Isia,Vann,False,10,21,11,0,20.0,16.0,Security,Perimeter Control
+632,2014-01-10 21:13:00,Guy's Gyros,25.81,Cornelia,Lais,True,10,21,13,0,81.0,0.0,Other,Other
+633,2014-01-10 21:17:00,Hippokampos,27.0,Orhan,Strum,False,10,21,17,0,0.0,32.0,Executive,SVP/COO
+634,2014-01-10 21:28:00,General Grocer,227.28,Minke,Mies,True,10,21,28,0,28.0,24.0,Security,Perimeter Control
+635,2014-01-10 22:21:00,Hippokampos,39.97,Willem,Vasco-Pais,True,10,22,21,0,97.0,35.0,Executive,Environmental Safety Advisor
+636,2014-01-11 13:19:00,Katerina’s Café,45.22,Orhan,Strum,True,11,13,19,0,22.0,32.0,Executive,SVP/COO
+637,2014-01-11 13:23:00,Katerina’s Café,45.21,Carla,Forluniau,True,11,13,23,0,21.0,0.0,Other,Other
+638,2014-01-11 13:32:00,Katerina’s Café,29.1,Vira,Frente,True,11,13,32,0,10.0,19.0,Engineering,Hydraulic Technician
+639,2014-01-11 13:32:00,Abila Zacharo,54.82,Marin,Onda,True,11,13,32,0,82.0,26.0,Engineering,Drill Site Manager
+640,2014-01-11 13:33:00,Abila Zacharo,89.54,Isande,Borrasca,True,11,13,33,0,54.0,7.0,Engineering,Drill Technician
+641,2014-01-11 13:35:00,Gelatogalore,17.31,Birgitta,Frente,True,11,13,35,0,31.0,18.0,Engineering,Geologist
+642,2014-01-11 13:36:00,Hippokampos,23.38,Minke,Mies,True,11,13,36,0,38.0,24.0,Security,Perimeter Control
+643,2014-01-11 13:37:00,Hippokampos,75.62,Lucas,Alcazar,False,11,13,37,0,62.0,1.0,Information Technology,IT Helpdesk
+644,2014-01-11 13:37:00,Hippokampos,22.23,Anda,Ribera,True,11,13,37,0,23.0,0.0,Other,Other
+645,2014-01-11 13:40:00,Ouzeri Elian,19.11,Emile,Arpa,False,11,13,40,0,11.0,0.0,Other,Other
+646,2014-01-11 13:43:00,Katerina’s Café,71.65,Varja,Lagos,True,11,13,43,0,65.0,23.0,Security,Badging Office
+647,2014-01-11 13:47:00,Hippokampos,31.1,Ingrid,Barranco,False,11,13,47,0,10.0,4.0,Executive,SVP/CFO
+648,2014-01-11 13:50:00,Katerina’s Café,23.45,Gustav,Cazar,True,11,13,50,0,45.0,11.0,Engineering,Hydraulic Technician
+649,2014-01-11 13:51:00,Abila Zacharo,32.02,Linnea,Bergen,False,11,13,51,0,2.0,6.0,Information Technology,IT Group Manager
+650,2014-01-11 13:59:00,Gelatogalore,18.74,Loreto,Bodrogi,False,11,13,59,0,74.0,15.0,Security,Site Control
+651,2014-01-11 14:09:00,Kalami Kafenion,35.66,Varro,Awelon,True,11,14,9,0,66.0,0.0,Other,Other
+652,2014-01-11 14:16:00,Kalami Kafenion,39.36,Hideki,Cocinaro,True,11,14,16,0,36.0,12.0,Security,Site Control
+653,2014-01-11 14:17:00,Katerina’s Café,26.02,Adra,Nubarron,True,11,14,17,0,2.0,25.0,Engineering,Geologist
+654,2014-01-11 14:19:00,Abila Zacharo,45.2,Felix,Resumir,True,11,14,19,0,20.0,30.0,Security,Security Group Manager
+655,2014-01-11 15:15:00,Shoppers' Delight,157.45,Birgitta,Frente,False,11,15,15,0,45.0,18.0,Engineering,Geologist
+656,2014-01-11 15:20:00,Shoppers' Delight,238.52,Carla,Forluniau,True,11,15,20,0,52.0,0.0,Other,Other
+657,2014-01-11 15:31:00,General Grocer,78.02,Emile,Arpa,True,11,15,31,0,2.0,0.0,Other,Other
+658,2014-01-11 16:00:00,Roberts and Sons,256.24,Marin,Onda,False,11,16,0,0,24.0,26.0,Engineering,Drill Site Manager
+659,2014-01-11 16:01:00,Albert's Fine Clothing,211.47,Minke,Mies,True,11,16,1,0,47.0,24.0,Security,Perimeter Control
+660,2014-01-11 16:09:00,Frydos Autosupply n' More,52.73,Ingrid,Barranco,True,11,16,9,0,73.0,4.0,Executive,SVP/CFO
+661,2014-01-11 16:24:00,Ahaggo Museum,89.32,Edvard,Vann,True,11,16,24,0,32.0,34.0,Security,Perimeter Control
+662,2014-01-11 17:16:00,Ahaggo Museum,32.14,Brand,Tempestad,True,11,17,16,0,14.0,33.0,Engineering,Drill Technician
+663,2014-01-11 19:08:00,Katerina’s Café,55.67,Birgitta,Frente,True,11,19,8,0,67.0,18.0,Engineering,Geologist
+664,2014-01-11 19:17:00,Kalami Kafenion,23.86,Inga,Ferro,True,11,19,17,0,86.0,13.0,Security,Site Control
+665,2014-01-11 19:21:00,Ouzeri Elian,69.36,Isak,Baza,True,11,19,21,0,36.0,5.0,Information Technology,IT Technician
+666,2014-01-11 19:26:00,Hippokampos,66.21,Ingrid,Barranco,True,11,19,26,0,21.0,4.0,Executive,SVP/CFO
+667,2014-01-11 19:27:00,Albert's Fine Clothing,105.33,Orhan,Strum,True,11,19,27,0,33.0,32.0,Executive,SVP/COO
+668,2014-01-11 19:27:00,Hippokampos,32.63,Brand,Tempestad,True,11,19,27,0,63.0,33.0,Engineering,Drill Technician
+669,2014-01-11 19:29:00,Hippokampos,63.21,Edvard,Vann,True,11,19,29,0,21.0,34.0,Security,Perimeter Control
+670,2014-01-11 19:31:00,Katerina’s Café,33.18,Adra,Nubarron,True,11,19,31,0,18.0,25.0,Engineering,Geologist
+671,2014-01-11 19:32:00,Katerina’s Café,20.71,Anda,Ribera,True,11,19,32,0,71.0,0.0,Other,Other
+672,2014-01-11 19:33:00,Hippokampos,11.13,Axel,Calzas,False,11,19,33,0,13.0,9.0,Engineering,Drill Technician
+673,2014-01-11 19:34:00,Guy's Gyros,55.36,Stenig,Fusil,False,11,19,34,0,36.0,20.0,Security,Building Control
+674,2014-01-11 19:40:00,Katerina’s Café,57.36,Isande,Borrasca,True,11,19,40,0,36.0,7.0,Engineering,Drill Technician
+675,2014-01-11 19:44:00,Shoppers' Delight,149.2,Lucas,Alcazar,False,11,19,44,0,20.0,1.0,Information Technology,IT Helpdesk
+676,2014-01-11 19:45:00,Hippokampos,63.21,Ada,Campo-Corrente,True,11,19,45,0,21.0,10.0,Executive,SVP/CIO
+677,2014-01-11 19:50:00,Katerina’s Café,12.55,Nils,Calixto,True,11,19,50,0,55.0,8.0,Information Technology,IT Technician
+678,2014-01-11 19:51:00,Katerina’s Café,45.68,Marin,Onda,True,11,19,51,0,68.0,26.0,Engineering,Drill Site Manager
+679,2014-01-11 19:52:00,Katerina’s Café,15.72,Linda,Lagos,False,11,19,52,0,72.0,0.0,Other,Other
+680,2014-01-11 19:53:00,Hippokampos,67.37,Felix,Balas,True,11,19,53,0,37.0,3.0,Engineering,Engineer
+681,2014-01-11 19:57:00,Guy's Gyros,36.2,Cornelia,Lais,True,11,19,57,0,20.0,0.0,Other,Other
+682,2014-01-11 20:00:00,Katerina’s Café,25.76,Mat,Bramar,True,11,20,0,0,76.0,0.0,Other,Other
+683,2014-01-11 20:04:00,Kalami Kafenion,50.2,Kanon,Herrero,False,11,20,4,0,20.0,22.0,Security,Badging Office
+684,2014-01-11 20:04:00,Ouzeri Elian,16.69,Rachel,Pantanal,False,11,20,4,0,69.0,0.0,Other,Other
+685,2014-01-11 20:06:00,Katerina’s Café,52.45,Dante,Coginian,True,11,20,6,0,45.0,0.0,Other,Other
+686,2014-01-11 20:06:00,Guy's Gyros,33.65,Sven,Flecha,True,11,20,6,0,65.0,17.0,Information Technology,IT Technician
+687,2014-01-11 20:09:00,Guy's Gyros,16.33,Isia,Vann,True,11,20,9,0,33.0,16.0,Security,Perimeter Control
+688,2014-01-11 20:13:00,Frydos Autosupply n' More,211.15,Ruscella,Mies Haber,False,11,20,13,0,15.0,0.0,Other,Other
+689,2014-01-11 20:13:00,Katerina’s Café,9.78,Hennie,Osvaldo,True,11,20,13,0,78.0,21.0,Security,Perimeter Control
+690,2014-01-11 20:15:00,Frydos Autosupply n' More,54.98,Bertrand,Ovan,True,11,20,15,0,98.0,29.0,Facilities,Facilities Group Manager
+691,2014-01-11 20:22:00,Frydos Autosupply n' More,236.25,Emile,Arpa,True,11,20,22,0,25.0,0.0,Other,Other
+692,2014-01-11 20:23:00,Hippokampos,70.23,Lars,Azada,True,11,20,23,0,23.0,2.0,Engineering,Engineer
+693,2014-01-11 20:24:00,Katerina’s Café,94.68,Carla,Forluniau,True,11,20,24,0,68.0,0.0,Other,Other
+694,2014-01-11 20:26:00,Frydos Autosupply n' More,261.0,Felix,Resumir,True,11,20,26,0,0.0,30.0,Security,Security Group Manager
+695,2014-01-11 20:27:00,Hippokampos,69.8,Varro,Awelon,True,11,20,27,0,80.0,0.0,Other,Other
+696,2014-01-11 20:30:00,Kalami Kafenion,46.78,Hideki,Cocinaro,False,11,20,30,0,78.0,12.0,Security,Site Control
+697,2014-01-11 20:46:00,Katerina’s Café,17.6,Lidelse,Dedos,True,11,20,46,0,60.0,14.0,Engineering,Engineering Group Manager
+698,2014-01-12 03:39:00,Kronos Mart,277.26,Orhan,Strum,False,12,3,39,0,26.0,32.0,Executive,SVP/COO
+699,2014-01-12 13:03:00,Ouzeri Elian,38.55,Ada,Campo-Corrente,True,12,13,3,0,55.0,10.0,Executive,SVP/CIO
+700,2014-01-12 13:17:00,Ouzeri Elian,98.45,Ruscella,Mies Haber,True,12,13,17,0,45.0,0.0,Other,Other
+701,2014-01-12 13:25:00,Hippokampos,12.55,Adra,Nubarron,True,12,13,25,0,55.0,25.0,Engineering,Geologist
+702,2014-01-12 13:28:00,Ouzeri Elian,24.72,Inga,Ferro,True,12,13,28,0,72.0,13.0,Security,Site Control
+703,2014-01-12 13:30:00,Ouzeri Elian,72.32,Marin,Onda,True,12,13,30,0,32.0,26.0,Engineering,Drill Site Manager
+704,2014-01-12 13:31:00,Guy's Gyros,34.74,Felix,Resumir,True,12,13,31,0,74.0,30.0,Security,Security Group Manager
+705,2014-01-12 13:32:00,Ouzeri Elian,117.22,Orhan,Strum,True,12,13,32,0,22.0,32.0,Executive,SVP/COO
+706,2014-01-12 13:35:00,Hippokampos,29.2,Varro,Awelon,True,12,13,35,0,20.0,0.0,Other,Other
+707,2014-01-12 13:40:00,Gelatogalore,20.09,Kanon,Herrero,False,12,13,40,0,9.0,22.0,Security,Badging Office
+708,2014-01-12 13:45:00,Abila Zacharo,11.2,Brand,Tempestad,True,12,13,45,0,20.0,33.0,Engineering,Drill Technician
+709,2014-01-12 13:45:00,Desafio Golf Course,129.33,Willem,Vasco-Pais,True,12,13,45,0,33.0,35.0,Executive,Environmental Safety Advisor
+710,2014-01-12 13:52:00,Kalami Kafenion,54.36,Isande,Borrasca,False,12,13,52,0,36.0,7.0,Engineering,Drill Technician
+711,2014-01-12 13:54:00,Hippokampos,8.54,Nils,Calixto,True,12,13,54,0,54.0,8.0,Information Technology,IT Technician
+712,2014-01-12 13:55:00,Kalami Kafenion,14.59,Kare,Orilla,True,12,13,55,0,59.0,27.0,Engineering,Drill Technician
+713,2014-01-12 14:04:00,Hippokampos,12.57,Lidelse,Dedos,True,12,14,4,0,57.0,14.0,Engineering,Engineering Group Manager
+714,2014-01-12 14:06:00,Hippokampos,31.99,Lucas,Alcazar,True,12,14,6,0,99.0,1.0,Information Technology,IT Helpdesk
+715,2014-01-12 14:13:00,Desafio Golf Course,160.77,Ingrid,Barranco,True,12,14,13,0,77.0,4.0,Executive,SVP/CFO
+716,2014-01-12 14:14:00,Desafio Golf Course,198.46,Ada,Campo-Corrente,True,12,14,14,0,46.0,10.0,Executive,SVP/CIO
+717,2014-01-12 14:16:00,Guy's Gyros,30.47,Emile,Arpa,True,12,14,16,0,47.0,0.0,Other,Other
+718,2014-01-12 15:10:00,Shoppers' Delight,135.78,Marin,Onda,True,12,15,10,0,78.0,26.0,Engineering,Drill Site Manager
+719,2014-01-12 15:24:00,Shoppers' Delight,86.22,Kanon,Herrero,True,12,15,24,0,22.0,22.0,Security,Badging Office
+720,2014-01-12 15:32:00,Shoppers' Delight,204.37,Inga,Ferro,True,12,15,32,0,37.0,13.0,Security,Site Control
+721,2014-01-12 15:46:00,General Grocer,159.3,Varro,Awelon,True,12,15,46,0,30.0,0.0,Other,Other
+722,2014-01-12 15:49:00,Albert's Fine Clothing,195.81,Adra,Nubarron,True,12,15,49,0,81.0,25.0,Engineering,Geologist
+723,2014-01-12 16:08:00,Shoppers' Delight,51.5,Bertrand,Ovan,True,12,16,8,0,50.0,29.0,Facilities,Facilities Group Manager
+724,2014-01-12 16:27:00,Ahaggo Museum,120.2,Felix,Resumir,True,12,16,27,0,20.0,30.0,Security,Security Group Manager
+725,2014-01-12 19:18:00,Katerina’s Café,12.64,Nils,Calixto,True,12,19,18,0,64.0,8.0,Information Technology,IT Technician
+726,2014-01-12 19:21:00,Katerina’s Café,11.81,Linnea,Bergen,True,12,19,21,0,81.0,6.0,Information Technology,IT Group Manager
+727,2014-01-12 19:22:00,Hippokampos,27.15,Gustav,Cazar,True,12,19,22,0,15.0,11.0,Engineering,Hydraulic Technician
+728,2014-01-12 19:26:00,Guy's Gyros,42.32,Hideki,Cocinaro,True,12,19,26,0,32.0,12.0,Security,Site Control
+729,2014-01-12 19:26:00,Shoppers' Delight,211.03,Sven,Flecha,True,12,19,26,0,3.0,17.0,Information Technology,IT Technician
+730,2014-01-12 19:29:00,Hippokampos,66.63,Lars,Azada,True,12,19,29,0,63.0,2.0,Engineering,Engineer
+731,2014-01-12 19:32:00,Guy's Gyros,34.41,Loreto,Bodrogi,True,12,19,32,0,41.0,15.0,Security,Site Control
+732,2014-01-12 19:35:00,Hippokampos,49.23,Vira,Frente,True,12,19,35,0,23.0,19.0,Engineering,Hydraulic Technician
+733,2014-01-12 19:36:00,Guy's Gyros,12.32,Isia,Vann,False,12,19,36,0,32.0,16.0,Security,Perimeter Control
+734,2014-01-12 19:43:00,Katerina’s Café,40.94,Ruscella,Mies Haber,True,12,19,43,0,94.0,0.0,Other,Other
+735,2014-01-12 19:44:00,Hippokampos,26.79,Ada,Campo-Corrente,True,12,19,44,0,79.0,10.0,Executive,SVP/CIO
+736,2014-01-12 19:47:00,Katerina’s Café,17.36,Kare,Orilla,False,12,19,47,0,36.0,27.0,Engineering,Drill Technician
+737,2014-01-12 19:50:00,Gelatogalore,36.2,Kanon,Herrero,False,12,19,50,0,20.0,22.0,Security,Badging Office
+738,2014-01-12 19:51:00,Hippokampos,52.21,Orhan,Strum,True,12,19,51,0,21.0,32.0,Executive,SVP/COO
+739,2014-01-12 19:52:00,Frydos Autosupply n' More,88.93,Cornelia,Lais,True,12,19,52,0,93.0,0.0,Other,Other
+740,2014-01-12 19:58:00,Albert's Fine Clothing,63.36,Axel,Calzas,True,12,19,58,0,36.0,9.0,Engineering,Drill Technician
+741,2014-01-12 19:59:00,Ouzeri Elian,55.55,Isak,Baza,True,12,19,59,0,55.0,5.0,Information Technology,IT Technician
+742,2014-01-12 20:04:00,Katerina’s Café,39.3,Emile,Arpa,True,12,20,4,0,30.0,0.0,Other,Other
+743,2014-01-12 20:05:00,Hippokampos,78.21,Felix,Balas,True,12,20,5,0,21.0,3.0,Engineering,Engineer
+744,2014-01-12 20:11:00,Katerina’s Café,67.14,Bertrand,Ovan,True,12,20,11,0,14.0,29.0,Facilities,Facilities Group Manager
+745,2014-01-12 20:12:00,Katerina’s Café,15.37,Hennie,Osvaldo,True,12,20,12,0,37.0,21.0,Security,Perimeter Control
+746,2014-01-12 20:13:00,Katerina’s Café,39.55,Adra,Nubarron,False,12,20,13,0,55.0,25.0,Engineering,Geologist
+747,2014-01-12 20:15:00,Hippokampos,29.41,Isande,Borrasca,True,12,20,15,0,41.0,7.0,Engineering,Drill Technician
+748,2014-01-12 20:17:00,Katerina’s Café,16.34,Linda,Lagos,True,12,20,17,0,34.0,0.0,Other,Other
+749,2014-01-12 20:35:00,Katerina’s Café,40.25,Mat,Bramar,True,12,20,35,0,25.0,0.0,Other,Other
+750,2014-01-12 20:38:00,Hippokampos,63.32,Ingrid,Barranco,True,12,20,38,0,32.0,4.0,Executive,SVP/CFO
+751,2014-01-12 20:43:00,Frydos Autosupply n' More,161.96,Dante,Coginian,True,12,20,43,0,96.0,0.0,Other,Other
+752,2014-01-12 20:48:00,Katerina’s Café,27.09,Lidelse,Dedos,True,12,20,48,0,9.0,14.0,Engineering,Engineering Group Manager
+753,2014-01-13 03:00:00,Kronos Mart,147.3,Ruscella,Mies Haber,False,13,3,0,0,30.0,0.0,Other,Other
+754,2014-01-13 06:04:00,Daily Dealz,2.01,Lucas,Alcazar,False,13,6,4,0,1.0,1.0,Information Technology,IT Helpdesk
+755,2014-01-13 07:32:00,Hallowed Grounds,9.16,Nils,Calixto,True,13,7,32,0,16.0,8.0,Information Technology,IT Technician
+756,2014-01-13 07:36:00,Brew've Been Served,16.39,Cornelia,Lais,False,13,7,36,0,39.0,0.0,Other,Other
+757,2014-01-13 07:38:00,Brew've Been Served,8.04,Sven,Flecha,True,13,7,38,0,4.0,17.0,Information Technology,IT Technician
+758,2014-01-13 07:40:00,Coffee Cameleon,19.93,Bertrand,Ovan,True,13,7,40,0,93.0,29.0,Facilities,Facilities Group Manager
+759,2014-01-13 07:40:00,Brew've Been Served,8.0,Brand,Tempestad,True,13,7,40,0,0.0,33.0,Engineering,Drill Technician
+760,2014-01-13 07:42:00,Hallowed Grounds,3.02,Marin,Onda,False,13,7,42,0,2.0,26.0,Engineering,Drill Site Manager
+761,2014-01-13 07:43:00,Brew've Been Served,4.18,Stenig,Fusil,True,13,7,43,0,18.0,20.0,Security,Building Control
+762,2014-01-13 07:43:00,Hallowed Grounds,13.68,Kare,Orilla,True,13,7,43,0,68.0,27.0,Engineering,Drill Technician
+763,2014-01-13 07:43:00,Brew've Been Served,18.71,Edvard,Vann,True,13,7,43,0,71.0,34.0,Security,Perimeter Control
+764,2014-01-13 07:44:00,Hallowed Grounds,5.85,Hennie,Osvaldo,True,13,7,44,0,85.0,21.0,Security,Perimeter Control
+765,2014-01-13 07:53:00,Brew've Been Served,19.64,Isia,Vann,True,13,7,53,0,64.0,16.0,Security,Perimeter Control
+766,2014-01-13 07:54:00,Hallowed Grounds,19.18,Hideki,Cocinaro,True,13,7,54,0,18.0,12.0,Security,Site Control
+767,2014-01-13 07:55:00,Coffee Cameleon,17.49,Carla,Forluniau,True,13,7,55,0,49.0,0.0,Other,Other
+768,2014-01-13 07:55:00,Brew've Been Served,6.08,Ruscella,Mies Haber,False,13,7,55,0,8.0,0.0,Other,Other
+769,2014-01-13 07:56:00,Brew've Been Served,9.53,Mat,Bramar,True,13,7,56,0,53.0,0.0,Other,Other
+770,2014-01-13 07:57:00,Brew've Been Served,18.23,Varja,Lagos,True,13,7,57,0,23.0,23.0,Security,Badging Office
+771,2014-01-13 07:57:00,Hallowed Grounds,6.32,Anda,Ribera,True,13,7,57,0,32.0,0.0,Other,Other
+772,2014-01-13 08:00:00,Brew've Been Served,13.37,Linda,Lagos,True,13,8,0,0,37.0,0.0,Other,Other
+773,2014-01-13 08:01:00,Kronos Mart,159.06,Stenig,Fusil,False,13,8,1,0,6.0,20.0,Security,Building Control
+774,2014-01-13 08:02:00,Coffee Cameleon,4.88,Linnea,Bergen,True,13,8,2,0,88.0,6.0,Information Technology,IT Group Manager
+775,2014-01-13 08:04:00,Brew've Been Served,16.05,Minke,Mies,True,13,8,4,0,5.0,24.0,Security,Perimeter Control
+776,2014-01-13 08:06:00,Hallowed Grounds,15.96,Rachel,Pantanal,True,13,8,6,0,96.0,0.0,Other,Other
+777,2014-01-13 08:07:00,Brew've Been Served,11.49,Kanon,Herrero,True,13,8,7,0,49.0,22.0,Security,Badging Office
+778,2014-01-13 08:12:00,Coffee Cameleon,17.76,Adra,Nubarron,True,13,8,12,0,76.0,25.0,Engineering,Geologist
+779,2014-01-13 08:15:00,Abila Airport,3617.47,Albina,Hafon,True,13,8,15,0,47.0,100.0,Facilities,Truck Driver
+780,2014-01-13 08:21:00,Brew've Been Served,13.19,Felix,Resumir,False,13,8,21,0,19.0,30.0,Security,Security Group Manager
+781,2014-01-13 08:22:00,Brew've Been Served,6.69,Inga,Ferro,True,13,8,22,0,69.0,13.0,Security,Site Control
+782,2014-01-13 08:23:00,Brew've Been Served,19.89,Dante,Coginian,True,13,8,23,0,89.0,0.0,Other,Other
+783,2014-01-13 08:58:00,Kronos Pipe and Irrigation,2852.74,Albina,Hafon,True,13,8,58,0,74.0,100.0,Facilities,Truck Driver
+784,2014-01-13 10:12:00,Nationwide Refinery,204.58,Cecilia,Morluniau,True,13,10,12,0,58.0,100.0,Facilities,Truck Driver
+785,2014-01-13 10:20:00,Maximum Iron and Steel,689.85,Albina,Hafon,True,13,10,20,0,85.0,100.0,Facilities,Truck Driver
+786,2014-01-13 12:00:00,Coffee Shack,4.09,Varro,Awelon,True,13,12,0,0,9.0,0.0,Other,Other
+787,2014-01-13 12:00:00,Bean There Done That,7.93,Lars,Azada,True,13,12,0,0,93.0,2.0,Engineering,Engineer
+788,2014-01-13 12:00:00,Bean There Done That,18.02,Felix,Balas,True,13,12,0,0,2.0,3.0,Engineering,Engineer
+789,2014-01-13 12:00:00,Brewed Awakenings,12.69,Ingrid,Barranco,True,13,12,0,0,69.0,4.0,Executive,SVP/CFO
+790,2014-01-13 12:00:00,Jack's Magical Beans,18.31,Isak,Baza,True,13,12,0,0,31.0,5.0,Information Technology,IT Technician
+791,2014-01-13 12:00:00,Brewed Awakenings,16.4,Isande,Borrasca,True,13,12,0,0,40.0,7.0,Engineering,Drill Technician
+792,2014-01-13 12:00:00,Bean There Done That,19.56,Axel,Calzas,True,13,12,0,0,56.0,9.0,Engineering,Drill Technician
+793,2014-01-13 12:00:00,Brewed Awakenings,16.25,Ada,Campo-Corrente,True,13,12,0,0,25.0,10.0,Executive,SVP/CIO
+794,2014-01-13 12:00:00,Bean There Done That,5.54,Gustav,Cazar,True,13,12,0,0,54.0,11.0,Engineering,Hydraulic Technician
+795,2014-01-13 12:00:00,Bean There Done That,10.37,Lidelse,Dedos,True,13,12,0,0,37.0,14.0,Engineering,Engineering Group Manager
+796,2014-01-13 12:00:00,Bean There Done That,15.24,Birgitta,Frente,True,13,12,0,0,24.0,18.0,Engineering,Geologist
+797,2014-01-13 12:00:00,Bean There Done That,18.59,Vira,Frente,True,13,12,0,0,59.0,19.0,Engineering,Hydraulic Technician
+798,2014-01-13 12:00:00,Carlyle Chemical Inc.,1718.96,Albina,Hafon,True,13,12,0,0,96.0,100.0,Facilities,Truck Driver
+799,2014-01-13 12:00:00,Jack's Magical Beans,5.22,Elsa,Orilla,True,13,12,0,0,22.0,28.0,Engineering,Drill Technician
+800,2014-01-13 12:00:00,Jack's Magical Beans,9.64,Orhan,Strum,True,13,12,0,0,64.0,32.0,Executive,SVP/COO
+801,2014-01-13 12:00:00,Jack's Magical Beans,17.52,Willem,Vasco-Pais,True,13,12,0,0,52.0,35.0,Executive,Environmental Safety Advisor
+802,2014-01-13 12:11:00,Abila Airport,4417.03,Henk,Mies,True,13,12,11,0,3.0,100.0,Facilities,Truck Driver
+803,2014-01-13 12:27:00,Hippokampos,17.17,Minke,Mies,True,13,12,27,0,17.0,24.0,Security,Perimeter Control
+804,2014-01-13 12:55:00,Ouzeri Elian,19.82,Albina,Hafon,True,13,12,55,0,82.0,100.0,Facilities,Truck Driver
+805,2014-01-13 13:03:00,Gelatogalore,32.83,Orhan,Strum,True,13,13,3,0,83.0,32.0,Executive,SVP/COO
+806,2014-01-13 13:18:00,U-Pump,55.25,Lucas,Alcazar,False,13,13,18,0,25.0,1.0,Information Technology,IT Helpdesk
+807,2014-01-13 13:19:00,Gelatogalore,26.45,Ada,Campo-Corrente,True,13,13,19,0,45.0,10.0,Executive,SVP/CIO
+808,2014-01-13 13:20:00,Abila Zacharo,39.95,Stenig,Fusil,True,13,13,20,0,95.0,20.0,Security,Building Control
+809,2014-01-13 13:21:00,Abila Zacharo,64.5,Kanon,Herrero,False,13,13,21,0,50.0,22.0,Security,Badging Office
+810,2014-01-13 13:23:00,Katerina’s Café,38.98,Carla,Forluniau,True,13,13,23,0,98.0,0.0,Other,Other
+811,2014-01-13 13:24:00,Hippokampos,35.73,Linnea,Bergen,True,13,13,24,0,73.0,6.0,Information Technology,IT Group Manager
+812,2014-01-13 13:27:00,Abila Zacharo,8.72,Brand,Tempestad,True,13,13,27,0,72.0,33.0,Engineering,Drill Technician
+813,2014-01-13 13:28:00,Hippokampos,30.51,Lucas,Alcazar,True,13,13,28,0,51.0,1.0,Information Technology,IT Helpdesk
+814,2014-01-13 13:33:00,Guy's Gyros,27.49,Isande,Borrasca,True,13,13,33,0,49.0,7.0,Engineering,Drill Technician
+815,2014-01-13 13:34:00,Katerina’s Café,26.15,Isak,Baza,True,13,13,34,0,15.0,5.0,Information Technology,IT Technician
+816,2014-01-13 13:34:00,Abila Zacharo,27.3,Gustav,Cazar,True,13,13,34,0,30.0,11.0,Engineering,Hydraulic Technician
+817,2014-01-13 13:34:00,Hippokampos,39.9,Isia,Vann,True,13,13,34,0,90.0,16.0,Security,Perimeter Control
+818,2014-01-13 13:36:00,Katerina’s Café,17.21,Hennie,Osvaldo,False,13,13,36,0,21.0,21.0,Security,Perimeter Control
+819,2014-01-13 13:37:00,Ouzeri Elian,35.03,Edvard,Vann,True,13,13,37,0,3.0,34.0,Security,Perimeter Control
+820,2014-01-13 13:39:00,Guy's Gyros,37.37,Adra,Nubarron,True,13,13,39,0,37.0,25.0,Engineering,Geologist
+821,2014-01-13 13:40:00,Katerina’s Café,8.29,Lidelse,Dedos,True,13,13,40,0,29.0,14.0,Engineering,Engineering Group Manager
+822,2014-01-13 13:40:00,Guy's Gyros,29.25,Willem,Vasco-Pais,True,13,13,40,0,25.0,35.0,Executive,Environmental Safety Advisor
+823,2014-01-13 13:41:00,Gelatogalore,36.93,Lars,Azada,True,13,13,41,0,93.0,2.0,Engineering,Engineer
+824,2014-01-13 13:42:00,Abila Zacharo,11.99,Felix,Balas,True,13,13,42,0,99.0,3.0,Engineering,Engineer
+825,2014-01-13 13:48:00,Abila Zacharo,36.32,Loreto,Bodrogi,True,13,13,48,0,32.0,15.0,Security,Site Control
+826,2014-01-13 13:48:00,Ouzeri Elian,8.32,Marin,Onda,True,13,13,48,0,32.0,26.0,Engineering,Drill Site Manager
+827,2014-01-13 13:48:00,Katerina’s Café,24.26,Kare,Orilla,True,13,13,48,0,26.0,27.0,Engineering,Drill Technician
+828,2014-01-13 13:50:00,Hippokampos,31.97,Sven,Flecha,True,13,13,50,0,97.0,17.0,Information Technology,IT Technician
+829,2014-01-13 13:51:00,Abila Zacharo,17.41,Inga,Ferro,True,13,13,51,0,41.0,13.0,Security,Site Control
+830,2014-01-13 13:51:00,Guy's Gyros,21.03,Linda,Lagos,True,13,13,51,0,3.0,0.0,Other,Other
+831,2014-01-13 13:52:00,Katerina’s Café,29.55,Bertrand,Ovan,True,13,13,52,0,55.0,29.0,Facilities,Facilities Group Manager
+832,2014-01-13 13:55:00,Kalami Kafenion,20.33,Cornelia,Lais,True,13,13,55,0,33.0,0.0,Other,Other
+833,2014-01-13 14:00:00,Guy's Gyros,38.07,Varro,Awelon,True,13,14,0,0,7.0,0.0,Other,Other
+834,2014-01-13 14:00:00,Gelatogalore,36.24,Dante,Coginian,True,13,14,0,0,24.0,0.0,Other,Other
+835,2014-01-13 14:01:00,Gelatogalore,37.17,Rachel,Pantanal,True,13,14,1,0,17.0,0.0,Other,Other
+836,2014-01-13 14:04:00,Hippokampos,25.09,Birgitta,Frente,True,13,14,4,0,9.0,18.0,Engineering,Geologist
+837,2014-01-13 14:06:00,Ouzeri Elian,29.75,Axel,Calzas,True,13,14,6,0,75.0,9.0,Engineering,Drill Technician
+838,2014-01-13 14:13:00,Guy's Gyros,12.76,Felix,Resumir,True,13,14,13,0,76.0,30.0,Security,Security Group Manager
+839,2014-01-13 14:21:00,Hippokampos,26.96,Mat,Bramar,True,13,14,21,0,96.0,0.0,Other,Other
+840,2014-01-13 14:33:00,Guy's Gyros,36.87,Emile,Arpa,True,13,14,33,0,87.0,0.0,Other,Other
+841,2014-01-13 16:56:00,Abila Airport,2228.08,Henk,Mies,True,13,16,56,0,8.0,100.0,Facilities,Truck Driver
+842,2014-01-13 19:20:00,Frydos Autosupply n' More,10000.0,Lucas,Alcazar,False,13,19,20,0,0.0,1.0,Information Technology,IT Helpdesk
+843,2014-01-13 19:27:00,Shoppers' Delight,216.43,Loreto,Bodrogi,True,13,19,27,0,43.0,15.0,Security,Site Control
+844,2014-01-13 19:30:00,Ouzeri Elian,28.75,Lucas,Alcazar,True,13,19,30,0,75.0,1.0,Information Technology,IT Helpdesk
+845,2014-01-13 19:41:00,Frydos Autosupply n' More,188.57,Emile,Arpa,True,13,19,41,0,57.0,0.0,Other,Other
+846,2014-01-13 19:50:00,Katerina’s Café,29.83,Bertrand,Ovan,True,13,19,50,0,83.0,29.0,Facilities,Facilities Group Manager
+847,2014-01-13 19:59:00,Frydos Autosupply n' More,64.6,Linda,Lagos,True,13,19,59,0,60.0,0.0,Other,Other
+848,2014-01-13 19:59:00,Katerina’s Café,30.84,Anda,Ribera,False,13,19,59,0,84.0,0.0,Other,Other
+849,2014-01-13 20:09:00,Guy's Gyros,22.34,Isia,Vann,True,13,20,9,0,34.0,16.0,Security,Perimeter Control
+850,2014-01-13 20:11:00,Guy's Gyros,20.47,Edvard,Vann,True,13,20,11,0,47.0,34.0,Security,Perimeter Control
+851,2014-01-13 20:15:00,Guy's Gyros,36.89,Sven,Flecha,True,13,20,15,0,89.0,17.0,Information Technology,IT Technician
+852,2014-01-13 20:18:00,Guy's Gyros,15.84,Inga,Ferro,True,13,20,18,0,84.0,13.0,Security,Site Control
+853,2014-01-13 20:24:00,Katerina’s Café,35.7,Adra,Nubarron,True,13,20,24,0,70.0,25.0,Engineering,Geologist
+854,2014-01-13 20:33:00,Katerina’s Café,11.36,Marin,Onda,True,13,20,33,0,36.0,26.0,Engineering,Drill Site Manager
+855,2014-01-13 20:35:00,Albert's Fine Clothing,288.0,Ingrid,Barranco,True,13,20,35,0,0.0,4.0,Executive,SVP/CFO
+856,2014-01-13 20:35:00,Hippokampos,29.22,Willem,Vasco-Pais,True,13,20,35,0,22.0,35.0,Executive,Environmental Safety Advisor
+857,2014-01-13 20:42:00,Hippokampos,31.59,Lars,Azada,True,13,20,42,0,59.0,2.0,Engineering,Engineer
+858,2014-01-13 20:42:00,Albert's Fine Clothing,49.48,Gustav,Cazar,True,13,20,42,0,48.0,11.0,Engineering,Hydraulic Technician
+859,2014-01-13 20:42:00,Guy's Gyros,28.57,Kanon,Herrero,True,13,20,42,0,57.0,22.0,Security,Badging Office
+860,2014-01-13 20:43:00,Ouzeri Elian,21.83,Rachel,Pantanal,True,13,20,43,0,83.0,0.0,Other,Other
+861,2014-01-13 20:44:00,Katerina’s Café,33.57,Ruscella,Mies Haber,True,13,20,44,0,57.0,0.0,Other,Other
+862,2014-01-13 20:44:00,Guy's Gyros,15.55,Brand,Tempestad,False,13,20,44,0,55.0,33.0,Engineering,Drill Technician
+863,2014-01-13 20:45:00,Shoppers' Delight,144.4,Felix,Resumir,True,13,20,45,0,40.0,30.0,Security,Security Group Manager
+864,2014-01-13 20:47:00,Katerina’s Café,22.24,Linnea,Bergen,False,13,20,47,0,24.0,6.0,Information Technology,IT Group Manager
+865,2014-01-13 20:51:00,Katerina’s Café,15.82,Nils,Calixto,True,13,20,51,0,82.0,8.0,Information Technology,IT Technician
+866,2014-01-13 20:59:00,Guy's Gyros,37.5,Hideki,Cocinaro,True,13,20,59,0,50.0,12.0,Security,Site Control
+867,2014-01-13 21:00:00,Katerina’s Café,27.59,Lidelse,Dedos,True,13,21,0,0,59.0,14.0,Engineering,Engineering Group Manager
+868,2014-01-13 21:08:00,Guy's Gyros,19.77,Cornelia,Lais,True,13,21,8,0,77.0,0.0,Other,Other
+869,2014-01-13 21:11:00,Frydos Autosupply n' More,202.05,Carla,Forluniau,True,13,21,11,0,5.0,0.0,Other,Other
+870,2014-01-13 21:12:00,Hippokampos,31.47,Ada,Campo-Corrente,True,13,21,12,0,47.0,10.0,Executive,SVP/CIO
+871,2014-01-13 21:13:00,Hippokampos,32.29,Varro,Awelon,True,13,21,13,0,29.0,0.0,Other,Other
+872,2014-01-13 21:16:00,Katerina’s Café,33.11,Hennie,Osvaldo,True,13,21,16,0,11.0,21.0,Security,Perimeter Control
+873,2014-01-13 21:27:00,Hippokampos,39.63,Orhan,Strum,True,13,21,27,0,63.0,32.0,Executive,SVP/COO
+874,2014-01-14 07:27:00,Brew've Been Served,14.67,Cornelia,Lais,True,14,7,27,0,67.0,0.0,Other,Other
+875,2014-01-14 07:31:00,Brew've Been Served,4.72,Edvard,Vann,True,14,7,31,0,72.0,34.0,Security,Perimeter Control
+876,2014-01-14 07:35:00,Hallowed Grounds,10.75,Nils,Calixto,True,14,7,35,0,75.0,8.0,Information Technology,IT Technician
+877,2014-01-14 07:35:00,Brew've Been Served,7.31,Isia,Vann,True,14,7,35,0,31.0,16.0,Security,Perimeter Control
+878,2014-01-14 07:37:00,Coffee Cameleon,9.8,Bertrand,Ovan,True,14,7,37,0,80.0,29.0,Facilities,Facilities Group Manager
+879,2014-01-14 07:40:00,Brew've Been Served,5.87,Brand,Tempestad,True,14,7,40,0,87.0,33.0,Engineering,Drill Technician
+880,2014-01-14 07:42:00,Hallowed Grounds,4.59,Marin,Onda,True,14,7,42,0,59.0,26.0,Engineering,Drill Site Manager
+881,2014-01-14 07:44:00,Hallowed Grounds,16.67,Emile,Arpa,True,14,7,44,0,67.0,0.0,Other,Other
+882,2014-01-14 07:45:00,Brew've Been Served,14.04,Mat,Bramar,True,14,7,45,0,4.0,0.0,Other,Other
+883,2014-01-14 07:45:00,Hallowed Grounds,13.0,Hideki,Cocinaro,True,14,7,45,0,0.0,12.0,Security,Site Control
+884,2014-01-14 07:45:00,Brew've Been Served,10.96,Varja,Lagos,True,14,7,45,0,96.0,23.0,Security,Badging Office
+885,2014-01-14 07:45:00,Brew've Been Served,16.53,Hennie,Osvaldo,True,14,7,45,0,53.0,21.0,Security,Perimeter Control
+886,2014-01-14 07:48:00,Brew've Been Served,6.45,Loreto,Bodrogi,True,14,7,48,0,45.0,15.0,Security,Site Control
+887,2014-01-14 07:52:00,Coffee Cameleon,11.67,Carla,Forluniau,True,14,7,52,0,67.0,0.0,Other,Other
+888,2014-01-14 07:53:00,Coffee Cameleon,15.63,Linnea,Bergen,True,14,7,53,0,63.0,6.0,Information Technology,IT Group Manager
+889,2014-01-14 07:53:00,Brew've Been Served,9.53,Dante,Coginian,True,14,7,53,0,53.0,0.0,Other,Other
+890,2014-01-14 07:53:00,Brew've Been Served,8.24,Sven,Flecha,True,14,7,53,0,24.0,17.0,Information Technology,IT Technician
+891,2014-01-14 07:53:00,Brew've Been Served,3.66,Stenig,Fusil,True,14,7,53,0,66.0,20.0,Security,Building Control
+892,2014-01-14 07:54:00,Hallowed Grounds,19.99,Lidelse,Dedos,True,14,7,54,0,99.0,14.0,Engineering,Engineering Group Manager
+893,2014-01-14 07:54:00,Hallowed Grounds,10.21,Birgitta,Frente,True,14,7,54,0,21.0,18.0,Engineering,Geologist
+894,2014-01-14 07:56:00,Coffee Cameleon,7.84,Adra,Nubarron,True,14,7,56,0,84.0,25.0,Engineering,Geologist
+895,2014-01-14 07:58:00,Brew've Been Served,11.94,Inga,Ferro,True,14,7,58,0,94.0,13.0,Security,Site Control
+896,2014-01-14 08:03:00,Brew've Been Served,3.21,Kanon,Herrero,True,14,8,3,0,21.0,22.0,Security,Badging Office
+897,2014-01-14 08:07:00,Brew've Been Served,16.39,Ruscella,Mies Haber,True,14,8,7,0,39.0,0.0,Other,Other
+898,2014-01-14 08:12:00,Hallowed Grounds,39.52,Kare,Orilla,False,14,8,12,0,52.0,27.0,Engineering,Drill Technician
+899,2014-01-14 08:12:00,Hallowed Grounds,10.65,Rachel,Pantanal,True,14,8,12,0,65.0,0.0,Other,Other
+900,2014-01-14 08:13:00,Brew've Been Served,11.53,Linda,Lagos,True,14,8,13,0,53.0,0.0,Other,Other
+901,2014-01-14 08:13:00,Brew've Been Served,12.31,Felix,Resumir,True,14,8,13,0,31.0,30.0,Security,Security Group Manager
+902,2014-01-14 08:16:00,Hallowed Grounds,6.16,Anda,Ribera,True,14,8,16,0,16.0,0.0,Other,Other
+903,2014-01-14 08:20:00,Kronos Mart,58.85,Isak,Baza,False,14,8,20,0,85.0,5.0,Information Technology,IT Technician
+904,2014-01-14 09:34:00,Carlyle Chemical Inc.,3630.57,Valeria,Morlun,True,14,9,34,0,57.0,100.0,Facilities,Truck Driver
+905,2014-01-14 10:03:00,Nationwide Refinery,965.72,Cecilia,Morluniau,True,14,10,3,0,72.0,100.0,Facilities,Truck Driver
+906,2014-01-14 11:01:00,Stewart and Sons Fabrication,540.19,Benito,Hawelon,True,14,11,1,0,19.0,100.0,Facilities,Truck Driver
+907,2014-01-14 11:45:00,Nationwide Refinery,570.95,Valeria,Morlun,True,14,11,45,0,95.0,100.0,Facilities,Truck Driver
+908,2014-01-14 11:55:00,Stewart and Sons Fabrication,278.52,Cecilia,Morluniau,True,14,11,55,0,52.0,100.0,Facilities,Truck Driver
+909,2014-01-14 12:00:00,Coffee Shack,3.63,Varro,Awelon,True,14,12,0,0,63.0,0.0,Other,Other
+910,2014-01-14 12:00:00,Bean There Done That,7.28,Lars,Azada,True,14,12,0,0,28.0,2.0,Engineering,Engineer
+911,2014-01-14 12:00:00,Bean There Done That,19.37,Felix,Balas,True,14,12,0,0,37.0,3.0,Engineering,Engineer
+912,2014-01-14 12:00:00,Brewed Awakenings,17.14,Ingrid,Barranco,True,14,12,0,0,14.0,4.0,Executive,SVP/CFO
+913,2014-01-14 12:00:00,Brewed Awakenings,8.3,Isande,Borrasca,True,14,12,0,0,30.0,7.0,Engineering,Drill Technician
+914,2014-01-14 12:00:00,Bean There Done That,14.56,Axel,Calzas,False,14,12,0,0,56.0,9.0,Engineering,Drill Technician
+915,2014-01-14 12:00:00,Brewed Awakenings,11.35,Ada,Campo-Corrente,True,14,12,0,0,35.0,10.0,Executive,SVP/CIO
+916,2014-01-14 12:00:00,Bean There Done That,7.82,Gustav,Cazar,True,14,12,0,0,82.0,11.0,Engineering,Hydraulic Technician
+917,2014-01-14 12:00:00,Bean There Done That,5.9,Vira,Frente,True,14,12,0,0,90.0,19.0,Engineering,Hydraulic Technician
+918,2014-01-14 12:00:00,Jack's Magical Beans,3.36,Elsa,Orilla,True,14,12,0,0,36.0,28.0,Engineering,Drill Technician
+919,2014-01-14 12:00:00,Jack's Magical Beans,15.7,Orhan,Strum,True,14,12,0,0,70.0,32.0,Executive,SVP/COO
+920,2014-01-14 12:30:00,Abila Airport,228.41,Henk,Mies,True,14,12,30,0,41.0,100.0,Facilities,Truck Driver
+921,2014-01-14 13:00:00,Nationwide Refinery,1301.01,Benito,Hawelon,True,14,13,0,0,1.0,100.0,Facilities,Truck Driver
+922,2014-01-14 13:06:00,Abila Airport,3339.21,Dylan,Scozzese,True,14,13,6,0,21.0,100.0,Facilities,Truck Driver
+923,2014-01-14 13:14:00,Katerina’s Café,29.12,Orhan,Strum,True,14,13,14,0,12.0,32.0,Executive,SVP/COO
+924,2014-01-14 13:17:00,Hippokampos,36.01,Linnea,Bergen,True,14,13,17,0,1.0,6.0,Information Technology,IT Group Manager
+925,2014-01-14 13:17:00,Chostus Hotel,109.54,Isande,Borrasca,True,14,13,17,0,54.0,7.0,Engineering,Drill Technician
+926,2014-01-14 13:21:00,Katerina’s Café,34.45,Valeria,Morlun,False,14,13,21,0,45.0,100.0,Facilities,Truck Driver
+927,2014-01-14 13:21:00,Chostus Hotel,113.08,Brand,Tempestad,True,14,13,21,0,8.0,33.0,Engineering,Drill Technician
+928,2014-01-14 13:22:00,Katerina’s Café,10.03,Vira,Frente,True,14,13,22,0,3.0,19.0,Engineering,Hydraulic Technician
+929,2014-01-14 13:24:00,Kalami Kafenion,17.38,Felix,Balas,True,14,13,24,0,38.0,3.0,Engineering,Engineer
+930,2014-01-14 13:24:00,Kalami Kafenion,15.15,Ada,Campo-Corrente,True,14,13,24,0,15.0,10.0,Executive,SVP/CIO
+931,2014-01-14 13:25:00,Hippokampos,23.69,Ingrid,Barranco,False,14,13,25,0,69.0,4.0,Executive,SVP/CFO
+932,2014-01-14 13:32:00,Gelatogalore,27.26,Sven,Flecha,True,14,13,32,0,26.0,17.0,Information Technology,IT Technician
+933,2014-01-14 13:32:00,Gelatogalore,32.82,Adra,Nubarron,False,14,13,32,0,82.0,25.0,Engineering,Geologist
+934,2014-01-14 13:32:00,Katerina’s Café,20.95,Isia,Vann,True,14,13,32,0,95.0,16.0,Security,Perimeter Control
+935,2014-01-14 13:33:00,Gelatogalore,39.17,Willem,Vasco-Pais,True,14,13,33,0,17.0,35.0,Executive,Environmental Safety Advisor
+936,2014-01-14 13:34:00,Katerina’s Café,29.1,Edvard,Vann,True,14,13,34,0,10.0,34.0,Security,Perimeter Control
+937,2014-01-14 13:35:00,Abila Zacharo,31.09,Linda,Lagos,True,14,13,35,0,9.0,0.0,Other,Other
+938,2014-01-14 13:35:00,Abila Zacharo,15.26,Hennie,Osvaldo,True,14,13,35,0,26.0,21.0,Security,Perimeter Control
+939,2014-01-14 13:36:00,Guy's Gyros,13.27,Lars,Azada,False,14,13,36,0,27.0,2.0,Engineering,Engineer
+940,2014-01-14 13:37:00,Hippokampos,19.07,Loreto,Bodrogi,True,14,13,37,0,7.0,15.0,Security,Site Control
+941,2014-01-14 13:37:00,Abila Zacharo,10.24,Marin,Onda,True,14,13,37,0,24.0,26.0,Engineering,Drill Site Manager
+942,2014-01-14 13:38:00,Abila Zacharo,8.41,Stenig,Fusil,True,14,13,38,0,41.0,20.0,Security,Building Control
+943,2014-01-14 13:40:00,Ouzeri Elian,27.32,Varja,Lagos,True,14,13,40,0,32.0,23.0,Security,Badging Office
+944,2014-01-14 13:40:00,Kalami Kafenion,33.13,Ruscella,Mies Haber,True,14,13,40,0,13.0,0.0,Other,Other
+945,2014-01-14 13:41:00,Ouzeri Elian,79.58,Isak,Baza,False,14,13,41,0,58.0,5.0,Information Technology,IT Technician
+946,2014-01-14 13:41:00,Katerina’s Café,15.46,Bertrand,Ovan,True,14,13,41,0,46.0,29.0,Facilities,Facilities Group Manager
+947,2014-01-14 13:42:00,Hippokampos,18.81,Nils,Calixto,True,14,13,42,0,81.0,8.0,Information Technology,IT Technician
+948,2014-01-14 13:42:00,Kalami Kafenion,23.1,Kare,Orilla,True,14,13,42,0,10.0,27.0,Engineering,Drill Technician
+949,2014-01-14 13:43:00,Katerina’s Café,31.69,Anda,Ribera,True,14,13,43,0,69.0,0.0,Other,Other
+950,2014-01-14 13:44:00,Guy's Gyros,16.35,Lidelse,Dedos,True,14,13,44,0,35.0,14.0,Engineering,Engineering Group Manager
+951,2014-01-14 13:49:00,Gelatogalore,10.98,Axel,Calzas,True,14,13,49,0,98.0,9.0,Engineering,Drill Technician
+952,2014-01-14 13:49:00,Guy's Gyros,38.26,Birgitta,Frente,True,14,13,49,0,26.0,18.0,Engineering,Geologist
+953,2014-01-14 13:50:00,Kalami Kafenion,27.65,Mat,Bramar,True,14,13,50,0,65.0,0.0,Other,Other
+954,2014-01-14 13:51:00,Kalami Kafenion,15.27,Gustav,Cazar,True,14,13,51,0,27.0,11.0,Engineering,Hydraulic Technician
+955,2014-01-14 13:51:00,Ouzeri Elian,22.3,Hideki,Cocinaro,True,14,13,51,0,30.0,12.0,Security,Site Control
+956,2014-01-14 13:53:00,Ouzeri Elian,33.67,Rachel,Pantanal,True,14,13,53,0,67.0,0.0,Other,Other
+957,2014-01-14 13:57:00,Gelatogalore,35.97,Cornelia,Lais,True,14,13,57,0,97.0,0.0,Other,Other
+958,2014-01-14 13:57:00,Hippokampos,17.18,Felix,Resumir,True,14,13,57,0,18.0,30.0,Security,Security Group Manager
+959,2014-01-14 13:58:00,Katerina’s Café,33.54,Inga,Ferro,True,14,13,58,0,54.0,13.0,Security,Site Control
+960,2014-01-14 13:59:00,Guy's Gyros,50.4,Kanon,Herrero,False,14,13,59,0,40.0,22.0,Security,Badging Office
+961,2014-01-14 14:01:00,Ouzeri Elian,19.7,Varro,Awelon,True,14,14,1,0,70.0,0.0,Other,Other
+962,2014-01-14 14:03:00,Gelatogalore,22.03,Emile,Arpa,True,14,14,3,0,3.0,0.0,Other,Other
+963,2014-01-14 14:03:00,Abila Zacharo,24.87,Minke,Mies,True,14,14,3,0,87.0,24.0,Security,Perimeter Control
+964,2014-01-14 14:13:00,Abila Scrapyard,4277.4,Dylan,Scozzese,True,14,14,13,0,40.0,100.0,Facilities,Truck Driver
+965,2014-01-14 14:16:00,Hippokampos,16.73,Dante,Coginian,True,14,14,16,0,73.0,0.0,Other,Other
+966,2014-01-14 14:21:00,Carlyle Chemical Inc.,794.88,Valeria,Morlun,True,14,14,21,0,88.0,100.0,Facilities,Truck Driver
+967,2014-01-14 15:32:00,Abila Airport,4898.39,Henk,Mies,True,14,15,32,0,39.0,100.0,Facilities,Truck Driver
+968,2014-01-14 15:49:00,Octavio's Office Supplies,131.73,Stenig,Fusil,False,14,15,49,0,73.0,20.0,Security,Building Control
+969,2014-01-14 16:16:00,Carlyle Chemical Inc.,3470.99,Valeria,Morlun,True,14,16,16,0,99.0,100.0,Facilities,Truck Driver
+970,2014-01-14 16:28:00,Nationwide Refinery,4429.76,Dylan,Scozzese,True,14,16,28,0,76.0,100.0,Facilities,Truck Driver
+971,2014-01-14 19:44:00,Hippokampos,39.64,Lars,Azada,True,14,19,44,0,64.0,2.0,Engineering,Engineer
+972,2014-01-14 19:59:00,Guy's Gyros,34.26,Hideki,Cocinaro,True,14,19,59,0,26.0,12.0,Security,Site Control
+973,2014-01-14 20:01:00,Guy's Gyros,23.59,Edvard,Vann,True,14,20,1,0,59.0,34.0,Security,Perimeter Control
+974,2014-01-14 20:05:00,Albert's Fine Clothing,50.77,Varja,Lagos,True,14,20,5,0,77.0,23.0,Security,Badging Office
+975,2014-01-14 20:09:00,Katerina’s Café,31.8,Nils,Calixto,True,14,20,9,0,80.0,8.0,Information Technology,IT Technician
+976,2014-01-14 20:15:00,Katerina’s Café,27.67,Emile,Arpa,False,14,20,15,0,67.0,0.0,Other,Other
+977,2014-01-14 20:15:00,Guy's Gyros,18.11,Stenig,Fusil,False,14,20,15,0,11.0,20.0,Security,Building Control
+978,2014-01-14 20:17:00,Guy's Gyros,35.12,Cornelia,Lais,True,14,20,17,0,12.0,0.0,Other,Other
+979,2014-01-14 20:17:00,Katerina’s Café,36.95,Bertrand,Ovan,True,14,20,17,0,95.0,29.0,Facilities,Facilities Group Manager
+980,2014-01-14 20:19:00,Guy's Gyros,12.96,Sven,Flecha,True,14,20,19,0,96.0,17.0,Information Technology,IT Technician
+981,2014-01-14 20:19:00,Katerina’s Café,31.94,Ruscella,Mies Haber,True,14,20,19,0,94.0,0.0,Other,Other
+982,2014-01-14 20:22:00,Hippokampos,9.55,Willem,Vasco-Pais,True,14,20,22,0,55.0,35.0,Executive,Environmental Safety Advisor
+983,2014-01-14 20:25:00,Guy's Gyros,10.85,Loreto,Bodrogi,False,14,20,25,0,85.0,15.0,Security,Site Control
+984,2014-01-14 20:26:00,Katerina’s Café,12.65,Lidelse,Dedos,True,14,20,26,0,65.0,14.0,Engineering,Engineering Group Manager
+985,2014-01-14 20:29:00,Guy's Gyros,25.28,Inga,Ferro,True,14,20,29,0,28.0,13.0,Security,Site Control
+986,2014-01-14 20:32:00,Ouzeri Elian,11.86,Isak,Baza,True,14,20,32,0,86.0,5.0,Information Technology,IT Technician
+987,2014-01-14 20:33:00,Frydos Autosupply n' More,42.72,Minke,Mies,True,14,20,33,0,72.0,24.0,Security,Perimeter Control
+988,2014-01-14 20:34:00,Katerina’s Café,11.89,Kare,Orilla,True,14,20,34,0,89.0,27.0,Engineering,Drill Technician
+989,2014-01-14 20:41:00,Ouzeri Elian,24.06,Elsa,Orilla,False,14,20,41,0,6.0,28.0,Engineering,Drill Technician
+990,2014-01-14 20:42:00,Katerina’s Café,26.61,Dante,Coginian,True,14,20,42,0,61.0,0.0,Other,Other
+991,2014-01-14 20:43:00,Frydos Autosupply n' More,146.74,Felix,Resumir,True,14,20,43,0,74.0,30.0,Security,Security Group Manager
+992,2014-01-14 20:46:00,Ouzeri Elian,20.95,Rachel,Pantanal,True,14,20,46,0,95.0,0.0,Other,Other
+993,2014-01-14 20:48:00,Hippokampos,23.56,Ada,Campo-Corrente,True,14,20,48,0,56.0,10.0,Executive,SVP/CIO
+994,2014-01-14 20:50:00,Albert's Fine Clothing,228.72,Felix,Balas,True,14,20,50,0,72.0,3.0,Engineering,Engineer
+995,2014-01-14 20:50:00,Katerina’s Café,25.4,Linda,Lagos,True,14,20,50,0,40.0,0.0,Other,Other
+996,2014-01-14 21:04:00,Hippokampos,28.45,Vira,Frente,False,14,21,4,0,45.0,19.0,Engineering,Hydraulic Technician
+997,2014-01-14 21:10:00,Katerina’s Café,18.35,Birgitta,Frente,True,14,21,10,0,35.0,18.0,Engineering,Geologist
+998,2014-01-14 21:14:00,Roberts and Sons,203.81,Hennie,Osvaldo,True,14,21,14,0,81.0,21.0,Security,Perimeter Control
+999,2014-01-14 21:28:00,Frydos Autosupply n' More,49.21,Mat,Bramar,True,14,21,28,0,21.0,0.0,Other,Other
+1000,2014-01-14 21:31:00,Hippokampos,22.13,Isande,Borrasca,True,14,21,31,0,13.0,7.0,Engineering,Drill Technician
+1001,2014-01-14 21:31:00,Guy's Gyros,26.14,Isia,Vann,True,14,21,31,0,14.0,16.0,Security,Perimeter Control
+1002,2014-01-15 07:33:00,Hallowed Grounds,11.98,Nils,Calixto,False,15,7,33,0,98.0,8.0,Information Technology,IT Technician
+1003,2014-01-15 07:34:00,Brew've Been Served,3.71,Sven,Flecha,True,15,7,34,0,71.0,17.0,Information Technology,IT Technician
+1004,2014-01-15 07:36:00,Hallowed Grounds,5.28,Birgitta,Frente,True,15,7,36,0,28.0,18.0,Engineering,Geologist
+1005,2014-01-15 07:36:00,Brew've Been Served,15.5,Stenig,Fusil,True,15,7,36,0,50.0,20.0,Security,Building Control
+1006,2014-01-15 07:39:00,Hallowed Grounds,5.95,Emile,Arpa,False,15,7,39,0,95.0,0.0,Other,Other
+1007,2014-01-15 07:40:00,Brew've Been Served,19.87,Brand,Tempestad,True,15,7,40,0,87.0,33.0,Engineering,Drill Technician
+1008,2014-01-15 07:44:00,Hallowed Grounds,12.17,Hideki,Cocinaro,True,15,7,44,0,17.0,12.0,Security,Site Control
+1009,2014-01-15 07:45:00,Coffee Cameleon,19.93,Adra,Nubarron,True,15,7,45,0,93.0,25.0,Engineering,Geologist
+1010,2014-01-15 07:45:00,Brew've Been Served,11.47,Hennie,Osvaldo,True,15,7,45,0,47.0,21.0,Security,Perimeter Control
+1011,2014-01-15 07:48:00,Brew've Been Served,6.58,Inga,Ferro,True,15,7,48,0,58.0,13.0,Security,Site Control
+1012,2014-01-15 07:49:00,Brew've Been Served,11.23,Kanon,Herrero,True,15,7,49,0,23.0,22.0,Security,Badging Office
+1013,2014-01-15 07:50:00,Brew've Been Served,19.24,Isia,Vann,False,15,7,50,0,24.0,16.0,Security,Perimeter Control
+1014,2014-01-15 07:51:00,Coffee Cameleon,14.47,Bertrand,Ovan,True,15,7,51,0,47.0,29.0,Facilities,Facilities Group Manager
+1015,2014-01-15 07:51:00,Hallowed Grounds,18.69,Anda,Ribera,True,15,7,51,0,69.0,0.0,Other,Other
+1016,2014-01-15 07:56:00,Coffee Cameleon,5.49,Linnea,Bergen,True,15,7,56,0,49.0,6.0,Information Technology,IT Group Manager
+1017,2014-01-15 07:57:00,Brew've Been Served,4.92,Edvard,Vann,True,15,7,57,0,92.0,34.0,Security,Perimeter Control
+1018,2014-01-15 07:58:00,Brew've Been Served,3.14,Mat,Bramar,True,15,7,58,0,14.0,0.0,Other,Other
+1019,2014-01-15 07:58:00,Brew've Been Served,5.75,Linda,Lagos,True,15,7,58,0,75.0,0.0,Other,Other
+1020,2014-01-15 07:58:00,Brew've Been Served,14.06,Varja,Lagos,True,15,7,58,0,6.0,23.0,Security,Badging Office
+1021,2014-01-15 07:59:00,Hallowed Grounds,14.33,Kare,Orilla,True,15,7,59,0,33.0,27.0,Engineering,Drill Technician
+1022,2014-01-15 08:00:00,Brew've Been Served,8.42,Cornelia,Lais,True,15,8,0,0,42.0,0.0,Other,Other
+1023,2014-01-15 08:00:00,Hallowed Grounds,15.27,Marin,Onda,False,15,8,0,0,27.0,26.0,Engineering,Drill Site Manager
+1024,2014-01-15 08:01:00,Brew've Been Served,9.7,Minke,Mies,True,15,8,1,0,70.0,24.0,Security,Perimeter Control
+1025,2014-01-15 08:02:00,Brew've Been Served,15.58,Loreto,Bodrogi,True,15,8,2,0,58.0,15.0,Security,Site Control
+1026,2014-01-15 08:05:00,Coffee Cameleon,16.31,Carla,Forluniau,True,15,8,5,0,31.0,0.0,Other,Other
+1027,2014-01-15 08:05:00,Brew've Been Served,12.39,Ruscella,Mies Haber,False,15,8,5,0,39.0,0.0,Other,Other
+1028,2014-01-15 08:06:00,Brew've Been Served,3.47,Dante,Coginian,True,15,8,6,0,47.0,0.0,Other,Other
+1029,2014-01-15 08:13:00,Hallowed Grounds,14.39,Rachel,Pantanal,True,15,8,13,0,39.0,0.0,Other,Other
+1030,2014-01-15 08:14:00,Brew've Been Served,18.58,Felix,Resumir,True,15,8,14,0,58.0,30.0,Security,Security Group Manager
+1031,2014-01-15 09:34:00,Carlyle Chemical Inc.,3608.08,Valeria,Morlun,True,15,9,34,0,8.0,100.0,Facilities,Truck Driver
+1032,2014-01-15 10:00:00,Nationwide Refinery,1903.77,Adan,Morlun,False,15,10,0,0,77.0,100.0,Facilities,Truck Driver
+1033,2014-01-15 10:14:00,Nationwide Refinery,1391.24,Cecilia,Morluniau,True,15,10,14,0,24.0,100.0,Facilities,Truck Driver
+1034,2014-01-15 11:18:00,Stewart and Sons Fabrication,4485.38,Adan,Morlun,True,15,11,18,0,38.0,100.0,Facilities,Truck Driver
+1035,2014-01-15 11:44:00,Stewart and Sons Fabrication,4740.68,Cecilia,Morluniau,False,15,11,44,0,68.0,100.0,Facilities,Truck Driver
+1036,2014-01-15 11:55:00,Nationwide Refinery,3004.98,Valeria,Morlun,True,15,11,55,0,98.0,100.0,Facilities,Truck Driver
+1037,2014-01-15 12:00:00,Bean There Done That,5.34,Felix,Balas,True,15,12,0,0,34.0,3.0,Engineering,Engineer
+1038,2014-01-15 12:00:00,Jack's Magical Beans,11.15,Isak,Baza,False,15,12,0,0,15.0,5.0,Information Technology,IT Technician
+1039,2014-01-15 12:00:00,Brewed Awakenings,11.62,Isande,Borrasca,True,15,12,0,0,62.0,7.0,Engineering,Drill Technician
+1040,2014-01-15 12:00:00,Bean There Done That,13.13,Axel,Calzas,True,15,12,0,0,13.0,9.0,Engineering,Drill Technician
+1041,2014-01-15 12:00:00,Brewed Awakenings,3.62,Ada,Campo-Corrente,True,15,12,0,0,62.0,10.0,Executive,SVP/CIO
+1042,2014-01-15 12:00:00,Bean There Done That,18.96,Gustav,Cazar,True,15,12,0,0,96.0,11.0,Engineering,Hydraulic Technician
+1043,2014-01-15 12:00:00,Bean There Done That,15.24,Vira,Frente,True,15,12,0,0,24.0,19.0,Engineering,Hydraulic Technician
+1044,2014-01-15 12:00:00,Jack's Magical Beans,5.3,Elsa,Orilla,True,15,12,0,0,30.0,28.0,Engineering,Drill Technician
+1045,2014-01-15 12:00:00,Jack's Magical Beans,4.06,Orhan,Strum,True,15,12,0,0,6.0,32.0,Executive,SVP/COO
+1046,2014-01-15 12:00:00,Jack's Magical Beans,19.54,Willem,Vasco-Pais,True,15,12,0,0,54.0,35.0,Executive,Environmental Safety Advisor
+1047,2014-01-15 12:25:00,Abila Airport,3152.41,Henk,Mies,True,15,12,25,0,41.0,100.0,Facilities,Truck Driver
+1048,2014-01-15 13:08:00,Kalami Kafenion,22.39,Orhan,Strum,True,15,13,8,0,39.0,32.0,Executive,SVP/COO
+1049,2014-01-15 13:10:00,Ouzeri Elian,8.93,Linnea,Bergen,True,15,13,10,0,93.0,6.0,Information Technology,IT Group Manager
+1050,2014-01-15 13:12:00,Hippokampos,36.7,Ada,Campo-Corrente,True,15,13,12,0,70.0,10.0,Executive,SVP/CIO
+1051,2014-01-15 13:12:00,Hippokampos,38.89,Brand,Tempestad,True,15,13,12,0,89.0,33.0,Engineering,Drill Technician
+1052,2014-01-15 13:13:00,Katerina’s Café,24.15,Valeria,Morlun,True,15,13,13,0,15.0,100.0,Facilities,Truck Driver
+1053,2014-01-15 13:17:00,Katerina’s Café,28.56,Carla,Forluniau,True,15,13,17,0,56.0,0.0,Other,Other
+1054,2014-01-15 13:22:00,Guy's Gyros,14.37,Lars,Azada,True,15,13,22,0,37.0,2.0,Engineering,Engineer
+1055,2014-01-15 13:22:00,Abila Zacharo,31.0,Nils,Calixto,True,15,13,22,0,0.0,8.0,Information Technology,IT Technician
+1056,2014-01-15 13:22:00,Ouzeri Elian,12.9,Varja,Lagos,True,15,13,22,0,90.0,23.0,Security,Badging Office
+1057,2014-01-15 13:24:00,Hippokampos,13.0,Isak,Baza,True,15,13,24,0,0.0,5.0,Information Technology,IT Technician
+1058,2014-01-15 13:26:00,Abila Zacharo,23.51,Ingrid,Barranco,True,15,13,26,0,51.0,4.0,Executive,SVP/CFO
+1059,2014-01-15 13:27:00,Katerina’s Café,55.6,Kanon,Herrero,False,15,13,27,0,60.0,22.0,Security,Badging Office
+1060,2014-01-15 13:31:00,Ouzeri Elian,36.47,Gustav,Cazar,True,15,13,31,0,47.0,11.0,Engineering,Hydraulic Technician
+1061,2014-01-15 13:35:00,Kalami Kafenion,26.17,Lidelse,Dedos,True,15,13,35,0,17.0,14.0,Engineering,Engineering Group Manager
+1062,2014-01-15 13:36:00,Kalami Kafenion,37.15,Linda,Lagos,True,15,13,36,0,15.0,0.0,Other,Other
+1063,2014-01-15 13:37:00,Kalami Kafenion,38.5,Ruscella,Mies Haber,True,15,13,37,0,50.0,0.0,Other,Other
+1064,2014-01-15 13:39:00,Hippokampos,8.75,Hennie,Osvaldo,False,15,13,39,0,75.0,21.0,Security,Perimeter Control
+1065,2014-01-15 13:39:00,Gelatogalore,9.61,Willem,Vasco-Pais,True,15,13,39,0,61.0,35.0,Executive,Environmental Safety Advisor
+1066,2014-01-15 13:40:00,Ouzeri Elian,25.7,Cornelia,Lais,True,15,13,40,0,70.0,0.0,Other,Other
+1067,2014-01-15 13:41:00,Hippokampos,22.61,Isande,Borrasca,True,15,13,41,0,61.0,7.0,Engineering,Drill Technician
+1068,2014-01-15 13:41:00,Guy's Gyros,29.34,Isia,Vann,True,15,13,41,0,34.0,16.0,Security,Perimeter Control
+1069,2014-01-15 13:42:00,Hippokampos,32.4,Axel,Calzas,True,15,13,42,0,40.0,9.0,Engineering,Drill Technician
+1070,2014-01-15 13:42:00,Ouzeri Elian,22.86,Hideki,Cocinaro,True,15,13,42,0,86.0,12.0,Security,Site Control
+1071,2014-01-15 13:44:00,Guy's Gyros,15.89,Adra,Nubarron,True,15,13,44,0,89.0,25.0,Engineering,Geologist
+1072,2014-01-15 13:45:00,Abila Zacharo,8.83,Felix,Balas,True,15,13,45,0,83.0,3.0,Engineering,Engineer
+1073,2014-01-15 13:45:00,Kalami Kafenion,27.86,Vira,Frente,True,15,13,45,0,86.0,19.0,Engineering,Hydraulic Technician
+1074,2014-01-15 13:45:00,Guy's Gyros,12.19,Anda,Ribera,True,15,13,45,0,19.0,0.0,Other,Other
+1075,2014-01-15 13:46:00,Gelatogalore,24.96,Varro,Awelon,True,15,13,46,0,96.0,0.0,Other,Other
+1076,2014-01-15 13:46:00,Guy's Gyros,16.58,Dante,Coginian,True,15,13,46,0,58.0,0.0,Other,Other
+1077,2014-01-15 13:47:00,Abila Zacharo,20.44,Sven,Flecha,False,15,13,47,0,44.0,17.0,Information Technology,IT Technician
+1078,2014-01-15 13:51:00,Ouzeri Elian,26.61,Emile,Arpa,True,15,13,51,0,61.0,0.0,Other,Other
+1079,2014-01-15 13:55:00,Gelatogalore,31.21,Loreto,Bodrogi,True,15,13,55,0,21.0,15.0,Security,Site Control
+1080,2014-01-15 13:58:00,Gelatogalore,39.4,Inga,Ferro,True,15,13,58,0,40.0,13.0,Security,Site Control
+1081,2014-01-15 13:58:00,Abila Zacharo,33.8,Bertrand,Ovan,True,15,13,58,0,80.0,29.0,Facilities,Facilities Group Manager
+1082,2014-01-15 13:59:00,Gelatogalore,22.36,Rachel,Pantanal,True,15,13,59,0,36.0,0.0,Other,Other
+1083,2014-01-15 14:00:00,Guy's Gyros,25.58,Birgitta,Frente,True,15,14,0,0,58.0,18.0,Engineering,Geologist
+1084,2014-01-15 14:00:00,Katerina’s Café,12.12,Marin,Onda,True,15,14,0,0,12.0,26.0,Engineering,Drill Site Manager
+1085,2014-01-15 14:02:00,Hippokampos,38.23,Minke,Mies,True,15,14,2,0,23.0,24.0,Security,Perimeter Control
+1086,2014-01-15 14:02:00,Abila Zacharo,24.53,Kare,Orilla,True,15,14,2,0,53.0,27.0,Engineering,Drill Technician
+1087,2014-01-15 14:04:00,Abila Zacharo,26.82,Mat,Bramar,True,15,14,4,0,82.0,0.0,Other,Other
+1088,2014-01-15 14:12:00,Kronos Pipe and Irrigation,2564.0,Irene,Nant,True,15,14,12,0,0.0,100.0,Facilities,Truck Driver
+1089,2014-01-15 14:13:00,Kalami Kafenion,28.82,Felix,Resumir,True,15,14,13,0,82.0,30.0,Security,Security Group Manager
+1090,2014-01-15 14:25:00,Carlyle Chemical Inc.,1112.04,Valeria,Morlun,True,15,14,25,0,4.0,100.0,Facilities,Truck Driver
+1091,2014-01-15 15:11:00,Maximum Iron and Steel,4788.22,Irene,Nant,True,15,15,11,0,22.0,100.0,Facilities,Truck Driver
+1092,2014-01-15 15:40:00,Abila Airport,875.87,Henk,Mies,True,15,15,40,0,87.0,100.0,Facilities,Truck Driver
+1093,2014-01-15 17:01:00,Carlyle Chemical Inc.,1392.73,Valeria,Morlun,True,15,17,1,0,73.0,100.0,Facilities,Truck Driver
+1094,2014-01-15 19:18:00,Ouzeri Elian,28.86,Elsa,Orilla,True,15,19,18,0,86.0,28.0,Engineering,Drill Technician
+1095,2014-01-15 19:50:00,Katerina’s Café,39.23,Kare,Orilla,True,15,19,50,0,23.0,27.0,Engineering,Drill Technician
+1096,2014-01-15 19:52:00,Frydos Autosupply n' More,18.91,Isande,Borrasca,True,15,19,52,0,91.0,7.0,Engineering,Drill Technician
+1097,2014-01-15 19:53:00,Guy's Gyros,18.04,Varja,Lagos,True,15,19,53,0,4.0,23.0,Security,Badging Office
+1098,2014-01-15 19:55:00,Hippokampos,13.02,Lars,Azada,False,15,19,55,0,2.0,2.0,Engineering,Engineer
+1099,2014-01-15 19:55:00,Guy's Gyros,31.04,Minke,Mies,True,15,19,55,0,4.0,24.0,Security,Perimeter Control
+1100,2014-01-15 19:56:00,General Grocer,106.2,Inga,Ferro,True,15,19,56,0,20.0,13.0,Security,Site Control
+1101,2014-01-15 19:59:00,Katerina’s Café,25.08,Emile,Arpa,False,15,19,59,0,8.0,0.0,Other,Other
+1102,2014-01-15 20:00:00,Katerina’s Café,29.84,Adra,Nubarron,False,15,20,0,0,84.0,25.0,Engineering,Geologist
+1103,2014-01-15 20:02:00,Guy's Gyros,28.75,Isia,Vann,True,15,20,2,0,75.0,16.0,Security,Perimeter Control
+1104,2014-01-15 20:04:00,Frydos Autosupply n' More,235.27,Brand,Tempestad,True,15,20,4,0,27.0,33.0,Engineering,Drill Technician
+1105,2014-01-15 20:05:00,Katerina’s Café,11.45,Birgitta,Frente,True,15,20,5,0,45.0,18.0,Engineering,Geologist
+1106,2014-01-15 20:06:00,Guy's Gyros,24.91,Cornelia,Lais,True,15,20,6,0,91.0,0.0,Other,Other
+1107,2014-01-15 20:08:00,Guy's Gyros,36.35,Stenig,Fusil,True,15,20,8,0,35.0,20.0,Security,Building Control
+1108,2014-01-15 20:10:00,Hippokampos,35.12,Felix,Balas,True,15,20,10,0,12.0,3.0,Engineering,Engineer
+1109,2014-01-15 20:10:00,Shoppers' Delight,102.0,Ada,Campo-Corrente,True,15,20,10,0,0.0,10.0,Executive,SVP/CIO
+1110,2014-01-15 20:16:00,Hippokampos,11.8,Ingrid,Barranco,False,15,20,16,0,80.0,4.0,Executive,SVP/CFO
+1111,2014-01-15 20:17:00,Katerina’s Café,29.33,Linda,Lagos,True,15,20,17,0,33.0,0.0,Other,Other
+1112,2014-01-15 20:23:00,Hippokampos,10.35,Gustav,Cazar,True,15,20,23,0,35.0,11.0,Engineering,Hydraulic Technician
+1113,2014-01-15 20:23:00,Katerina’s Café,39.63,Marin,Onda,True,15,20,23,0,63.0,26.0,Engineering,Drill Site Manager
+1114,2014-01-15 20:24:00,Hippokampos,16.37,Axel,Calzas,True,15,20,24,0,37.0,9.0,Engineering,Drill Technician
+1115,2014-01-15 20:26:00,Katerina’s Café,21.61,Dante,Coginian,True,15,20,26,0,61.0,0.0,Other,Other
+1116,2014-01-15 20:29:00,Ouzeri Elian,23.18,Isak,Baza,True,15,20,29,0,18.0,5.0,Information Technology,IT Technician
+1117,2014-01-15 20:29:00,Katerina’s Café,29.66,Carla,Forluniau,True,15,20,29,0,66.0,0.0,Other,Other
+1118,2014-01-15 20:33:00,Frydos Autosupply n' More,18.66,Lidelse,Dedos,False,15,20,33,0,66.0,14.0,Engineering,Engineering Group Manager
+1119,2014-01-15 20:46:00,Albert's Fine Clothing,228.15,Varro,Awelon,True,15,20,46,0,15.0,0.0,Other,Other
+1120,2014-01-15 20:57:00,Frydos Autosupply n' More,276.88,Mat,Bramar,True,15,20,57,0,88.0,0.0,Other,Other
+1121,2014-01-15 20:59:00,Guy's Gyros,21.43,Loreto,Bodrogi,True,15,20,59,0,43.0,15.0,Security,Site Control
+1122,2014-01-15 21:05:00,Katerina’s Café,13.77,Linnea,Bergen,True,15,21,5,0,77.0,6.0,Information Technology,IT Group Manager
+1123,2014-01-15 21:05:00,Guy's Gyros,27.01,Kanon,Herrero,True,15,21,5,0,1.0,22.0,Security,Badging Office
+1124,2014-01-15 21:05:00,Ouzeri Elian,8.57,Rachel,Pantanal,True,15,21,5,0,57.0,0.0,Other,Other
+1125,2014-01-15 21:08:00,Hippokampos,21.14,Vira,Frente,True,15,21,8,0,14.0,19.0,Engineering,Hydraulic Technician
+1126,2014-01-15 21:21:00,Katerina’s Café,27.48,Bertrand,Ovan,True,15,21,21,0,48.0,29.0,Facilities,Facilities Group Manager
+1127,2014-01-15 21:42:00,Hippokampos,37.16,Orhan,Strum,True,15,21,42,0,16.0,32.0,Executive,SVP/COO
+1128,2014-01-16 07:30:00,Kronos Mart,298.83,Hideki,Cocinaro,False,16,7,30,0,83.0,12.0,Security,Site Control
+1129,2014-01-16 07:33:00,Brew've Been Served,5.05,Cornelia,Lais,True,16,7,33,0,5.0,0.0,Other,Other
+1130,2014-01-16 07:34:00,Brew've Been Served,8.18,Isia,Vann,True,16,7,34,0,18.0,16.0,Security,Perimeter Control
+1131,2014-01-16 07:36:00,Brew've Been Served,19.9,Varja,Lagos,True,16,7,36,0,90.0,23.0,Security,Badging Office
+1132,2014-01-16 07:38:00,Coffee Cameleon,7.19,Bertrand,Ovan,True,16,7,38,0,19.0,29.0,Facilities,Facilities Group Manager
+1133,2014-01-16 07:44:00,Hallowed Grounds,13.84,Nils,Calixto,True,16,7,44,0,84.0,8.0,Information Technology,IT Technician
+1134,2014-01-16 07:44:00,Hallowed Grounds,18.2,Hideki,Cocinaro,True,16,7,44,0,20.0,12.0,Security,Site Control
+1135,2014-01-16 07:44:00,Hallowed Grounds,17.74,Kare,Orilla,True,16,7,44,0,74.0,27.0,Engineering,Drill Technician
+1136,2014-01-16 07:45:00,Hallowed Grounds,17.92,Emile,Arpa,True,16,7,45,0,92.0,0.0,Other,Other
+1137,2014-01-16 07:50:00,Brew've Been Served,7.31,Sven,Flecha,True,16,7,50,0,31.0,17.0,Information Technology,IT Technician
+1138,2014-01-16 07:51:00,Hallowed Grounds,4.98,Birgitta,Frente,True,16,7,51,0,98.0,18.0,Engineering,Geologist
+1139,2014-01-16 07:51:00,Hallowed Grounds,9.6,Marin,Onda,False,16,7,51,0,60.0,26.0,Engineering,Drill Site Manager
+1140,2014-01-16 07:52:00,Brew've Been Served,12.67,Kanon,Herrero,True,16,7,52,0,67.0,22.0,Security,Badging Office
+1141,2014-01-16 07:53:00,Brew've Been Served,4.7,Edvard,Vann,True,16,7,53,0,70.0,34.0,Security,Perimeter Control
+1142,2014-01-16 07:54:00,Brew've Been Served,3.84,Mat,Bramar,True,16,7,54,0,84.0,0.0,Other,Other
+1143,2014-01-16 07:54:00,Hallowed Grounds,7.22,Lidelse,Dedos,True,16,7,54,0,22.0,14.0,Engineering,Engineering Group Manager
+1144,2014-01-16 07:55:00,Brew've Been Served,12.83,Stenig,Fusil,True,16,7,55,0,83.0,20.0,Security,Building Control
+1145,2014-01-16 07:56:00,Brew've Been Served,4.33,Brand,Tempestad,False,16,7,56,0,33.0,33.0,Engineering,Drill Technician
+1146,2014-01-16 08:02:00,Brew've Been Served,5.82,Loreto,Bodrogi,True,16,8,2,0,82.0,15.0,Security,Site Control
+1147,2014-01-16 08:03:00,Coffee Cameleon,3.14,Carla,Forluniau,True,16,8,3,0,14.0,0.0,Other,Other
+1148,2014-01-16 08:03:00,Hallowed Grounds,12.61,Hennie,Osvaldo,True,16,8,3,0,61.0,21.0,Security,Perimeter Control
+1149,2014-01-16 08:03:00,Brew've Been Served,16.67,Felix,Resumir,False,16,8,3,0,67.0,30.0,Security,Security Group Manager
+1150,2014-01-16 08:05:00,Hallowed Grounds,12.19,Lucas,Alcazar,True,16,8,5,0,19.0,1.0,Information Technology,IT Helpdesk
+1151,2014-01-16 08:07:00,Hallowed Grounds,18.23,Anda,Ribera,True,16,8,7,0,23.0,0.0,Other,Other
+1152,2014-01-16 08:08:00,Brew've Been Served,90.33,Dante,Coginian,False,16,8,8,0,33.0,0.0,Other,Other
+1153,2014-01-16 08:09:00,Brew've Been Served,17.44,Minke,Mies,True,16,8,9,0,44.0,24.0,Security,Perimeter Control
+1154,2014-01-16 08:09:00,Hallowed Grounds,4.6,Rachel,Pantanal,True,16,8,9,0,60.0,0.0,Other,Other
+1155,2014-01-16 08:19:00,Brew've Been Served,16.9,Inga,Ferro,True,16,8,19,0,90.0,13.0,Security,Site Control
+1156,2014-01-16 08:23:00,Brew've Been Served,11.21,Linda,Lagos,True,16,8,23,0,21.0,0.0,Other,Other
+1157,2014-01-16 09:18:00,Abila Airport,1676.53,Benito,Hawelon,True,16,9,18,0,53.0,100.0,Facilities,Truck Driver
+1158,2014-01-16 09:52:00,Carlyle Chemical Inc.,419.93,Valeria,Morlun,True,16,9,52,0,93.0,100.0,Facilities,Truck Driver
+1159,2014-01-16 10:16:00,Nationwide Refinery,1494.44,Cecilia,Morluniau,True,16,10,16,0,44.0,100.0,Facilities,Truck Driver
+1160,2014-01-16 11:06:00,Stewart and Sons Fabrication,860.3,Benito,Hawelon,True,16,11,6,0,30.0,100.0,Facilities,Truck Driver
+1161,2014-01-16 11:25:00,Nationwide Refinery,4742.67,Valeria,Morlun,True,16,11,25,0,67.0,100.0,Facilities,Truck Driver
+1162,2014-01-16 11:45:00,Stewart and Sons Fabrication,4543.31,Cecilia,Morluniau,True,16,11,45,0,31.0,100.0,Facilities,Truck Driver
+1163,2014-01-16 12:00:00,Coffee Shack,10.48,Varro,Awelon,True,16,12,0,0,48.0,0.0,Other,Other
+1164,2014-01-16 12:00:00,Bean There Done That,19.82,Lars,Azada,True,16,12,0,0,82.0,2.0,Engineering,Engineer
+1165,2014-01-16 12:00:00,Bean There Done That,12.33,Felix,Balas,True,16,12,0,0,33.0,3.0,Engineering,Engineer
+1166,2014-01-16 12:00:00,Brewed Awakenings,17.91,Ingrid,Barranco,False,16,12,0,0,91.0,4.0,Executive,SVP/CFO
+1167,2014-01-16 12:00:00,Jack's Magical Beans,9.12,Isak,Baza,True,16,12,0,0,12.0,5.0,Information Technology,IT Technician
+1168,2014-01-16 12:00:00,Brewed Awakenings,6.53,Isande,Borrasca,True,16,12,0,0,53.0,7.0,Engineering,Drill Technician
+1169,2014-01-16 12:00:00,Bean There Done That,5.56,Axel,Calzas,True,16,12,0,0,56.0,9.0,Engineering,Drill Technician
+1170,2014-01-16 12:00:00,Brewed Awakenings,6.39,Ada,Campo-Corrente,True,16,12,0,0,39.0,10.0,Executive,SVP/CIO
+1171,2014-01-16 12:00:00,Bean There Done That,98.34,Gustav,Cazar,False,16,12,0,0,34.0,11.0,Engineering,Hydraulic Technician
+1172,2014-01-16 12:00:00,Bean There Done That,17.4,Vira,Frente,True,16,12,0,0,40.0,19.0,Engineering,Hydraulic Technician
+1173,2014-01-16 12:00:00,Jack's Magical Beans,14.86,Elsa,Orilla,True,16,12,0,0,86.0,28.0,Engineering,Drill Technician
+1174,2014-01-16 12:00:00,Jack's Magical Beans,12.56,Orhan,Strum,True,16,12,0,0,56.0,32.0,Executive,SVP/COO
+1175,2014-01-16 12:00:00,Jack's Magical Beans,6.95,Willem,Vasco-Pais,True,16,12,0,0,95.0,35.0,Executive,Environmental Safety Advisor
+1176,2014-01-16 12:32:00,Nationwide Refinery,2047.28,Benito,Hawelon,True,16,12,32,0,28.0,100.0,Facilities,Truck Driver
+1177,2014-01-16 12:40:00,Abila Airport,3917.3,Henk,Mies,True,16,12,40,0,30.0,100.0,Facilities,Truck Driver
+1178,2014-01-16 13:17:00,Katerina’s Café,11.08,Brand,Tempestad,True,16,13,17,0,8.0,33.0,Engineering,Drill Technician
+1179,2014-01-16 13:19:00,Katerina’s Café,27.82,Ingrid,Barranco,True,16,13,19,0,82.0,4.0,Executive,SVP/CFO
+1180,2014-01-16 13:19:00,Hippokampos,17.66,Ada,Campo-Corrente,True,16,13,19,0,66.0,10.0,Executive,SVP/CIO
+1181,2014-01-16 13:22:00,Abila Zacharo,64.71,Kanon,Herrero,False,16,13,22,0,71.0,22.0,Security,Badging Office
+1182,2014-01-16 13:22:00,Abila Airport,3138.98,Dylan,Scozzese,True,16,13,22,0,98.0,100.0,Facilities,Truck Driver
+1183,2014-01-16 13:22:00,Hippokampos,26.15,Orhan,Strum,False,16,13,22,0,15.0,32.0,Executive,SVP/COO
+1184,2014-01-16 13:23:00,Guy's Gyros,31.48,Nils,Calixto,True,16,13,23,0,48.0,8.0,Information Technology,IT Technician
+1185,2014-01-16 13:23:00,Katerina’s Café,34.9,Valeria,Morlun,True,16,13,23,0,90.0,100.0,Facilities,Truck Driver
+1186,2014-01-16 13:26:00,Hippokampos,36.17,Isak,Baza,True,16,13,26,0,17.0,5.0,Information Technology,IT Technician
+1187,2014-01-16 13:27:00,Katerina’s Café,34.02,Varja,Lagos,True,16,13,27,0,2.0,23.0,Security,Badging Office
+1188,2014-01-16 13:27:00,Katerina’s Café,39.74,Ruscella,Mies Haber,True,16,13,27,0,74.0,0.0,Other,Other
+1189,2014-01-16 13:27:00,Abila Zacharo,31.31,Bertrand,Ovan,True,16,13,27,0,31.0,29.0,Facilities,Facilities Group Manager
+1190,2014-01-16 13:28:00,Guy's Gyros,10.27,Lucas,Alcazar,True,16,13,28,0,27.0,1.0,Information Technology,IT Helpdesk
+1191,2014-01-16 13:30:00,Hippokampos,16.53,Linnea,Bergen,True,16,13,30,0,53.0,6.0,Information Technology,IT Group Manager
+1192,2014-01-16 13:30:00,Hippokampos,10.38,Isande,Borrasca,True,16,13,30,0,38.0,7.0,Engineering,Drill Technician
+1193,2014-01-16 13:33:00,Gelatogalore,12.33,Willem,Vasco-Pais,True,16,13,33,0,33.0,35.0,Executive,Environmental Safety Advisor
+1194,2014-01-16 13:35:00,Hippokampos,13.05,Anda,Ribera,True,16,13,35,0,5.0,0.0,Other,Other
+1195,2014-01-16 13:36:00,Hippokampos,31.14,Lars,Azada,True,16,13,36,0,14.0,2.0,Engineering,Engineer
+1196,2014-01-16 13:37:00,Gelatogalore,22.19,Hennie,Osvaldo,True,16,13,37,0,19.0,21.0,Security,Perimeter Control
+1197,2014-01-16 13:39:00,Abila Zacharo,69.27,Edvard,Vann,False,16,13,39,0,27.0,34.0,Security,Perimeter Control
+1198,2014-01-16 13:42:00,Guy's Gyros,29.7,Inga,Ferro,True,16,13,42,0,70.0,13.0,Security,Site Control
+1199,2014-01-16 13:43:00,Hippokampos,14.89,Gustav,Cazar,True,16,13,43,0,89.0,11.0,Engineering,Hydraulic Technician
+1200,2014-01-16 13:43:00,Katerina’s Café,38.32,Cornelia,Lais,True,16,13,43,0,32.0,0.0,Other,Other
+1201,2014-01-16 13:44:00,Guy's Gyros,13.48,Stenig,Fusil,True,16,13,44,0,48.0,20.0,Security,Building Control
+1202,2014-01-16 13:44:00,Hippokampos,18.18,Isia,Vann,True,16,13,44,0,18.0,16.0,Security,Perimeter Control
+1203,2014-01-16 13:45:00,Ouzeri Elian,12.47,Loreto,Bodrogi,True,16,13,45,0,47.0,15.0,Security,Site Control
+1204,2014-01-16 13:45:00,Kalami Kafenion,9.27,Dante,Coginian,True,16,13,45,0,27.0,0.0,Other,Other
+1205,2014-01-16 13:45:00,Ouzeri Elian,18.27,Adra,Nubarron,False,16,13,45,0,27.0,25.0,Engineering,Geologist
+1206,2014-01-16 13:47:00,Abila Zacharo,36.02,Hideki,Cocinaro,False,16,13,47,0,2.0,12.0,Security,Site Control
+1207,2014-01-16 13:48:00,Kalami Kafenion,31.38,Felix,Balas,True,16,13,48,0,38.0,3.0,Engineering,Engineer
+1208,2014-01-16 13:48:00,Abila Zacharo,24.38,Mat,Bramar,True,16,13,48,0,38.0,0.0,Other,Other
+1209,2014-01-16 13:48:00,Gelatogalore,32.4,Lidelse,Dedos,True,16,13,48,0,40.0,14.0,Engineering,Engineering Group Manager
+1210,2014-01-16 13:48:00,Hippokampos,29.93,Birgitta,Frente,True,16,13,48,0,93.0,18.0,Engineering,Geologist
+1211,2014-01-16 13:48:00,Kalami Kafenion,11.83,Kare,Orilla,True,16,13,48,0,83.0,27.0,Engineering,Drill Technician
+1212,2014-01-16 13:49:00,Kalami Kafenion,8.86,Sven,Flecha,True,16,13,49,0,86.0,17.0,Information Technology,IT Technician
+1213,2014-01-16 13:54:00,Hippokampos,8.07,Marin,Onda,False,16,13,54,0,7.0,26.0,Engineering,Drill Site Manager
+1214,2014-01-16 13:55:00,Hippokampos,30.02,Linda,Lagos,False,16,13,55,0,2.0,0.0,Other,Other
+1215,2014-01-16 13:55:00,Abila Zacharo,8.43,Felix,Resumir,True,16,13,55,0,43.0,30.0,Security,Security Group Manager
+1216,2014-01-16 14:00:00,Ouzeri Elian,8.52,Carla,Forluniau,True,16,14,0,0,52.0,0.0,Other,Other
+1217,2014-01-16 14:01:00,Ouzeri Elian,8.47,Varro,Awelon,True,16,14,1,0,47.0,0.0,Other,Other
+1218,2014-01-16 14:05:00,Guy's Gyros,32.8,Axel,Calzas,True,16,14,5,0,80.0,9.0,Engineering,Drill Technician
+1219,2014-01-16 15:58:00,Octavio's Office Supplies,131.01,Cornelia,Lais,True,16,15,58,0,1.0,0.0,Other,Other
+1220,2014-01-16 16:56:00,Abila Scrapyard,1897.05,Dylan,Scozzese,True,16,16,56,0,5.0,100.0,Facilities,Truck Driver
+1221,2014-01-16 17:07:00,Gelatogalore,10.62,Minke,Mies,True,16,17,7,0,62.0,24.0,Security,Perimeter Control
+1222,2014-01-16 17:17:00,Carlyle Chemical Inc.,1814.24,Valeria,Morlun,True,16,17,17,0,24.0,100.0,Facilities,Truck Driver
+1223,2014-01-16 18:49:00,Katerina’s Café,13.68,Linda,Lagos,True,16,18,49,0,68.0,0.0,Other,Other
+1224,2014-01-16 19:04:00,Guy's Gyros,25.57,Sven,Flecha,True,16,19,4,0,57.0,17.0,Information Technology,IT Technician
+1225,2014-01-16 19:09:00,Guy's Gyros,8.31,Varja,Lagos,True,16,19,9,0,31.0,23.0,Security,Badging Office
+1226,2014-01-16 19:39:00,Katerina’s Café,10.93,Nils,Calixto,True,16,19,39,0,93.0,8.0,Information Technology,IT Technician
+1227,2014-01-16 19:40:00,Guy's Gyros,37.8,Edvard,Vann,True,16,19,40,0,80.0,34.0,Security,Perimeter Control
+1228,2014-01-16 19:45:00,Frydos Autosupply n' More,53.37,Lidelse,Dedos,True,16,19,45,0,37.0,14.0,Engineering,Engineering Group Manager
+1229,2014-01-16 19:47:00,Katerina’s Café,14.34,Bertrand,Ovan,True,16,19,47,0,34.0,29.0,Facilities,Facilities Group Manager
+1230,2014-01-16 20:05:00,Katerina’s Café,29.3,Ruscella,Mies Haber,True,16,20,5,0,30.0,0.0,Other,Other
+1231,2014-01-16 20:08:00,Albert's Fine Clothing,283.38,Varro,Awelon,True,16,20,8,0,38.0,0.0,Other,Other
+1232,2014-01-16 20:09:00,Katerina’s Café,18.79,Emile,Arpa,True,16,20,9,0,79.0,0.0,Other,Other
+1233,2014-01-16 20:09:00,Guy's Gyros,28.27,Felix,Resumir,True,16,20,9,0,27.0,30.0,Security,Security Group Manager
+1234,2014-01-16 20:13:00,Hippokampos,29.13,Gustav,Cazar,True,16,20,13,0,13.0,11.0,Engineering,Hydraulic Technician
+1235,2014-01-16 20:14:00,Guy's Gyros,31.31,Brand,Tempestad,True,16,20,14,0,31.0,33.0,Engineering,Drill Technician
+1236,2014-01-16 20:17:00,Guy's Gyros,25.78,Loreto,Bodrogi,False,16,20,17,0,78.0,15.0,Security,Site Control
+1237,2014-01-16 20:17:00,Guy's Gyros,30.76,Stenig,Fusil,True,16,20,17,0,76.0,20.0,Security,Building Control
+1238,2014-01-16 20:23:00,Katerina’s Café,13.91,Birgitta,Frente,True,16,20,23,0,91.0,18.0,Engineering,Geologist
+1239,2014-01-16 20:25:00,Ouzeri Elian,23.89,Isak,Baza,True,16,20,25,0,89.0,5.0,Information Technology,IT Technician
+1240,2014-01-16 20:25:00,Albert's Fine Clothing,91.71,Inga,Ferro,True,16,20,25,0,71.0,13.0,Security,Site Control
+1241,2014-01-16 20:25:00,Katerina’s Café,35.43,Carla,Forluniau,True,16,20,25,0,43.0,0.0,Other,Other
+1242,2014-01-16 20:25:00,Roberts and Sons,155.76,Minke,Mies,True,16,20,25,0,76.0,24.0,Security,Perimeter Control
+1243,2014-01-16 20:25:00,Ouzeri Elian,22.65,Rachel,Pantanal,True,16,20,25,0,65.0,0.0,Other,Other
+1244,2014-01-16 20:28:00,Ouzeri Elian,9.91,Lucas,Alcazar,True,16,20,28,0,91.0,1.0,Information Technology,IT Helpdesk
+1245,2014-01-16 20:28:00,Katerina’s Café,10.84,Hennie,Osvaldo,True,16,20,28,0,84.0,21.0,Security,Perimeter Control
+1246,2014-01-16 20:35:00,Guy's Gyros,11.31,Hideki,Cocinaro,True,16,20,35,0,31.0,12.0,Security,Site Control
+1247,2014-01-16 20:36:00,Katerina’s Café,19.44,Adra,Nubarron,True,16,20,36,0,44.0,25.0,Engineering,Geologist
+1248,2014-01-16 20:39:00,Katerina’s Café,30.56,Dante,Coginian,True,16,20,39,0,56.0,0.0,Other,Other
+1249,2014-01-16 20:42:00,Hippokampos,34.0,Vira,Frente,True,16,20,42,0,0.0,19.0,Engineering,Hydraulic Technician
+1250,2014-01-16 20:43:00,Hippokampos,27.74,Willem,Vasco-Pais,False,16,20,43,0,74.0,35.0,Executive,Environmental Safety Advisor
+1251,2014-01-16 20:45:00,Shoppers' Delight,100.69,Axel,Calzas,True,16,20,45,0,69.0,9.0,Engineering,Drill Technician
+1252,2014-01-16 20:50:00,Shoppers' Delight,16.84,Kanon,Herrero,True,16,20,50,0,84.0,22.0,Security,Badging Office
+1253,2014-01-16 20:51:00,Katerina’s Café,34.58,Kare,Orilla,True,16,20,51,0,58.0,27.0,Engineering,Drill Technician
+1254,2014-01-16 20:52:00,Roberts and Sons,240.66,Isia,Vann,True,16,20,52,0,66.0,16.0,Security,Perimeter Control
+1255,2014-01-16 20:54:00,Frydos Autosupply n' More,130.01,Mat,Bramar,True,16,20,54,0,1.0,0.0,Other,Other
+1256,2014-01-16 20:58:00,Hippokampos,12.47,Ada,Campo-Corrente,False,16,20,58,0,47.0,10.0,Executive,SVP/CIO
+1257,2014-01-16 21:13:00,Hippokampos,20.84,Ingrid,Barranco,True,16,21,13,0,84.0,4.0,Executive,SVP/CFO
+1258,2014-01-16 21:16:00,Ouzeri Elian,29.99,Elsa,Orilla,True,16,21,16,0,99.0,28.0,Engineering,Drill Technician
+1259,2014-01-17 07:29:00,Brew've Been Served,12.56,Sven,Flecha,True,17,7,29,0,56.0,17.0,Information Technology,IT Technician
+1260,2014-01-17 07:31:00,Hallowed Grounds,3.25,Marin,Onda,True,17,7,31,0,25.0,26.0,Engineering,Drill Site Manager
+1261,2014-01-17 07:33:00,Hallowed Grounds,14.58,Nils,Calixto,True,17,7,33,0,58.0,8.0,Information Technology,IT Technician
+1262,2014-01-17 07:36:00,Brew've Been Served,11.69,Cornelia,Lais,True,17,7,36,0,69.0,0.0,Other,Other
+1263,2014-01-17 07:38:00,Coffee Cameleon,10.27,Bertrand,Ovan,True,17,7,38,0,27.0,29.0,Facilities,Facilities Group Manager
+1264,2014-01-17 07:39:00,Hallowed Grounds,15.98,Birgitta,Frente,True,17,7,39,0,98.0,18.0,Engineering,Geologist
+1265,2014-01-17 07:41:00,Hallowed Grounds,10.52,Emile,Arpa,False,17,7,41,0,52.0,0.0,Other,Other
+1266,2014-01-17 07:50:00,Brew've Been Served,8.07,Mat,Bramar,True,17,7,50,0,7.0,0.0,Other,Other
+1267,2014-01-17 07:51:00,Coffee Cameleon,6.81,Linnea,Bergen,True,17,7,51,0,81.0,6.0,Information Technology,IT Group Manager
+1268,2014-01-17 07:52:00,Hallowed Grounds,18.6,Lidelse,Dedos,True,17,7,52,0,60.0,14.0,Engineering,Engineering Group Manager
+1269,2014-01-17 07:52:00,Coffee Cameleon,9.16,Stenig,Fusil,True,17,7,52,0,16.0,20.0,Security,Building Control
+1270,2014-01-17 07:56:00,Hallowed Grounds,9.72,Sten,Sanjorge Jr.,True,17,7,56,0,72.0,31.0,Executive,President/CEO
+1271,2014-01-17 07:57:00,Brew've Been Served,10.52,Isia,Vann,True,17,7,57,0,52.0,16.0,Security,Perimeter Control
+1272,2014-01-17 07:59:00,Hallowed Grounds,5.52,Anda,Ribera,True,17,7,59,0,52.0,0.0,Other,Other
+1273,2014-01-17 07:59:00,Brew've Been Served,19.39,Edvard,Vann,True,17,7,59,0,39.0,34.0,Security,Perimeter Control
+1274,2014-01-17 08:03:00,Brew've Been Served,13.66,Varja,Lagos,True,17,8,3,0,66.0,23.0,Security,Badging Office
+1275,2014-01-17 08:03:00,Hallowed Grounds,18.22,Kare,Orilla,True,17,8,3,0,22.0,27.0,Engineering,Drill Technician
+1276,2014-01-17 08:04:00,Hallowed Grounds,9.4,Lucas,Alcazar,True,17,8,4,0,40.0,1.0,Information Technology,IT Helpdesk
+1277,2014-01-17 08:04:00,Brew've Been Served,16.62,Hennie,Osvaldo,True,17,8,4,0,62.0,21.0,Security,Perimeter Control
+1278,2014-01-17 08:07:00,Coffee Cameleon,7.49,Carla,Forluniau,True,17,8,7,0,49.0,0.0,Other,Other
+1279,2014-01-17 08:08:00,Kronos Mart,286.24,Lars,Azada,False,17,8,8,0,24.0,2.0,Engineering,Engineer
+1280,2014-01-17 08:09:00,Brew've Been Served,9.3,Dante,Coginian,False,17,8,9,0,30.0,0.0,Other,Other
+1281,2014-01-17 08:12:00,Brew've Been Served,18.15,Ruscella,Mies Haber,True,17,8,12,0,15.0,0.0,Other,Other
+1282,2014-01-17 08:12:00,Hallowed Grounds,6.39,Rachel,Pantanal,False,17,8,12,0,39.0,0.0,Other,Other
+1283,2014-01-17 08:13:00,Coffee Cameleon,14.99,Minke,Mies,False,17,8,13,0,99.0,24.0,Security,Perimeter Control
+1284,2014-01-17 08:15:00,Brew've Been Served,3.09,Loreto,Bodrogi,True,17,8,15,0,9.0,15.0,Security,Site Control
+1285,2014-01-17 08:17:00,Brew've Been Served,5.29,Felix,Resumir,True,17,8,17,0,29.0,30.0,Security,Security Group Manager
+1286,2014-01-17 08:19:00,Brew've Been Served,14.58,Linda,Lagos,True,17,8,19,0,58.0,0.0,Other,Other
+1287,2014-01-17 08:22:00,Brew've Been Served,15.46,Inga,Ferro,True,17,8,22,0,46.0,13.0,Security,Site Control
+1288,2014-01-17 08:23:00,Brew've Been Served,11.04,Kanon,Herrero,True,17,8,23,0,4.0,22.0,Security,Badging Office
+1289,2014-01-17 11:32:00,Stewart and Sons Fabrication,1753.17,Cecilia,Morluniau,True,17,11,32,0,17.0,100.0,Facilities,Truck Driver
+1290,2014-01-17 12:00:00,Coffee Shack,19.16,Varro,Awelon,True,17,12,0,0,16.0,0.0,Other,Other
+1291,2014-01-17 12:00:00,Bean There Done That,19.67,Lars,Azada,True,17,12,0,0,67.0,2.0,Engineering,Engineer
+1292,2014-01-17 12:00:00,Bean There Done That,8.21,Felix,Balas,True,17,12,0,0,21.0,3.0,Engineering,Engineer
+1293,2014-01-17 12:00:00,Brewed Awakenings,8.16,Ingrid,Barranco,True,17,12,0,0,16.0,4.0,Executive,SVP/CFO
+1294,2014-01-17 12:00:00,Jack's Magical Beans,7.57,Isak,Baza,True,17,12,0,0,57.0,5.0,Information Technology,IT Technician
+1295,2014-01-17 12:00:00,Brewed Awakenings,8.69,Isande,Borrasca,True,17,12,0,0,69.0,7.0,Engineering,Drill Technician
+1296,2014-01-17 12:00:00,Bean There Done That,19.56,Axel,Calzas,True,17,12,0,0,56.0,9.0,Engineering,Drill Technician
+1297,2014-01-17 12:00:00,Brewed Awakenings,6.0,Ada,Campo-Corrente,True,17,12,0,0,0.0,10.0,Executive,SVP/CIO
+1298,2014-01-17 12:00:00,Bean There Done That,18.72,Gustav,Cazar,True,17,12,0,0,72.0,11.0,Engineering,Hydraulic Technician
+1299,2014-01-17 12:00:00,Bean There Done That,5.77,Vira,Frente,True,17,12,0,0,77.0,19.0,Engineering,Hydraulic Technician
+1300,2014-01-17 12:00:00,Jack's Magical Beans,19.11,Elsa,Orilla,True,17,12,0,0,11.0,28.0,Engineering,Drill Technician
+1301,2014-01-17 13:11:00,Abila Zacharo,8.78,Ada,Campo-Corrente,True,17,13,11,0,78.0,10.0,Executive,SVP/CIO
+1302,2014-01-17 13:16:00,Kalami Kafenion,140.78,Linnea,Bergen,True,17,13,16,0,78.0,6.0,Information Technology,IT Group Manager
+1303,2014-01-17 13:16:00,Hippokampos,38.21,Carla,Forluniau,True,17,13,16,0,21.0,0.0,Other,Other
+1304,2014-01-17 13:17:00,Gelatogalore,15.84,Orhan,Strum,True,17,13,17,0,84.0,32.0,Executive,SVP/COO
+1305,2014-01-17 13:18:00,Guy's Gyros,8.64,Ingrid,Barranco,True,17,13,18,0,64.0,4.0,Executive,SVP/CFO
+1306,2014-01-17 13:21:00,Guy's Gyros,22.18,Varja,Lagos,True,17,13,21,0,18.0,23.0,Security,Badging Office
+1307,2014-01-17 13:27:00,Hippokampos,14.57,Edvard,Vann,True,17,13,27,0,57.0,34.0,Security,Perimeter Control
+1308,2014-01-17 13:28:00,Abila Zacharo,15.95,Sten,Sanjorge Jr.,True,17,13,28,0,95.0,31.0,Executive,President/CEO
+1309,2014-01-17 13:31:00,Hippokampos,15.77,Stenig,Fusil,True,17,13,31,0,77.0,20.0,Security,Building Control
+1310,2014-01-17 13:33:00,Gelatogalore,23.23,Felix,Balas,True,17,13,33,0,23.0,3.0,Engineering,Engineer
+1311,2014-01-17 13:37:00,Kalami Kafenion,25.32,Willem,Vasco-Pais,True,17,13,37,0,32.0,35.0,Executive,Environmental Safety Advisor
+1312,2014-01-17 13:38:00,Ouzeri Elian,14.01,Lars,Azada,False,17,13,38,0,1.0,2.0,Engineering,Engineer
+1313,2014-01-17 13:38:00,Guy's Gyros,39.14,Loreto,Bodrogi,True,17,13,38,0,14.0,15.0,Security,Site Control
+1314,2014-01-17 13:38:00,Hippokampos,52.31,Kanon,Herrero,False,17,13,38,0,31.0,22.0,Security,Badging Office
+1315,2014-01-17 13:38:00,Kalami Kafenion,39.43,Ruscella,Mies Haber,False,17,13,38,0,43.0,0.0,Other,Other
+1316,2014-01-17 13:39:00,Kalami Kafenion,27.7,Hennie,Osvaldo,False,17,13,39,0,70.0,21.0,Security,Perimeter Control
+1317,2014-01-17 13:40:00,Gelatogalore,37.3,Marin,Onda,False,17,13,40,0,30.0,26.0,Engineering,Drill Site Manager
+1318,2014-01-17 13:41:00,Abila Zacharo,14.51,Adra,Nubarron,True,17,13,41,0,51.0,25.0,Engineering,Geologist
+1319,2014-01-17 13:42:00,Katerina’s Café,21.01,Bertrand,Ovan,True,17,13,42,0,1.0,29.0,Facilities,Facilities Group Manager
+1320,2014-01-17 13:45:00,Abila Zacharo,39.67,Isia,Vann,True,17,13,45,0,67.0,16.0,Security,Perimeter Control
+1321,2014-01-17 13:47:00,Gelatogalore,18.1,Rachel,Pantanal,True,17,13,47,0,10.0,0.0,Other,Other
+1322,2014-01-17 13:48:00,Katerina’s Café,13.11,Gustav,Cazar,True,17,13,48,0,11.0,11.0,Engineering,Hydraulic Technician
+1323,2014-01-17 13:49:00,Chostus Hotel,114.22,Brand,Tempestad,True,17,13,49,0,22.0,33.0,Engineering,Drill Technician
+1324,2014-01-17 13:51:00,Kalami Kafenion,20.02,Lidelse,Dedos,True,17,13,51,0,2.0,14.0,Engineering,Engineering Group Manager
+1325,2014-01-17 13:51:00,Gelatogalore,34.59,Inga,Ferro,True,17,13,51,0,59.0,13.0,Security,Site Control
+1326,2014-01-17 13:52:00,Hippokampos,28.35,Birgitta,Frente,True,17,13,52,0,35.0,18.0,Engineering,Geologist
+1327,2014-01-17 13:53:00,Kalami Kafenion,24.21,Linda,Lagos,True,17,13,53,0,21.0,0.0,Other,Other
+1328,2014-01-17 13:53:00,Katerina’s Café,35.52,Minke,Mies,True,17,13,53,0,52.0,24.0,Security,Perimeter Control
+1329,2014-01-17 13:54:00,Chostus Hotel,119.62,Isande,Borrasca,True,17,13,54,0,62.0,7.0,Engineering,Drill Technician
+1330,2014-01-17 13:55:00,Guy's Gyros,32.31,Felix,Resumir,False,17,13,55,0,31.0,30.0,Security,Security Group Manager
+1331,2014-01-17 13:57:00,Gelatogalore,21.62,Kare,Orilla,True,17,13,57,0,62.0,27.0,Engineering,Drill Technician
+1332,2014-01-17 13:58:00,Hippokampos,21.81,Axel,Calzas,False,17,13,58,0,81.0,9.0,Engineering,Drill Technician
+1333,2014-01-17 13:58:00,Kalami Kafenion,27.73,Hideki,Cocinaro,True,17,13,58,0,73.0,12.0,Security,Site Control
+1334,2014-01-17 14:00:00,Guy's Gyros,15.12,Dante,Coginian,True,17,14,0,0,12.0,0.0,Other,Other
+1335,2014-01-17 14:05:00,Guy's Gyros,21.1,Varro,Awelon,True,17,14,5,0,10.0,0.0,Other,Other
+1336,2014-01-17 14:06:00,Abila Zacharo,11.95,Cornelia,Lais,True,17,14,6,0,95.0,0.0,Other,Other
+1337,2014-01-17 14:15:00,Katerina’s Café,30.72,Mat,Bramar,True,17,14,15,0,72.0,0.0,Other,Other
+1338,2014-01-17 14:32:00,Ouzeri Elian,26.1,Emile,Arpa,True,17,14,32,0,10.0,0.0,Other,Other
+1339,2014-01-17 19:24:00,Katerina’s Café,22.18,Kare,Orilla,True,17,19,24,0,18.0,27.0,Engineering,Drill Technician
+1340,2014-01-17 19:29:00,Guy's Gyros,19.68,Stenig,Fusil,True,17,19,29,0,68.0,20.0,Security,Building Control
+1341,2014-01-17 19:40:00,Hippokampos,19.76,Varro,Awelon,True,17,19,40,0,76.0,0.0,Other,Other
+1342,2014-01-17 19:40:00,Ouzeri Elian,38.6,Isak,Baza,True,17,19,40,0,60.0,5.0,Information Technology,IT Technician
+1343,2014-01-17 19:44:00,Albert's Fine Clothing,39.41,Gustav,Cazar,True,17,19,44,0,41.0,11.0,Engineering,Hydraulic Technician
+1344,2014-01-17 19:46:00,Guy's Gyros,16.83,Felix,Resumir,True,17,19,46,0,83.0,30.0,Security,Security Group Manager
+1345,2014-01-17 19:53:00,Guy's Gyros,35.1,Edvard,Vann,True,17,19,53,0,10.0,34.0,Security,Perimeter Control
+1346,2014-01-17 19:57:00,Katerina’s Café,14.93,Emile,Arpa,True,17,19,57,0,93.0,0.0,Other,Other
+1347,2014-01-17 19:57:00,Frydos Autosupply n' More,124.52,Mat,Bramar,True,17,19,57,0,52.0,0.0,Other,Other
+1348,2014-01-17 20:03:00,Hippokampos,8.92,Isande,Borrasca,True,17,20,3,0,92.0,7.0,Engineering,Drill Technician
+1349,2014-01-17 20:05:00,Shoppers' Delight,155.01,Sven,Flecha,True,17,20,5,0,1.0,17.0,Information Technology,IT Technician
+1350,2014-01-17 20:07:00,Katerina’s Café,21.22,Marin,Onda,True,17,20,7,0,22.0,26.0,Engineering,Drill Site Manager
+1351,2014-01-17 20:07:00,Ouzeri Elian,10.21,Elsa,Orilla,True,17,20,7,0,21.0,28.0,Engineering,Drill Technician
+1352,2014-01-17 20:16:00,Guy's Gyros,37.55,Varja,Lagos,True,17,20,16,0,55.0,23.0,Security,Badging Office
+1353,2014-01-17 20:19:00,Katerina’s Café,36.12,Dante,Coginian,True,17,20,19,0,12.0,0.0,Other,Other
+1354,2014-01-17 20:20:00,Katerina’s Café,19.09,Linnea,Bergen,True,17,20,20,0,9.0,6.0,Information Technology,IT Group Manager
+1355,2014-01-17 20:21:00,Guy's Gyros,8.31,Inga,Ferro,True,17,20,21,0,31.0,13.0,Security,Site Control
+1356,2014-01-17 20:21:00,Shoppers' Delight,269.33,Kanon,Herrero,True,17,20,21,0,33.0,22.0,Security,Badging Office
+1357,2014-01-17 20:24:00,Guy's Gyros,8.54,Loreto,Bodrogi,True,17,20,24,0,54.0,15.0,Security,Site Control
+1358,2014-01-17 20:24:00,Katerina’s Café,32.13,Nils,Calixto,True,17,20,24,0,13.0,8.0,Information Technology,IT Technician
+1359,2014-01-17 20:28:00,Ouzeri Elian,35.81,Lucas,Alcazar,True,17,20,28,0,81.0,1.0,Information Technology,IT Helpdesk
+1360,2014-01-17 20:35:00,Ouzeri Elian,26.4,Rachel,Pantanal,True,17,20,35,0,40.0,0.0,Other,Other
+1361,2014-01-17 20:41:00,General Grocer,78.03,Hideki,Cocinaro,True,17,20,41,0,3.0,12.0,Security,Site Control
+1362,2014-01-17 20:41:00,Frydos Autosupply n' More,260.08,Isia,Vann,False,17,20,41,0,8.0,16.0,Security,Perimeter Control
+1363,2014-01-17 20:54:00,Hippokampos,11.93,Ingrid,Barranco,True,17,20,54,0,93.0,4.0,Executive,SVP/CFO
+1364,2014-01-17 20:58:00,Katerina’s Café,38.21,Adra,Nubarron,True,17,20,58,0,21.0,25.0,Engineering,Geologist
+1365,2014-01-17 20:59:00,Guy's Gyros,29.71,Brand,Tempestad,True,17,20,59,0,71.0,33.0,Engineering,Drill Technician
+1366,2014-01-17 21:05:00,Katerina’s Café,33.73,Ruscella,Mies Haber,True,17,21,5,0,73.0,0.0,Other,Other
+1367,2014-01-17 21:06:00,Katerina’s Café,27.49,Hennie,Osvaldo,True,17,21,6,0,49.0,21.0,Security,Perimeter Control
+1368,2014-01-17 21:07:00,Guy's Gyros,15.4,Minke,Mies,True,17,21,7,0,40.0,24.0,Security,Perimeter Control
+1369,2014-01-17 21:15:00,Frydos Autosupply n' More,67.29,Cornelia,Lais,True,17,21,15,0,29.0,0.0,Other,Other
+1370,2014-01-17 21:29:00,Hippokampos,38.19,Willem,Vasco-Pais,True,17,21,29,0,19.0,35.0,Executive,Environmental Safety Advisor
+1371,2014-01-17 21:58:00,Hippokampos,12.86,Felix,Balas,True,17,21,58,0,86.0,3.0,Engineering,Engineer
+1372,2014-01-18 12:03:00,Chostus Hotel,600.0,Sten,Sanjorge Jr.,True,18,12,3,0,0.0,31.0,Executive,President/CEO
+1373,2014-01-18 13:04:00,Abila Zacharo,111.93,Orhan,Strum,True,18,13,4,0,93.0,32.0,Executive,SVP/COO
+1374,2014-01-18 13:05:00,Abila Zacharo,25.59,Isande,Borrasca,False,18,13,5,0,59.0,7.0,Engineering,Drill Technician
+1375,2014-01-18 13:15:00,Katerina’s Café,34.54,Anda,Ribera,True,18,13,15,0,54.0,0.0,Other,Other
+1376,2014-01-18 13:18:00,Ouzeri Elian,33.57,Vira,Frente,True,18,13,18,0,57.0,19.0,Engineering,Hydraulic Technician
+1377,2014-01-18 13:19:00,Kalami Kafenion,30.12,Cornelia,Lais,True,18,13,19,0,12.0,0.0,Other,Other
+1378,2014-01-18 13:21:00,Hippokampos,20.11,Axel,Calzas,True,18,13,21,0,11.0,9.0,Engineering,Drill Technician
+1379,2014-01-18 13:25:00,Abila Zacharo,18.45,Linnea,Bergen,True,18,13,25,0,45.0,6.0,Information Technology,IT Group Manager
+1380,2014-01-18 13:27:00,Guy's Gyros,55.21,Sven,Flecha,False,18,13,27,0,21.0,17.0,Information Technology,IT Technician
+1381,2014-01-18 13:28:00,Guy's Gyros,27.4,Lidelse,Dedos,True,18,13,28,0,40.0,14.0,Engineering,Engineering Group Manager
+1382,2014-01-18 13:28:00,Kalami Kafenion,38.91,Willem,Vasco-Pais,True,18,13,28,0,91.0,35.0,Executive,Environmental Safety Advisor
+1383,2014-01-18 13:32:00,Abila Zacharo,16.59,Lucas,Alcazar,True,18,13,32,0,59.0,1.0,Information Technology,IT Helpdesk
+1384,2014-01-18 13:34:00,Katerina’s Café,19.3,Varja,Lagos,True,18,13,34,0,30.0,23.0,Security,Badging Office
+1385,2014-01-18 13:34:00,Ouzeri Elian,25.75,Bertrand,Ovan,False,18,13,34,0,75.0,29.0,Facilities,Facilities Group Manager
+1386,2014-01-18 13:58:00,Kalami Kafenion,24.14,Gustav,Cazar,True,18,13,58,0,14.0,11.0,Engineering,Hydraulic Technician
+1387,2014-01-18 13:58:00,Gelatogalore,24.38,Rachel,Pantanal,True,18,13,58,0,38.0,0.0,Other,Other
+1388,2014-01-18 14:00:00,Katerina’s Café,37.26,Linda,Lagos,True,18,14,0,0,26.0,0.0,Other,Other
+1389,2014-01-18 14:02:00,Kalami Kafenion,42.73,Dante,Coginian,True,18,14,2,0,73.0,0.0,Other,Other
+1390,2014-01-18 14:03:00,Katerina’s Café,96.36,Ingrid,Barranco,True,18,14,3,0,36.0,4.0,Executive,SVP/CFO
+1391,2014-01-18 14:05:00,Guy's Gyros,47.89,Birgitta,Frente,True,18,14,5,0,89.0,18.0,Engineering,Geologist
+1392,2014-01-18 14:06:00,Katerina’s Café,24.14,Inga,Ferro,False,18,14,6,0,14.0,13.0,Security,Site Control
+1393,2014-01-18 14:17:00,Kalami Kafenion,53.36,Felix,Resumir,True,18,14,17,0,36.0,30.0,Security,Security Group Manager
+1394,2014-01-18 14:51:00,Ahaggo Museum,55.55,Kanon,Herrero,False,18,14,51,0,55.0,22.0,Security,Badging Office
+1395,2014-01-18 14:55:00,Ahaggo Museum,120.2,Sven,Flecha,True,18,14,55,0,20.0,17.0,Information Technology,IT Technician
+1396,2014-01-18 15:20:00,Albert's Fine Clothing,35.66,Vira,Frente,True,18,15,20,0,66.0,19.0,Engineering,Hydraulic Technician
+1397,2014-01-18 15:31:00,Frydos Autosupply n' More,103.41,Cornelia,Lais,True,18,15,31,0,41.0,0.0,Other,Other
+1398,2014-01-18 15:31:00,General Grocer,177.6,Bertrand,Ovan,True,18,15,31,0,60.0,29.0,Facilities,Facilities Group Manager
+1399,2014-01-18 15:32:00,Frydos Autosupply n' More,281.54,Lidelse,Dedos,True,18,15,32,0,54.0,14.0,Engineering,Engineering Group Manager
+1400,2014-01-18 15:40:00,Shoppers' Delight,258.33,Orhan,Strum,True,18,15,40,0,33.0,32.0,Executive,SVP/COO
+1401,2014-01-18 15:41:00,Roberts and Sons,62.47,Linnea,Bergen,True,18,15,41,0,47.0,6.0,Information Technology,IT Group Manager
+1402,2014-01-18 15:51:00,Frydos Autosupply n' More,103.55,Axel,Calzas,True,18,15,51,0,55.0,9.0,Engineering,Drill Technician
+1403,2014-01-18 15:53:00,Frydos Autosupply n' More,120.67,Willem,Vasco-Pais,True,18,15,53,0,67.0,35.0,Executive,Environmental Safety Advisor
+1404,2014-01-18 15:57:00,Albert's Fine Clothing,189.52,Anda,Ribera,True,18,15,57,0,52.0,0.0,Other,Other
+1405,2014-01-18 18:39:00,Frank's Fuel,52.66,Felix,Balas,True,18,18,39,0,66.0,3.0,Engineering,Engineer
+1406,2014-01-18 18:51:00,Frydos Autosupply n' More,234.53,Ruscella,Mies Haber,True,18,18,51,0,53.0,0.0,Other,Other
+1407,2014-01-18 18:59:00,Albert's Fine Clothing,226.49,Orhan,Strum,True,18,18,59,0,49.0,32.0,Executive,SVP/COO
+1408,2014-01-18 19:08:00,Guy's Gyros,39.68,Varja,Lagos,True,18,19,8,0,68.0,23.0,Security,Badging Office
+1409,2014-01-18 19:17:00,Katerina’s Café,21.63,Emile,Arpa,False,18,19,17,0,63.0,0.0,Other,Other
+1410,2014-01-18 19:20:00,Roberts and Sons,266.69,Birgitta,Frente,True,18,19,20,0,69.0,18.0,Engineering,Geologist
+1411,2014-01-18 19:21:00,Ouzeri Elian,57.63,Isak,Baza,True,18,19,21,0,63.0,5.0,Information Technology,IT Technician
+1412,2014-01-18 19:21:00,Hippokampos,21.34,Gustav,Cazar,False,18,19,21,0,34.0,11.0,Engineering,Hydraulic Technician
+1413,2014-01-18 19:21:00,Guy's Gyros,28.07,Cornelia,Lais,True,18,19,21,0,7.0,0.0,Other,Other
+1414,2014-01-18 19:26:00,Ouzeri Elian,21.56,Lucas,Alcazar,True,18,19,26,0,56.0,1.0,Information Technology,IT Helpdesk
+1415,2014-01-18 19:30:00,Katerina’s Café,8.14,Nils,Calixto,True,18,19,30,0,14.0,8.0,Information Technology,IT Technician
+1416,2014-01-18 19:31:00,Katerina’s Café,22.74,Lidelse,Dedos,True,18,19,31,0,74.0,14.0,Engineering,Engineering Group Manager
+1417,2014-01-18 19:32:00,Katerina’s Café,33.41,Minke,Mies,True,18,19,32,0,41.0,24.0,Security,Perimeter Control
+1418,2014-01-18 19:35:00,Hippokampos,27.21,Vira,Frente,True,18,19,35,0,21.0,19.0,Engineering,Hydraulic Technician
+1419,2014-01-18 19:36:00,Katerina’s Café,35.79,Anda,Ribera,False,18,19,36,0,79.0,0.0,Other,Other
+1420,2014-01-18 19:36:00,Abila Zacharo,21.29,Edvard,Vann,True,18,19,36,0,29.0,34.0,Security,Perimeter Control
+1421,2014-01-18 19:36:00,Hippokampos,53.21,Willem,Vasco-Pais,True,18,19,36,0,21.0,35.0,Executive,Environmental Safety Advisor
+1422,2014-01-18 19:39:00,Kalami Kafenion,11.14,Felix,Balas,True,18,19,39,0,14.0,3.0,Engineering,Engineer
+1423,2014-01-18 19:39:00,Guy's Gyros,78.36,Stenig,Fusil,False,18,19,39,0,36.0,20.0,Security,Building Control
+1424,2014-01-18 19:42:00,Hippokampos,63.21,Ada,Campo-Corrente,True,18,19,42,0,21.0,10.0,Executive,SVP/CIO
+1425,2014-01-18 19:46:00,Roberts and Sons,125.35,Ingrid,Barranco,False,18,19,46,0,35.0,4.0,Executive,SVP/CFO
+1426,2014-01-18 19:46:00,Katerina’s Café,11.19,Dante,Coginian,False,18,19,46,0,19.0,0.0,Other,Other
+1427,2014-01-18 19:46:00,Ouzeri Elian,14.9,Rachel,Pantanal,True,18,19,46,0,90.0,0.0,Other,Other
+1428,2014-01-18 19:47:00,Katerina’s Café,16.48,Mat,Bramar,False,18,19,47,0,48.0,0.0,Other,Other
+1429,2014-01-18 19:53:00,Katerina’s Café,76.1,Bertrand,Ovan,True,18,19,53,0,10.0,29.0,Facilities,Facilities Group Manager
+1430,2014-01-18 19:54:00,Katerina’s Café,33.63,Marin,Onda,True,18,19,54,0,63.0,26.0,Engineering,Drill Site Manager
+1431,2014-01-18 19:56:00,Katerina’s Café,32.68,Carla,Forluniau,True,18,19,56,0,68.0,0.0,Other,Other
+1432,2014-01-18 20:01:00,Hippokampos,49.21,Kanon,Herrero,False,18,20,1,0,21.0,22.0,Security,Badging Office
+1433,2014-01-18 20:01:00,Katerina’s Café,17.37,Hennie,Osvaldo,False,18,20,1,0,37.0,21.0,Security,Perimeter Control
+1434,2014-01-18 20:04:00,Katerina’s Café,45.88,Linda,Lagos,True,18,20,4,0,88.0,0.0,Other,Other
+1435,2014-01-18 20:07:00,General Grocer,108.49,Felix,Resumir,True,18,20,7,0,49.0,30.0,Security,Security Group Manager
+1436,2014-01-18 20:09:00,Katerina’s Café,19.31,Isia,Vann,True,18,20,9,0,31.0,16.0,Security,Perimeter Control
+1437,2014-01-18 20:11:00,Hippokampos,72.5,Lars,Azada,True,18,20,11,0,50.0,2.0,Engineering,Engineer
+1438,2014-01-18 20:13:00,Katerina’s Café,9.72,Loreto,Bodrogi,True,18,20,13,0,72.0,15.0,Security,Site Control
+1439,2014-01-18 20:15:00,Katerina’s Café,37.21,Inga,Ferro,True,18,20,15,0,21.0,13.0,Security,Site Control
+1440,2014-01-18 20:23:00,Hippokampos,29.21,Axel,Calzas,False,18,20,23,0,21.0,9.0,Engineering,Drill Technician
+1441,2014-01-18 20:26:00,Hippokampos,55.03,Varro,Awelon,True,18,20,26,0,3.0,0.0,Other,Other
+1442,2014-01-19 03:13:00,Kronos Mart,87.66,Varja,Lagos,False,19,3,13,0,66.0,23.0,Security,Badging Office
+1443,2014-01-19 03:45:00,Kronos Mart,194.51,Lucas,Alcazar,False,19,3,45,0,51.0,1.0,Information Technology,IT Helpdesk
+1444,2014-01-19 03:48:00,Kronos Mart,150.36,Ada,Campo-Corrente,False,19,3,48,0,36.0,10.0,Executive,SVP/CIO
+1445,2014-01-19 12:41:00,Desafio Golf Course,150.07,Orhan,Strum,True,19,12,41,0,7.0,32.0,Executive,SVP/COO
+1446,2014-01-19 12:57:00,Desafio Golf Course,145.72,Ingrid,Barranco,True,19,12,57,0,72.0,4.0,Executive,SVP/CFO
+1447,2014-01-19 13:00:00,Katerina’s Café,35.01,Isia,Vann,True,19,13,0,0,1.0,16.0,Security,Perimeter Control
+1448,2014-01-19 13:09:00,Gelatogalore,22.36,Vira,Frente,True,19,13,9,0,36.0,19.0,Engineering,Hydraulic Technician
+1449,2014-01-19 13:23:00,Katerina’s Café,70.22,Edvard,Vann,True,19,13,23,0,22.0,34.0,Security,Perimeter Control
+1450,2014-01-19 13:26:00,Ahaggo Museum,26.91,Elsa,Orilla,True,19,13,26,0,91.0,28.0,Engineering,Drill Technician
+1451,2014-01-19 13:27:00,Ouzeri Elian,23.65,Varja,Lagos,True,19,13,27,0,65.0,23.0,Security,Badging Office
+1452,2014-01-19 13:33:00,Hippokampos,64.37,Adra,Nubarron,False,19,13,33,0,37.0,25.0,Engineering,Geologist
+1453,2014-01-19 13:51:00,Desafio Golf Course,190.91,Ada,Campo-Corrente,True,19,13,51,0,91.0,10.0,Executive,SVP/CIO
+1454,2014-01-19 13:53:00,Katerina’s Café,26.76,Minke,Mies,True,19,13,53,0,76.0,24.0,Security,Perimeter Control
+1455,2014-01-19 14:01:00,Katerina’s Café,12.78,Marin,Onda,False,19,14,1,0,78.0,26.0,Engineering,Drill Site Manager
+1456,2014-01-19 14:08:00,Ouzeri Elian,45.32,Sven,Flecha,True,19,14,8,0,32.0,17.0,Information Technology,IT Technician
+1457,2014-01-19 14:20:00,Katerina’s Café,54.2,Kare,Orilla,False,19,14,20,0,20.0,27.0,Engineering,Drill Technician
+1458,2014-01-19 14:20:00,Abila Zacharo,47.8,Felix,Resumir,True,19,14,20,0,80.0,30.0,Security,Security Group Manager
+1459,2014-01-19 15:03:00,General Grocer,70.22,Vira,Frente,True,19,15,3,0,22.0,19.0,Engineering,Hydraulic Technician
+1460,2014-01-19 15:15:00,Desafio Golf Course,110.02,Willem,Vasco-Pais,True,19,15,15,0,2.0,35.0,Executive,Environmental Safety Advisor
+1461,2014-01-19 15:26:00,Frydos Autosupply n' More,56.09,Varja,Lagos,True,19,15,26,0,9.0,23.0,Security,Badging Office
+1462,2014-01-19 15:39:00,Albert's Fine Clothing,274.66,Adra,Nubarron,True,19,15,39,0,66.0,25.0,Engineering,Geologist
+1463,2014-01-19 15:46:00,Desafio Golf Course,148.22,Sten,Sanjorge Jr.,True,19,15,46,0,22.0,31.0,Executive,President/CEO
+1464,2014-01-19 15:53:00,Frydos Autosupply n' More,209.76,Edvard,Vann,True,19,15,53,0,76.0,34.0,Security,Perimeter Control
+1465,2014-01-19 18:54:00,Katerina’s Café,12.25,Bertrand,Ovan,True,19,18,54,0,25.0,29.0,Facilities,Facilities Group Manager
+1466,2014-01-19 19:43:00,Hippokampos,101.25,Felix,Balas,True,19,19,43,0,25.0,3.0,Engineering,Engineer
+1467,2014-01-19 19:43:00,Hippokampos,48.23,Ada,Campo-Corrente,True,19,19,43,0,23.0,10.0,Executive,SVP/CIO
+1468,2014-01-19 19:44:00,Hippokampos,88.27,Gustav,Cazar,False,19,19,44,0,27.0,11.0,Engineering,Hydraulic Technician
+1469,2014-01-19 19:44:00,Hippokampos,46.32,Vira,Frente,True,19,19,44,0,32.0,19.0,Engineering,Hydraulic Technician
+1470,2014-01-19 19:45:00,Guy's Gyros,65.21,Sven,Flecha,True,19,19,45,0,21.0,17.0,Information Technology,IT Technician
+1471,2014-01-19 19:45:00,Guy's Gyros,23.21,Kanon,Herrero,False,19,19,45,0,21.0,22.0,Security,Badging Office
+1472,2014-01-19 19:45:00,Guy's Gyros,58.35,Varja,Lagos,True,19,19,45,0,35.0,23.0,Security,Badging Office
+1473,2014-01-19 19:45:00,Frydos Autosupply n' More,98.04,Hennie,Osvaldo,True,19,19,45,0,4.0,21.0,Security,Perimeter Control
+1474,2014-01-19 19:45:00,Guy's Gyros,25.79,Sten,Sanjorge Jr.,True,19,19,45,0,79.0,31.0,Executive,President/CEO
+1475,2014-01-19 19:48:00,Ouzeri Elian,67.98,Isak,Baza,True,19,19,48,0,98.0,5.0,Information Technology,IT Technician
+1476,2014-01-19 19:49:00,Ouzeri Elian,32.77,Lucas,Alcazar,False,19,19,49,0,77.0,1.0,Information Technology,IT Helpdesk
+1477,2014-01-19 19:49:00,Guy's Gyros,40.36,Stenig,Fusil,True,19,19,49,0,36.0,20.0,Security,Building Control
+1478,2014-01-19 19:53:00,Katerina’s Café,34.03,Nils,Calixto,True,19,19,53,0,3.0,8.0,Information Technology,IT Technician
+1479,2014-01-19 19:56:00,Shoppers' Delight,30.39,Adra,Nubarron,True,19,19,56,0,39.0,25.0,Engineering,Geologist
+1480,2014-01-19 19:56:00,Hippokampos,63.17,Willem,Vasco-Pais,True,19,19,56,0,17.0,35.0,Executive,Environmental Safety Advisor
+1481,2014-01-19 20:00:00,Guy's Gyros,18.08,Isia,Vann,True,19,20,0,0,8.0,16.0,Security,Perimeter Control
+1482,2014-01-19 20:02:00,Albert's Fine Clothing,254.29,Isande,Borrasca,True,19,20,2,0,29.0,7.0,Engineering,Drill Technician
+1483,2014-01-19 20:05:00,Katerina’s Café,33.79,Lidelse,Dedos,True,19,20,5,0,79.0,14.0,Engineering,Engineering Group Manager
+1484,2014-01-19 20:14:00,Guy's Gyros,36.87,Hideki,Cocinaro,True,19,20,14,0,87.0,12.0,Security,Site Control
+1485,2014-01-19 20:16:00,Hippokampos,78.96,Lars,Azada,True,19,20,16,0,96.0,2.0,Engineering,Engineer
+1486,2014-01-19 20:16:00,Guy's Gyros,37.48,Brand,Tempestad,True,19,20,16,0,48.0,33.0,Engineering,Drill Technician
+1487,2014-01-19 20:22:00,Katerina’s Café,38.9,Birgitta,Frente,True,19,20,22,0,90.0,18.0,Engineering,Geologist
+1488,2014-01-19 20:25:00,Guy's Gyros,20.94,Loreto,Bodrogi,True,19,20,25,0,94.0,15.0,Security,Site Control
+1489,2014-01-19 20:30:00,Guy's Gyros,31.94,Minke,Mies,True,19,20,30,0,94.0,24.0,Security,Perimeter Control
+1490,2014-01-19 20:51:00,Guy's Gyros,39.6,Felix,Resumir,True,19,20,51,0,60.0,30.0,Security,Security Group Manager
+1491,2014-01-08 00:00:00,Kalami Kafenion,18.18,Anda,Ribera,True,8,0,0,0,18.0,0.0,Other,Other
+1492,2014-01-09 00:00:00,Hallowed Grounds,16.72,Anda,Ribera,True,9,0,0,0,72.0,0.0,Other,Other
+1493,2014-01-09 00:00:00,Coffee Cameleon,4.88,Carla,Forluniau,True,9,0,0,0,88.0,0.0,Other,Other
+1494,2014-01-12 00:00:00,Kronos Mart,147.3,Ruscella,Mies Haber,True,12,0,0,0,30.0,0.0,Other,Other
+1495,2014-01-13 00:00:00,Hippokampos,14.04,Ruscella,Mies Haber,True,13,0,0,0,4.0,0.0,Other,Other
+1496,2014-01-14 00:00:00,Katerina’s Café,11.26,Carla,Forluniau,True,14,0,0,0,26.0,0.0,Other,Other
+1497,2014-01-14 00:00:00,Katerina’s Café,28.05,Anda,Ribera,True,14,0,0,0,5.0,0.0,Other,Other
+1498,2014-01-15 00:00:00,Coffee Shack,18.17,Varro,Awelon,True,15,0,0,0,17.0,0.0,Other,Other
+1499,2014-01-15 00:00:00,Katerina’s Café,36.8,Anda,Ribera,True,15,0,0,0,80.0,0.0,Other,Other
+1500,2014-01-15 00:00:00,Katerina’s Café,38.81,Ruscella,Mies Haber,True,15,0,0,0,81.0,0.0,Other,Other
+1501,2014-01-16 00:00:00,Ouzeri Elian,31.21,Rachel,Pantanal,True,16,0,0,0,21.0,0.0,Other,Other
+1502,2014-01-16 00:00:00,Guy's Gyros,36.48,Emile,Arpa,True,16,0,0,0,48.0,0.0,Other,Other
+1503,2014-01-17 00:00:00,Hippokampos,23.54,Anda,Ribera,True,17,0,0,0,54.0,0.0,Other,Other
+1504,2014-01-17 00:00:00,Katerina’s Café,21.16,Carla,Forluniau,True,17,0,0,0,16.0,0.0,Other,Other
+1505,2014-01-06 00:00:00,Ouzeri Elian,16.84,Albina,Hafon,True,6,0,0,0,84.0,100.0,Facilities,Truck Driver
+1506,2014-01-06 00:00:00,Abila Zacharo,50.14,Elsa,Orilla,True,6,0,0,0,14.0,28.0,Engineering,Drill Technician
+1507,2014-01-06 00:00:00,Ouzeri Elian,34.71,Brand,Tempestad,True,6,0,0,0,71.0,33.0,Engineering,Drill Technician
+1508,2014-01-06 00:00:00,Brew've Been Served,10.68,Isia,Vann,True,6,0,0,0,68.0,16.0,Security,Perimeter Control
+1509,2014-01-07 00:00:00,Ouzeri Elian,25.27,Lucas,Alcazar,True,7,0,0,0,27.0,1.0,Information Technology,IT Helpdesk
+1510,2014-01-07 00:00:00,Guy's Gyros,34.09,Isande,Borrasca,True,7,0,0,0,9.0,7.0,Engineering,Drill Technician
+1511,2014-01-07 00:00:00,Kalami Kafenion,25.9,Sven,Flecha,True,7,0,0,0,90.0,17.0,Information Technology,IT Technician
+1512,2014-01-07 00:00:00,Carlyle Chemical Inc.,3827.2,Valeria,Morlun,True,7,0,0,0,20.0,100.0,Facilities,Truck Driver
+1513,2014-01-07 00:00:00,Kalami Kafenion,45.05,Elsa,Orilla,True,7,0,0,0,5.0,28.0,Engineering,Drill Technician
+1514,2014-01-07 00:00:00,Abila Airport,1641.96,Dylan,Scozzese,True,7,0,0,0,96.0,100.0,Facilities,Truck Driver
+1515,2014-01-07 00:00:00,Brewed Awakenings,12.59,Isia,Vann,True,7,0,0,0,59.0,16.0,Security,Perimeter Control
+1516,2014-01-08 00:00:00,Ouzeri Elian,32.61,Ingrid,Barranco,True,8,0,0,0,61.0,4.0,Executive,SVP/CFO
+1517,2014-01-08 00:00:00,Katerina’s Café,19.12,Linnea,Bergen,True,8,0,0,0,12.0,6.0,Information Technology,IT Group Manager
+1518,2014-01-08 00:00:00,Hippokampos,12.62,Axel,Calzas,True,8,0,0,0,62.0,9.0,Engineering,Drill Technician
+1519,2014-01-08 00:00:00,Bean There Done That,16.18,Vira,Frente,True,8,0,0,0,18.0,19.0,Engineering,Hydraulic Technician
+1520,2014-01-08 00:00:00,Nationwide Refinery,4367.43,Valeria,Morlun,True,8,0,0,0,43.0,100.0,Facilities,Truck Driver
+1521,2014-01-08 00:00:00,Gelatogalore,50.36,Elsa,Orilla,True,8,0,0,0,36.0,28.0,Engineering,Drill Technician
+1522,2014-01-08 00:00:00,Ouzeri Elian,62.2,Elsa,Orilla,True,8,0,0,0,20.0,28.0,Engineering,Drill Technician
+1523,2014-01-09 00:00:00,Kronos Mart,203.91,Ingrid,Barranco,True,9,0,0,0,91.0,4.0,Executive,SVP/CFO
+1524,2014-01-09 00:00:00,Hallowed Grounds,17.84,Lidelse,Dedos,True,9,0,0,0,84.0,14.0,Engineering,Engineering Group Manager
+1525,2014-01-09 00:00:00,Katerina’s Café,26.0,Birgitta,Frente,True,9,0,0,0,0.0,18.0,Engineering,Geologist
+1526,2014-01-09 00:00:00,Bean There Done That,4.05,Vira,Frente,True,9,0,0,0,5.0,19.0,Engineering,Hydraulic Technician
+1527,2014-01-09 00:00:00,Brew've Been Served,15.82,Stenig,Fusil,True,9,0,0,0,82.0,20.0,Security,Building Control
+1528,2014-01-09 00:00:00,Abila Zacharo,48.39,Elsa,Orilla,True,9,0,0,0,39.0,28.0,Engineering,Drill Technician
+1529,2014-01-10 00:00:00,Hallowed Grounds,6.87,Lucas,Alcazar,True,10,0,0,0,87.0,1.0,Information Technology,IT Helpdesk
+1530,2014-01-10 00:00:00,Ouzeri Elian,25.98,Nils,Calixto,True,10,0,0,0,98.0,8.0,Information Technology,IT Technician
+1531,2014-01-10 00:00:00,Hippokampos,30.63,Ada,Campo-Corrente,True,10,0,0,0,63.0,10.0,Executive,SVP/CIO
+1532,2014-01-10 00:00:00,Carlyle Chemical Inc.,3489.36,Irene,Nant,True,10,0,0,0,36.0,100.0,Facilities,Truck Driver
+1533,2014-01-10 00:00:00,Gelatogalore,39.4,Bertrand,Ovan,True,10,0,0,0,40.0,29.0,Facilities,Facilities Group Manager
+1534,2014-01-11 00:00:00,Hippokampos,20.87,Ingrid,Barranco,True,11,0,0,0,87.0,4.0,Executive,SVP/CFO
+1535,2014-01-11 00:00:00,Katerina’s Café,29.17,Linnea,Bergen,True,11,0,0,0,17.0,6.0,Information Technology,IT Group Manager
+1536,2014-01-11 00:00:00,Guy's Gyros,55.69,Stenig,Fusil,True,11,0,0,0,69.0,20.0,Security,Building Control
+1537,2014-01-11 00:00:00,Kalami Kafenion,50.2,Elsa,Orilla,True,11,0,0,0,20.0,28.0,Engineering,Drill Technician
+1538,2014-01-11 00:00:00,Katerina’s Café,27.46,Kare,Orilla,True,11,0,0,0,46.0,27.0,Engineering,Drill Technician
+1539,2014-01-12 00:00:00,Kalami Kafenion,26.04,Isande,Borrasca,True,12,0,0,0,4.0,7.0,Engineering,Drill Technician
+1540,2014-01-12 00:00:00,Kronos Mart,159.06,Stenig,Fusil,True,12,0,0,0,6.0,20.0,Security,Building Control
+1541,2014-01-12 00:00:00,Guy's Gyros,42.78,Varja,Lagos,True,12,0,0,0,78.0,23.0,Security,Badging Office
+1542,2014-01-12 00:00:00,Gelatogalore,36.2,Elsa,Orilla,True,12,0,0,0,20.0,28.0,Engineering,Drill Technician
+1543,2014-01-12 00:00:00,Katerina’s Café,34.1,Bertrand,Ovan,True,12,0,0,0,10.0,29.0,Facilities,Facilities Group Manager
+1544,2014-01-13 00:00:00,Hallowed Grounds,14.11,Lucas,Alcazar,True,13,0,0,0,11.0,1.0,Information Technology,IT Helpdesk
+1545,2014-01-13 00:00:00,Abila Zacharo,36.14,Ingrid,Barranco,True,13,0,0,0,14.0,4.0,Executive,SVP/CFO
+1546,2014-01-13 00:00:00,Brew've Been Served,12.8,Loreto,Bodrogi,True,13,0,0,0,80.0,15.0,Security,Site Control
+1547,2014-01-13 00:00:00,Katerina’s Café,37.88,Nils,Calixto,True,13,0,0,0,88.0,8.0,Information Technology,IT Technician
+1548,2014-01-13 00:00:00,Guy's Gyros,33.48,Hideki,Cocinaro,True,13,0,0,0,48.0,12.0,Security,Site Control
+1549,2014-01-13 00:00:00,Abila Zacharo,23.03,Vira,Frente,True,13,0,0,0,3.0,19.0,Engineering,Hydraulic Technician
+1550,2014-01-13 00:00:00,Frydos Autosupply n' More,87.57,Minke,Mies,True,13,0,0,0,57.0,24.0,Security,Perimeter Control
+1551,2014-01-13 00:00:00,Stewart and Sons Fabrication,4071.95,Cecilia,Morluniau,True,13,0,0,0,95.0,100.0,Facilities,Truck Driver
+1552,2014-01-13 00:00:00,Abila Zacharo,64.5,Elsa,Orilla,True,13,0,0,0,50.0,28.0,Engineering,Drill Technician
+1553,2014-01-14 00:00:00,Kalami Kafenion,16.84,Lucas,Alcazar,True,14,0,0,0,84.0,1.0,Information Technology,IT Helpdesk
+1554,2014-01-14 00:00:00,Ouzeri Elian,15.94,Lucas,Alcazar,True,14,0,0,0,94.0,1.0,Information Technology,IT Helpdesk
+1555,2014-01-14 00:00:00,Jack's Magical Beans,13.32,Isak,Baza,True,14,0,0,0,32.0,5.0,Information Technology,IT Technician
+1556,2014-01-14 00:00:00,Hippokampos,10.71,Axel,Calzas,True,14,0,0,0,71.0,9.0,Engineering,Drill Technician
+1557,2014-01-14 00:00:00,Abila Airport,2369.56,Benito,Hawelon,True,14,0,0,0,56.0,100.0,Facilities,Truck Driver
+1558,2014-01-14 00:00:00,Brewed Awakenings,12.74,Minke,Mies,True,14,0,0,0,74.0,24.0,Security,Perimeter Control
+1559,2014-01-14 00:00:00,Guy's Gyros,50.4,Elsa,Orilla,True,14,0,0,0,40.0,28.0,Engineering,Drill Technician
+1560,2014-01-14 00:00:00,Jack's Magical Beans,18.08,Willem,Vasco-Pais,True,14,0,0,0,8.0,35.0,Executive,Environmental Safety Advisor
+1561,2014-01-15 00:00:00,Hallowed Grounds,15.86,Lucas,Alcazar,True,15,0,0,0,86.0,1.0,Information Technology,IT Helpdesk
+1562,2014-01-15 00:00:00,Ouzeri Elian,24.81,Lucas,Alcazar,True,15,0,0,0,81.0,1.0,Information Technology,IT Helpdesk
+1563,2014-01-15 00:00:00,Ouzeri Elian,32.95,Lucas,Alcazar,True,15,0,0,0,95.0,1.0,Information Technology,IT Helpdesk
+1564,2014-01-15 00:00:00,Brewed Awakenings,15.75,Ingrid,Barranco,True,15,0,0,0,75.0,4.0,Executive,SVP/CFO
+1565,2014-01-15 00:00:00,Kronos Mart,258.83,Hideki,Cocinaro,True,15,0,0,0,83.0,12.0,Security,Site Control
+1566,2014-01-15 00:00:00,Katerina’s Café,55.6,Elsa,Orilla,True,15,0,0,0,60.0,28.0,Engineering,Drill Technician
+1567,2014-01-15 00:00:00,General Grocer,137.65,Edvard,Vann,True,15,0,0,0,65.0,34.0,Security,Perimeter Control
+1568,2014-01-15 00:00:00,Guy's Gyros,19.8,Edvard,Vann,True,15,0,0,0,80.0,34.0,Security,Perimeter Control
+1569,2014-01-15 00:00:00,General Grocer,83.11,Willem,Vasco-Pais,True,15,0,0,0,11.0,35.0,Executive,Environmental Safety Advisor
+1570,2014-01-16 00:00:00,Kronos Mart,286.24,Lars,Azada,True,16,0,0,0,24.0,2.0,Engineering,Engineer
+1571,2014-01-16 00:00:00,Hippokampos,10.55,Felix,Balas,True,16,0,0,0,55.0,3.0,Engineering,Engineer
+1572,2014-01-16 00:00:00,Coffee Cameleon,5.2,Linnea,Bergen,True,16,0,0,0,20.0,6.0,Information Technology,IT Group Manager
+1573,2014-01-16 00:00:00,Katerina’s Café,36.32,Linnea,Bergen,True,16,0,0,0,32.0,6.0,Information Technology,IT Group Manager
+1574,2014-01-16 00:00:00,Kalami Kafenion,26.32,Vira,Frente,True,16,0,0,0,32.0,19.0,Engineering,Hydraulic Technician
+1575,2014-01-16 00:00:00,Abila Airport,3032.97,Henk,Mies,True,16,0,0,0,97.0,100.0,Facilities,Truck Driver
+1576,2014-01-16 00:00:00,Abila Zacharo,64.71,Elsa,Orilla,True,16,0,0,0,71.0,28.0,Engineering,Drill Technician
+1577,2014-01-17 00:00:00,Hippokampos,10.14,Axel,Calzas,True,17,0,0,0,14.0,9.0,Engineering,Drill Technician
+1578,2014-01-17 00:00:00,Hippokampos,14.93,Ada,Campo-Corrente,True,17,0,0,0,93.0,10.0,Executive,SVP/CIO
+1579,2014-01-17 00:00:00,Abila Zacharo,21.21,Vira,Frente,True,17,0,0,0,21.0,19.0,Engineering,Hydraulic Technician
+1580,2014-01-17 00:00:00,Coffee Cameleon,14.57,Adra,Nubarron,True,17,0,0,0,57.0,25.0,Engineering,Geologist
+1581,2014-01-17 00:00:00,Hippokampos,52.31,Elsa,Orilla,True,17,0,0,0,31.0,28.0,Engineering,Drill Technician
+1582,2014-01-17 00:00:00,Brew've Been Served,12.3,Brand,Tempestad,True,17,0,0,0,30.0,33.0,Engineering,Drill Technician
+1583,2014-01-18 00:00:00,Kronos Mart,194.51,Lucas,Alcazar,True,18,0,0,0,51.0,1.0,Information Technology,IT Helpdesk
+1584,2014-01-18 00:00:00,Kalami Kafenion,10.48,Loreto,Bodrogi,True,18,0,0,0,48.0,15.0,Security,Site Control
+1585,2014-01-18 00:00:00,Abila Zacharo,73.25,Isande,Borrasca,True,18,0,0,0,25.0,7.0,Engineering,Drill Technician
+1586,2014-01-18 00:00:00,Roberts and Sons,239.65,Isande,Borrasca,True,18,0,0,0,65.0,7.0,Engineering,Drill Technician
+1587,2014-01-18 00:00:00,Kalami Kafenion,42.36,Ada,Campo-Corrente,True,18,0,0,0,36.0,10.0,Executive,SVP/CIO
+1588,2014-01-18 00:00:00,Kronos Mart,150.36,Ada,Campo-Corrente,True,18,0,0,0,36.0,10.0,Executive,SVP/CIO
+1589,2014-01-18 00:00:00,Guy's Gyros,31.48,Sven,Flecha,True,18,0,0,0,48.0,17.0,Information Technology,IT Technician
+1590,2014-01-18 00:00:00,Kronos Mart,87.66,Varja,Lagos,True,18,0,0,0,66.0,23.0,Security,Badging Office
+1591,2014-01-18 00:00:00,Ahaggo Museum,55.55,Elsa,Orilla,True,18,0,0,0,55.0,28.0,Engineering,Drill Technician
+1592,2014-01-18 00:00:00,Hippokampos,49.21,Elsa,Orilla,True,18,0,0,0,21.0,28.0,Engineering,Drill Technician
+1593,2014-01-18 00:00:00,Ouzeri Elian,53.36,Bertrand,Ovan,True,18,0,0,0,36.0,29.0,Facilities,Facilities Group Manager
+1594,2014-01-18 00:00:00,Katerina’s Café,14.22,Sten,Sanjorge Jr.,True,18,0,0,0,22.0,31.0,Executive,President/CEO
+1595,2014-01-19 00:00:00,Hippokampos,11.56,Axel,Calzas,True,19,0,0,0,56.0,9.0,Engineering,Drill Technician
+1596,2014-01-19 00:00:00,Guy's Gyros,23.21,Elsa,Orilla,True,19,0,0,0,21.0,28.0,Engineering,Drill Technician
+1597,2014-01-19 00:00:00,Hippokampos,45.32,Orhan,Strum,True,19,0,0,0,32.0,32.0,Executive,SVP/COO
