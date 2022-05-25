@@ -1,1 +1,91 @@
-{"data":{"layout-restorer:data":{"main":{"dock":{"type":"split-area","orientation":"horizontal","sizes":[0.24259362772498602,0.757406372275014],"children":[{"type":"tab-area","currentIndex":0,"widgets":["markdownviewer-widget:README.md"]},{"type":"tab-area","currentIndex":0,"widgets":["notebook:notebooks/Master.ipynb","notebook:notebooks/ReadIn.ipynb","notebook:notebooks/EDA.ipynb","notebook:notebooks/FurtherEDA.ipynb","notebook:notebooks/CleanUp.ipynb","notebook:notebooks/Modeling.ipynb","notebook:notebooks/ObservationsQ1.ipynb","notebook:notebooks/ObservationsQ2.ipynb","notebook:notebooks/ObservationsQ3.ipynb"]}]},"current":"markdownviewer-widget:README.md"},"down":{"size":0,"widgets":[]},"left":{"collapsed":true,"widgets":["filebrowser","running-sessions","@jupyterlab/toc:plugin","extensionmanager.main-view"]},"right":{"collapsed":true,"widgets":["jp-property-inspector","debugger-sidebar"]},"relativeSizes":[0,1,0]},"markdownviewer-widget:README.md":{"data":{"path":"README.md","factory":"Markdown Preview"}},"file-browser-filebrowser:cwd":{"path":"notebooks"},"notebook:notebooks/Master.ipynb":{"data":{"path":"notebooks/Master.ipynb","factory":"Notebook"}},"notebook:notebooks/ReadIn.ipynb":{"data":{"path":"notebooks/ReadIn.ipynb","factory":"Notebook"}},"notebook:notebooks/Modeling.ipynb":{"data":{"path":"notebooks/Modeling.ipynb","factory":"Notebook"}},"notebook:notebooks/FurtherEDA.ipynb":{"data":{"path":"notebooks/FurtherEDA.ipynb","factory":"Notebook"}},"notebook:notebooks/EDA.ipynb":{"data":{"path":"notebooks/EDA.ipynb","factory":"Notebook"}},"notebook:notebooks/CleanUp.ipynb":{"data":{"path":"notebooks/CleanUp.ipynb","factory":"Notebook"}},"notebook:notebooks/ObservationsQ1.ipynb":{"data":{"path":"notebooks/ObservationsQ1.ipynb","factory":"Notebook"}},"notebook:notebooks/ObservationsQ2.ipynb":{"data":{"path":"notebooks/ObservationsQ2.ipynb","factory":"Notebook"}},"notebook:notebooks/ObservationsQ3.ipynb":{"data":{"path":"notebooks/ObservationsQ3.ipynb","factory":"Notebook"}}},"metadata":{"id":"new-workspace","last_modified":"2022-05-25T02:07:46.055589+00:00","created":"2022-05-25T02:07:46.055589+00:00"}}
+{
+  "data": {
+    "layout-restorer:data": {
+      "main": {
+        "dock": {
+          "type": "split-area",
+          "orientation": "horizontal",
+          "sizes": [0.24259362772498602, 0.757406372275014],
+          "children": [
+            {
+              "type": "tab-area",
+              "currentIndex": 0,
+              "widgets": ["markdownviewer-widget:README.md"]
+            },
+            {
+              "type": "tab-area",
+              "currentIndex": 0,
+              "widgets": [
+                "notebook:notebooks/Master.ipynb",
+                "notebook:notebooks/ReadIn.ipynb",
+                "notebook:notebooks/EDA.ipynb",
+                "notebook:notebooks/FurtherEDA.ipynb",
+                "notebook:notebooks/CleanUp.ipynb",
+                "notebook:notebooks/Modeling.ipynb",
+                "notebook:notebooks/ObservationsQ1.ipynb",
+                "notebook:notebooks/ObservationsQ2.ipynb",
+                "notebook:notebooks/ObservationsQ3.ipynb"
+              ]
+            }
+          ]
+        },
+        "current": "notebook:notebooks/Master.ipynb"
+      },
+      "down": { "size": 0, "widgets": [] },
+      "left": {
+        "collapsed": true,
+        "widgets": [
+          "filebrowser",
+          "running-sessions",
+          "@jupyterlab/toc:plugin",
+          "extensionmanager.main-view"
+        ]
+      },
+      "right": {
+        "collapsed": true,
+        "widgets": ["jp-property-inspector", "debugger-sidebar"]
+      },
+      "relativeSizes": [0, 1, 0]
+    },
+    "markdownviewer-widget:README.md": {
+      "data": { "path": "README.md", "factory": "Markdown Preview" }
+    },
+    "notebook:notebooks/Master.ipynb": {
+      "data": { "path": "notebooks/Master.ipynb", "factory": "Notebook" }
+    },
+    "notebook:notebooks/ReadIn.ipynb": {
+      "data": { "path": "notebooks/ReadIn.ipynb", "factory": "Notebook" }
+    },
+    "notebook:notebooks/Modeling.ipynb": {
+      "data": { "path": "notebooks/Modeling.ipynb", "factory": "Notebook" }
+    },
+    "notebook:notebooks/FurtherEDA.ipynb": {
+      "data": { "path": "notebooks/FurtherEDA.ipynb", "factory": "Notebook" }
+    },
+    "notebook:notebooks/EDA.ipynb": {
+      "data": { "path": "notebooks/EDA.ipynb", "factory": "Notebook" }
+    },
+    "notebook:notebooks/CleanUp.ipynb": {
+      "data": { "path": "notebooks/CleanUp.ipynb", "factory": "Notebook" }
+    },
+    "notebook:notebooks/ObservationsQ1.ipynb": {
+      "data": {
+        "path": "notebooks/ObservationsQ1.ipynb",
+        "factory": "Notebook"
+      }
+    },
+    "notebook:notebooks/ObservationsQ2.ipynb": {
+      "data": {
+        "path": "notebooks/ObservationsQ2.ipynb",
+        "factory": "Notebook"
+      }
+    },
+    "notebook:notebooks/ObservationsQ3.ipynb": {
+      "data": {
+        "path": "notebooks/ObservationsQ3.ipynb",
+        "factory": "Notebook"
+      }
+    }
+  },
+  "metadata":  { "id": "/lab" }
+}
