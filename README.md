@@ -1,5 +1,5 @@
 <div style="text-align: right">
-    <a href= https://mybinder.org/v2/gh/cvorsanger/COMP4448Final/HEAD>
+    <a href= https://mybinder.org/v2/gh/cvorsanger/COMP4448Final/HEAD?urlpath=lab/workspaces/lab>
         <img src="https://mybinder.org/badge_logo.svg" alt="Binder Link">
     </a>
 </div>
@@ -14,7 +14,7 @@
 <br>
 <h1 style="color:red">Table of contents</h1>
 
-## [Master notebook](./notebooks/Master.ipynb)
+[Master notebook](./notebooks/Master.ipynb)
 
 1. [Reading in the Data](./notebooks/ReadIn.ipynb)<br>
 1. [Exploratory Data Analysis](./notebooks/EDA.ipynb)<br>
