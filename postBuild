@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Import Workspace
+jupyter lab workspaces import ./binder/workspace.json
