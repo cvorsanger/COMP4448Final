@@ -10,8 +10,8 @@ dependencies:
   - branca=0.5.0=pyhd8ed1ab_0
   - brotli=1.0.9=he6710b0_2
   - brotlipy=0.7.0=py39h27cfd23_1003
-  - ca-certificates=2022.4.26=h06a4308_0
-  - certifi=2022.5.18.1=py39h06a4308_0
+  - ca-certificates=2022.5.18.1=ha878542_0
+  - certifi=2022.5.18.1=py39hf3d152e_0
   - cffi=1.15.0=py39hd667e15_1
   - charset-normalizer=2.0.4=pyhd3eb1b0_0
   - cryptography=37.0.1=py39h9ce1e76_0
@@ -48,6 +48,7 @@ dependencies:
   - libwebp-base=1.2.2=h7f8727e_0
   - libxcb=1.15=h7f8727e_0
   - libxml2=2.9.12=h03d6c58_0
+  - libzlib=1.2.11=h166bdaf_1014
   - lz4-c=1.9.3=h295c915_1
   - markupsafe=2.0.1=py39h27cfd23_0
   - matplotlib=3.5.1=py39h06a4308_1
@@ -61,7 +62,7 @@ dependencies:
   - numexpr=2.8.1=py39h6abb31d_0
   - numpy=1.22.3=py39he7a7128_0
   - numpy-base=1.22.3=py39hf524024_0
-  - openssl=1.1.1o=h7f8727e_0
+  - openssl=1.1.1o=h166bdaf_0
   - packaging=21.3=pyhd3eb1b0_0
   - pandas=1.4.2=py39h295c915_0
   - pcre=8.45=h295c915_0
@@ -95,6 +96,6 @@ dependencies:
   - urllib3=1.26.9=py39h06a4308_0
   - wheel=0.37.1=pyhd3eb1b0_0
   - xz=5.2.5=h7f8727e_1
-  - zlib=1.2.11=h7b6447c_3
+  - zlib=1.2.11=h166bdaf_1014
   - zstd=1.4.9=haebb681_0
 prefix: /home/cvorsanger/miniconda3/envs/COMP4449
