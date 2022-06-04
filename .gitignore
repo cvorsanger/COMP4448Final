@@ -1,3 +1,4 @@
 *.odp
+*.odt
 .ipynb_checkpoints
 .~*
