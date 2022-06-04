@@ -5,7 +5,7 @@
         "dock": {
           "type": "split-area",
           "orientation": "horizontal",
-          "sizes": [0.24259362772498602, 0.757406372275014],
+          "sizes": [0.24259362772498608, 0.757406372275014],
           "children": [
             {
               "type": "tab-area",
@@ -50,6 +50,7 @@
     "markdownviewer-widget:README.md": {
       "data": { "path": "README.md", "factory": "Markdown Preview" }
     },
+    "file-browser-filebrowser:cwd": { "path": "notebooks" },
     "notebook:notebooks/Master.ipynb": {
       "data": { "path": "notebooks/Master.ipynb", "factory": "Notebook" }
     },
@@ -86,6 +87,10 @@
         "factory": "Notebook"
       }
     }
-  },
-  "metadata":  { "id": "/lab/workspaces/lab" }
+},
+  "metadata": {
+    "id": "workspace",
+    "last_modified": "2022-06-04T19:15:12.418485+00:00",
+    "created": "2022-06-04T19:15:12.418485+00:00"
+  }
 }
