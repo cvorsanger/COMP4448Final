@@ -1,5 +1,5 @@
 <div style="text-align: right">
-    <a href= https://mybinder.org/v2/gh/cvorsanger/COMP4449Final/HEAD?urlpath=lab/workspaces/lab>
+    <a href= https://mybinder.org/v2/gh/cvorsanger/COMP4449Final/HEAD?urlpath=lab/workspaces/workspace >
         <img src="https://mybinder.org/badge_logo.svg" alt="Binder Link">
     </a>
 </div>
@@ -31,6 +31,6 @@
 
 - The [Master notebook](./notebooks/Master.ipynb) contains an end to end analysis that is more to the point. The other notebooks are broken out into specific parts and are more in depth
 
-- For an Interactive view of the notebook go to the binder link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cvorsanger/COMP4449Final/HEAD)
+- For an Interactive view of the notebook go to the binder link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cvorsanger/COMP4449Final/HEAD?urlpath=lab/workspaces/workspace)
 
 - To run locally use the included [environment](./binder/environment.yml) to set up conda enironment with all of the dependencies
